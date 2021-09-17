@@ -1,0 +1,979 @@
+,Unnamed: 0,Nombre,Codigo,Almacenamiento,Procesador,Memoria Ram,Precio,Fecha
+0,0.0,Notebook Asus X515ma-br576t,861599001,500 Gb,Intel Celeron,4 Gb,309990,2021-09-15
+1,1.0,Notebook Reacondicionado Hp 14-dq1043c I3,851066001,256 Gb,Intel Core I3,8 Gb,399990,2021-09-15
+2,2.0,Notebook Gamer Asus Tuf Gaming Fx506lh-hn082t,861708001,512 Gb,Intel Core I5,8 Gb,769990,2021-09-15
+3,3.0,Notebook Lenovo Ideapad 3,841656001,1 Tb,Amd Athlon,8 Gb,399990,2021-09-15
+4,4.0,Notebook Asus X415ea-eb742t,861710001,512 Gb,Intel Core I7,8 Gb,769990,2021-09-15
+5,5.0,Notebook Hp 14-ck2091la,852613001,128 Gb,Intel Core I3,4 Gb,499990,2021-09-15
+6,6.0,Notebook Hp Pavilion X360 Convertible 14-dy0002la,861802001,256 Gb,Intel Pentium,4 Gb,479990,2021-09-15
+7,7.0,Notebook Asus M415da-ek844t,861709001,256 Gb,Amd Ryzen 3,4 Gb,449990,2021-09-15
+8,8.0,Notebook Gamer Lenovo Ideapad Gaming 3 15arh05,866156001, 512 Gb,Amd Ryzen 5,8 Gb,799990,2021-09-15
+9,9.0,Notebook Hp 240 G7,861805001,500 Gb,Intel Celeron,4 Gb,369990,2021-09-15
+10,10.0,Notebook Hp 240 G7,827608001,1 Tb,Intel Core I3,4 Gb,509990,2021-09-15
+11,11.0,Notebook Asus X515ea-bq968t,861707001,128 Gb,Intel Core I3,4 Gb,419990,2021-09-15
+12,12.0,Notebook Lenovo Ideapad 3 14alc6,866158001,256 Gb,Amd Ryzen 5,8 Gb,589990,2021-09-15
+13,13.0,Notebook Lenovo Ideapad S340,857116001,256 Gb,Amd Ryzen 5,8 Gb,629990,2021-09-15
+14,14.0,Notebook Hp 15-cs3153cl Reacondicionado,857135001,512 Gb,Intel Core I5,12 Gb,599990,2021-09-15
+15,15.0,Notebook Hp 348 G7,857419001,1 Tb,Intel Core I3,4 Gb,499990,2021-09-15
+16,16.0,Notebook Hp Pavilion 17-by3063st Reacondicionado,858970001,1 Tb + 128 Gb,Intel Core I3,8 Gb,459990,2021-09-15
+17,17.0,Chromebook p 14a-na0010ca Reacondicionado,857127001,64 Gb,Intel Celeron,4 Gb,239990,2021-09-15
+18,18.0,Notebook Asus L410,857105001,64 Gb,Intel Celeron,4 Gb,334990,2021-09-15
+19,19.0,Notebook Gamer Acer Nitro 5,853268001,1 Tb + 128 Gb,Intel Core I5,16 Gb,849990,2021-09-15
+20,20.0,Notebook Lenovo Yoga Slim 7,863495001,256 Gb,Amd Ryzen 5,8 Gb,719990,2021-09-15
+21,21.0,Notebook Lenovo Ideapad Flex 5,861594001,512 Gb,Intel Core I5,12 Gb,889990,2021-09-15
+22,22.0,Macbook Air,844508001,256 Gb,Apple M1,8 Gb,1049990,2021-09-15
+23,23.0,Notebook Hp Pavilion Gaming Laptop 15 Dk1028la,861686001,256 Gb,Intel Core I5,8 Gb,839990,2021-09-15
+24,24.0,Notebook Reacondicionado Hp 15-da0022ds,851065001,256 Gb,Intel Pentium,8 Gb,459990,2021-09-15
+25,25.0,Notebook Lenovo Ideapad S145-14iil,866155001,128 Gb,Intel Core I3,4 Gb,379990,2021-09-15
+26,26.0,Notebook Gamer Msi Gf63 Thin 10sc-227cl,856792001,256 Gb,Intel Core I5,8 Gb,849990,2021-09-15
+27,27.0,Notebook Asus X515ma-br288t,856210001,500 Gb,Intel Celeron,4 Gb,309990,2021-09-15
+28,28.0,Notebook Hp 15-da0022 Reacondicionado,857131001,256 Gb,Intel Pentium,8 Gb,449990,2021-09-15
+29,29.0,Notebook Hp 15-da0022 Reacondicionado,857130001,256 Gb,Intel Pentium,8 Gb,429990,2021-09-15
+30,30.0,Notebook Hp 14-ce3065st Reacondicionado,857134001,256 Gb,Intel Core I5,8 Gb,569990,2021-09-15
+31,31.0,Notebook Hp 14-fq0013dx Reacondicionado,857128001,128 Gb,Amd Athlon,4 Gb,319990,2021-09-15
+32,32.0,Notebook Gamer Acer Nitro 5 An515-55-56p2-2,857358001,512 Gb,Intel Core I5,16 Gb,899990,2021-09-15
+33,33.0,Notebook Reacondicionado Hp 14m-dw1013dx,851068001,128 Gb,Intel Core I3,8 Gb,499990,2021-09-15
+34,34.0,Notebook Dell G5 5505,857110001,256 Gb,Amd Ryzen 7,8 Gb,1249990,2021-09-15
+35,35.0,Macbook Pro,858915001,256 Gb,Apple M1,8 Gb,1349990,2021-09-15
+36,36.0,Notebook Hp Pavilion X360 Reacondicionado,858968001,256 Gb,Intel Core I5,8 Gb,589990,2021-09-15
+37,37.0,Notebook Dell 14-5406 Reacondicionado,857119001,512 Gb,Intel Core I7,8 Gb,769990,2021-09-15
+38,38.0,Notebook Lenovo Ideapad 1 14ada05,865065001,64 Gb,Amd Athlon,4 Gb,299990,2021-09-15
+39,39.0,Notebook Hp 14-dq1043c I3 Reacondicionado,857129001,256 Gb,Intel Core I3,8 Gb,439990,2021-09-15
+40,40.0,Notebook Msi Prestige 14evo A11m-250cl,856793001,512 Gb,Intel Core I5,16 Gb,999990,2021-09-15
+41,41.0,Notebook Lenovo Ideapad 3 14itl6,857972001,512 Gb,Intel Core I7,8 Gb,819990,2021-09-15
+42,42.0,Notebook Gamer Msi Gf65 Thin 10sdr-1272cl,856791001,512 Gb,Intel Core I7,16 Gb,1349990,2021-09-15
+43,43.0,Notebook Reacondicionado Dell 15-3593,851070001,128 Gb,Intel Core I3,8 Gb,489990,2021-09-15
+44,44.0,Notebook Gamer Hp Pavilion 15-dk1022la,860717001,256 Gb,Intel Core I7,8 Gb,1209990,2021-09-15
+45,45.0,Notebook Dell 15-3505 Reacondicionado,857122001,512 Gb,Amd Ryzen 7,12 Gb,739990,2021-09-15
+46,46.0,Notebook Gamer Hp 15-EC1026LA,827605001,256 Gb,Amd Ryzen 5,8 GB,996990,2021-09-15
+47,47.0,Notebook Asus Vivobook Ultra Thin,857106001,64 Gb,Intel Celeron,4 Gb,324990,2021-09-15
+48,48.0,Notebook Dell 15-3505 Reacondicionado,857123001,128 Gb,Amd Athlon,4 Gb, 429990,2021-09-15
+49,49.0,Notebook Asus X543ua-dm3470t,847348001,1 Tb,Intel Core I3,4 Gb,369990,2021-09-15
+50,50.0,Notebook Lenovo Ideapad 3,851823001,128 Gb,Intel Core I3,4 Gb,849990,2021-09-15
+51,51.0,Notebook Dell G3 3500,857108001,256 Gb,Intel Core I5,8 Gb,969990,2021-09-15
+52,52.0,Notebook Lenovo Yoga Slim 9 14itl5,847312001,1 Tb,Intel Core I7 ,16 Gb,1499990,2021-09-15
+53,53.0,Notebook Lenovo Yoga 9 14itl5,847313001,1 Tb,Intel Core I5,16 Gb,1199990,2021-09-15
+54,54.0,Notebook Lenovo Yoga Slim 7 14itl05,858765001,512 Gb,Intel Core I5,8 Gb,849990,2021-09-15
+55,55.0,Macbook Apple Pro Myda2b,864728001,256 Gb,Apple M1,8 Gb,1509990,2021-09-15
+56,56.0,Macbook Pro,861596001,256 Gb,Apple M1,8 Gb,1349990,2021-09-15
+57,57.0,Notebook Dell 15-3505 Reacondicionado,857124001,512 Gb,Intel Core I7,12 Gb,819990,2021-09-15
+58,58.0,Notebook Dell Inspiron 15 3000,857111001,128 Gb,Intel Core I3,4 Gb,449990,2021-09-15
+59,59.0,Notebook Hp 14-cf2051la,836670001,256 Gb,Intel Core I3,4 Gb,449990,2021-09-15
+60,60.0,Notebook Lenovo Ideapad 3 15itl6,866157001,256 Gb,Intel Core I3,4 Gb,449990,2021-09-15
+61,61.0,Macbook Apple Pro Myd82b,864727001,256 Gb,Apple M1,8 Gb,1349990,2021-09-15
+62,62.0,Notebook Lenovo Slim 7,843695001,512 GB,Intel Core I5,8 GB,899990,2021-09-15
+63,63.0,Notebook Dell 14-5406 Reacondicionado,857120001,512 Gb,Intel Core I3,8 Gb,769990,2021-09-15
+64,64.0,Notebook Lenovo Ideapad S145,854773001,500 Gb,Amd Athlon,4 Gb,339990,2021-09-15
+65,65.0,Macbook Air,844509001,256 Gb,Apple M1,8 Gb,1049990,2021-09-15
+66,66.0,Notebook Lenovo Ideapad S145-14ast,840418001,500 Gb,Amd A4,4 Gb,299990,2021-09-15
+67,67.0,Notebook Msi Modern 14 B10mw-258cl,867618001,256 Gb,Intel Core I5,8 Gb,909990,2021-09-15
+68,68.0,Notebook Dell G5 15 5500,857109001,256 Gb,Intel Core I7,8 Gb,1249990,2021-09-15
+69,69.0,Notebook Lenovo Ideapad S145,843715001,128 Gb,Intel Core I3,4 GB,449990,2021-09-15
+70,70.0,HP Chromebook,42710,32GB eMMC,"AMD® A4-9120, 1,6GHz hasta 2,4GHz (1M Caché L2)",4 GB (1x4GB) DDR4 2666Mhz (Máx. 32GB de Memoria RAM) X Slot,237090,2021-09-15
+71,71.0,HP 240 G7,38020,"SATA de 500 GB, 5400 rpm","Intel® Celeron® N4020, 1,1 GHz hasta 2,8 GHz (4MB caché)",4GB SDRAM DDR4-2400Mhz (1x4GB)(Máx. 8GB de Memoria RAM) 1 Slot,309290,2021-09-15
+72,72.0,Asus X515MA-BR288T,41517,"500GB SATA 5400RPM 2.5"" HDD","Intel® Celeron® N4020, 1.1GHz hasta 2.8GHz (4MB Caché)",4GB DDR4 SO-DIMM (Máx. 8GB de Memoria RAM) 1X Slot,340190,2021-09-15
+73,73.0,HP 250 G8,41940,1TB Disco duro SATA de 5400 RPM,"Intel® Core™ 3-1005G1, 1,2GHz hasta 3,4GHz (4M Caché L3)",4GB RAM DDR4-2666MHz (1x4GB)(Máx. 16GB de Memoria RAM) 2 Slot,381490,2021-09-15
+74,74.0,HP HP 348 G7,42392,HDD 1 TB 5400RPM,"Intel® Core™ i3-10110U, 2,10GHz hasta 4,10GHz (4MB Caché)",4GB DDR4 2666Mhz (Máx. 16 GB de Memoria RAM) 2 Slot,402090,2021-09-15
+75,75.0,Asus X412FA-EB1257T,40077,256GB SSD / M.2 NVMe™ PCIe® 3.0,"Intel® Pentium® Gold 5405U, frecuencia básica 2.3 GHz (2M Cache, hasta 2.3 GHz)",4GB DDR4 on board (Máx memoria RAM 4GB),412390,2021-09-15
+76,76.0,HP 240 G7,38857,SATA de 1 TB y 5400 rpm,"Intel® Core™ i3-1005G1, 1,2GHz hasta 3,4GHz (4MB caché)",4 GB de SDRAM DDR4-2666 (1x4GB) (Máx. 16GB de Memoria RAM) 2 Slot,422690,2021-09-15
+77,77.0,Asus Aspire 3 A314-22-R522-1,42823,256GB SSD PCI Express,"AMD Athlon™ 3050U, 2.30GHz hasta 3.20GHz (4MB Caché)",12GB DDR4 SDRAM 2400/2666/3200Mhz (4GB On Board + 1 Slot)(Máx. 12GB de Memoria RAM) 1 Slot,453590,2021-09-15
+78,78.0,HP 14-dq2026la,43015,Unidad de estado sólido Intel® PCIe® NVMe™ M.2 de 256 GB,"Intel® Core™ i3-1115G4, hasta 4,1GHz (6MB caché L3)",4GB RAM DDR4-3200MHz (1x 4GB) + 16GB Intel® Optane™ (Máx. 4GB de Memoria RAM) 1 Slot (Ranura no accesible para el usuario),463890,2021-09-15
+79,79.0,HP Pavilion x360,42691,SSD PCIe® NVMe™ M.2 de 256GB,"Intel® Pentium Gold 7505, hasta 3,5GHz (4MB Caché L3)",4 GB DDR4-3200MHz (1x4GB) (Máx.16 GB de Memoria RAM) X Slot,484490,2021-09-15
+80,80.0,Asus X515EA-BQ507T,41554,256GB M.2 NVMe™ PCIe® 3.0 SSD,"Intel® Core™ i3-1115G4, 3.0GHz hasta 4.1GHz (6MB Caché)",4GB DDR4 2666MHz (on board) (Máx. 12GB de Memoria RAM) 1 Slot,494890,2021-09-15
+81,81.0,HP 15-ef1018la,41355,256GB SSD PCIe® NVMe™ M.2,"AMD Ryzen™ 5 4500U, 2,3GHz hasta 4,0GHz (8MB Caché L3)",8 GB de SDRAM DDR4-2666 (1x8GB) (Máx. 16 GB de Memoria RAM) X 2 Slot,515490,2021-09-15
+82,82.0,Huawei Matebook D 15,43264,SSD N4VMe PCIe de 256GB,"Intel® Core™ i3-10110U, 2,10GHz hasta 4,10GHz (4MB Caché)",8GB DDR4 2400MHz  (Máx. 8GB de Memoria RAM) 1 Slot,546390,2021-09-15
+83,83.0,Asus Aspire 3 A314-22-R56E-1,43016,256GB SSD PCI Express,"AMD Ryzen™ 3 3250U, 2.60GHz hasta 3.50GHz (4MB Caché)",12GB (4GB On Board + 1 Slot)(Máx. 12GB de Memoria RAM) 1 Slot,549990,2021-09-15
+84,84.0,Huawei Matebook D 14,43263,SSD NVMe PCIe de 256GB,"Intel® Core™ i3-10110U, 2,10GHz hasta 4,10 GHz (4MB Caché)",8GB DDR4 2400 MHz (Máx. 8GB de Memoria RAM) ,566990,2021-09-15
+85,85.0,HP 14-dy0501la,43061,Unidad de estado sólido PCIe® NVMe™ M.2 de 256 GB,"Intel® Core™ i3-1125G4, hasta 3,70GHz (8MB caché)",8 GB de RAM DDR4-3200 MHz (2x4GB)(Máx. 16GB de Memoria RAM) 2 Slot ,659790,2021-09-15
+86,86.0,Huawei Matebook D 14,42359,SSD NVMe PCIe de 512 GB,"Intel® Core™ i5-10210U, 1,60GHz hasta 4,20GHz (6MB caché)",8GB DDR4 2400 mhz ,721690,2021-09-15
+87,87.0,HP 15-ec1026la,37289,256GB SSD PCIe®  NVMe™ M.2,"AMD Ryzen™ 5 4600H, 3.0GHz hasta 4,0 GHz (3MB caché)",8GB SDRAM DDR4 3200Mhz (Máx. 16GB de Memoria RAM) 2 Slot ,731990,2021-09-15
+88,88.0,HP 15-eh0011la,43062,Unidad de estado sólido M.2 PCIe® NVMe™ de 512 GB,"AMD Ryzen™ 7 4700U, 2,0GHz hasta 4,1GHz (8MB caché L3)",16 GB de SDRAM DDR4-3200 (2x8GB)(Máx. 16GB de Memoria RAM) 2 Slot ,804090,2021-09-15
+89,89.0,HP Pavilion Aero 13-be0501la,42281,Unidad de estado sólido M.2 PCIe® NVMe™ de 512 GB,"AMD Ryzen™ 5 5600U, 2,3 GHz hasta 4,2GHz (16MB Caché L3)",8GB RAM DDR4-3200 MHz (integrada)(Máx. GB de Memoria RAM) X Slot,814390,2021-09-15
+90,90.0,Asus D433IA-EB934R,43186,512GB M.2 NVMe™ PCIe® 3.0 SSD,"AMD Ryzen™ 7 4700U, 2.0GHz hasta 4.1GHz (8MB Caché)",16GB DDR4 2666 MHz (on board)(Máx.16 GB de Memoria RAM) X Slot,824790,2021-09-15
+91,91.0,HP 15-dk1028la,42347,256GB SSD / Unidad de estado sólido Intel,"Intel® Core™ i5-10300H, 2,5 GHz hasta 4,5GHz (8MB Caché L3)",8GB SDRAM DDR4-2933Mhz (1x8GB) + 16GB Intel Optane (Máx. 32GB de Memoria RAM) X 2 Slot,824790,2021-09-15
+92,92.0,Asus ideapad S540-13IML,42015,512GB SSD M.2 2280 PCIe 3.0x4 NVMe,"Intel® Core™ i5-10210U, 1.6GHz hasta 4.2GHz (6M Caché)",8GB Soldered DDR4-2666Mhz (Máx.16 GB de Memoria RAM) X Slot,835090,2021-09-15
+93,93.0,Asus ideapad S540-13IML,42528,512GB SSD M.2 2280 PCIe 3.0x4 NVMe,"Intel® Core™ i5-10210U, 1.6GHz hasta 4.2GHz (6M Caché)",8GB Soldered DDR4-2666Mhz (Máx.16 GB de Memoria RAM) X Slot,855690,2021-09-15
+94,94.0,Asus X571GT-BQ930T,41518,512GB M.2 NVMe™ PCIe® 3.0 SSD,"Intel® Core™ i5-9300H, 2.4GHz hasta 4.1GHz (8MB Caché)",8GB DDR4 (4GB DDR4 on board + 4GB DDR4 SO-DIMM) (Máx. 12 GB de Memoria RAM) 1Slot,855690,2021-09-15
+95,95.0,Acer Nitro 5 AN515-55-56P2-2,42048,512GB SSD PCI Express,"Intel® Core™ i5-10300H, 2.50GHz hasta 4.50GHz (8M Caché)",16GB DDR4 SODIMM 2400/2666/3200Mhz (Máx. 32GB de Memoria RAM) 2 Slot,865990,2021-09-15
+96,96.0,HP 13-ba1123la,39513,Unidad de estado sólido PCIe® NVMe™ M.2 de 256 GB ,"Intel® Core™ i5-1135G7,  hasta 4.2 GHz (8M Caché)",8GB de SDRAM DDR4-2933 (incorporada) (8GB Máx. Memoria) + Intel® Optane™ de 16GB,927790,2021-09-15
+97,97.0,Asus ROG Strix G15 G512LI-HN061T,40482,512GB SSD M.2 NVMe™ PCIe® 3.0,"Intel® Core™ i5-10300H, 2.5 GHz hasta 4.5GHz (8M Caché)",8GB DDR4 SO-DIMM 2933MHz (Máx. 32GB de Memoria RAM) 2 Slot,958790,2021-09-15
+98,98.0,Apple Macbook Air,41980,SSD de 256 GB,M1 de Apple 8 núcleos con 4 núcleos de rendimiento y 4 de eficiencia,8 GB,999990,2021-09-15
+99,99.0,Asus FX506HC-HN042T,42186,512GB M.2 NVMe™ PCIe® 3.0 SSD,"Intel® Core™ i5-11400H, 2.7GHz hasta 4.5GHz (12MB Caché)",8GB DDR4 SO-DIMM (Máx. 32GB de Memoria RAM) 2 Slot,999990,2021-09-15
+100,100.0,Apple Macbook Air,40890,SSD de 256 GB,M1 de Apple 8 núcleos con 4 núcleos de rendimiento y 4 de eficiencia,8 GB,999990,2021-09-15
+101,101.0,Apple Macbook Air,40893,SSD de 256 GB,M1 de Apple 8 núcleos con 4 núcleos de rendimiento y 4 de eficiencia,8 GB,999990,2021-09-15
+102,102.0,Lenovo Ideapad s540,40025,512GB SSD M.2 2280 PCIe 3.0x4 NVMe,"Intel Core i7-10510U, desde 1.8GHz hasta 4.9GHz",16GB DDR4 2666MHz ( Máx. RAM soportada 16GB),999990,2021-09-15
+103,103.0,Huawei Matebook X,42709,SSD NVMe PCIe de 512 GB,"Intel® Core™ i5-10210U, 1,60GHz hasta 4,20GHz (6MB Caché)",16GB LPDDR3 (Máx. 16GB de Memoria RAM) 1 Slot,1133990,2021-09-15
+104,104.0,Asus UX435EG-AI094TS,37724,512GB SSD M.2 NVMe™ PCIe®,"Intel® Core™ i5-1135G7, 2.4 GHz hasta 4.2GHz (8M Cache)",8GB LPDDR4X (on board) + 32GB de memoria Intel® Optane™(Máx. 8GB de Memoria RAM) 1 Slot,1133990,2021-09-15
+105,105.0,Asus FX516PC-HN021T,41903,512GB M.2 NVMe™ PCIe® 3.0 SSD,"Intel® Core™ i7-11370H, 3.3GHz hasta  4.8GHz (12MB Caché)",8GB DDR4 3200Mhz (on board)(Máx. 32GB de Memoria RAM) 1 Slot,1133990,2021-09-15
+106,106.0,HP OMEN 15-en0002la,40501,512GB SSD M.2 PCIe® NVMe™,"AMD Ryzen™ 7 4800H, 2,9GHz hasta 4,3GHz (4MB caché L2)",16GB SDRAM DDR4-3200Mhz (2x8GB) (Máx. 16GB de Memoria RAM) 2 Slot ,1185590,2021-09-15
+107,107.0,Huawei Mate Xpro,42708,SSD NVMe PCIe de 512 GB,"Intel® Core™ i5-1135G7, hasta 4,20GHz (8MB Caché)",16GB LPDDR4x (Máx. 16GB de Memoria RAM) 1 Slot,1237090,2021-09-15
+108,108.0,Apple Macbook Air,42014,SSD de 512 GB,M1 de Apple 8 núcleos con 4 núcleos de rendimiento y 4 de eficiencia,8 GB,1237090,2021-09-15
+109,109.0,Apple Macbook Air,40892,SSD de 512 GB,M1 de Apple 8 núcleos con 4 núcleos de rendimiento y 4 de eficiencia,8 GB,1237090,2021-09-15
+110,110.0,Apple Macbook Air,40894,SSD de 512 GB,M1 de Apple 8 núcleos con 4 núcleos de rendimiento y 4 de eficiencia,8 GB,1237090,2021-09-15
+111,111.0,Apple Macbook Pro,42282,SSD de 256 GB,M1 de Apple 8 núcleos con 4 núcleos de rendimiento y 4 de eficiencia,8 GB,1288690,2021-09-15
+112,112.0,Apple Macbook Pro,41175,SSD de 256 GB,M1 de Apple 8 núcleos con 4 núcleos de rendimiento y 4 de eficiencia,8 GB,1288690,2021-09-15
+113,113.0,Lenovo Legion 5,39613,1TB HD 5400rpm 2.5 7MM + 128GB SSD M.2 2242 NVME TLC,"Intel® Core™ i7-10750H, 2,60GHz hasta 5,00GHz (6M Cache)",16GB 2933 SODIMM (8GBx2)(Máx. 16GB de Memoria RAM) 2 Slot,1288690,2021-09-15
+114,114.0,HP 13-ba1124la,39511,512GB SSD / Unidad de estado sólido Intel® PCIe® NVMe™ M.2,"Intel® Core™ i7-1165G7,  hasta 4.7 GHz (12M Caché)",8GB SDRAM DDR4 2933Mhz + 32GB Intel® Optane™(8GB Máx. Memoria),1340190,2021-09-15
+115,115.0,Lenovo ThinkPad X13,41852,512GB SSD M.2 2280 PCIe 3.0x4 NVMe,"Intel® Core™ i5-10210U, hasta 4.2GHz (6MB Caché)",16GB DDR4-2666Mhz (Máx. 16 GB de Memoria RAM soldada) ,1349990,2021-09-15
+116,116.0,Lenovo Yoga 9 14ITL5,40625,1TB SSD M.2 NVME,"Intel® Core™ i5 -1135G7 hasta 4,20 GHz.","16GB Soldered LPDDR4x-4266(Memoria soldada al tablero del sistema, sin ranuras)",1499990,2021-09-15
+117,117.0,Asus Matebook X Pro,42706,SSD NVMe PCIe de 1TB,"Intel® Core™ i7-1165G7, 2.80GHz hasta 4.70GHz (12MB Caché)",16GB LPDDR4x ,1546390,2021-09-15
+118,118.0,"TUF Gaming F15 FX506LH-HN110T Intel Core i5 8GB RAM 512GB SSD NVIDIA GeForce GTX 1650 15.6"" 144Hz",15059525,512GB,INTEL CORE I5,8GB,799990,2021-09-15
+119,119.0,"Notebook Gamer Nitro 5 AN515-55-56P2-1 Intel Core i5 12GB RAM 512 GB SSD NVIDIA GeForce GTX 1650 15.6""",15016083,512GB,INTEL CORE I5,12GB,799990,2021-09-15
+120,120.0,"Pavilion Gaming 15-DK1044LA Intel Core i5 8GB RAM 512GB SSD NVIDIA GTX 1660Ti 15.6"" 60 Hz",15261226,512GB,INTEL CORE I5,8GB,799990,2021-09-15
+121,121.0,"Notebook Gamer Legion 5 AMD Ryzen 5 5600, 16GB RAM, 1TB SSD, 6GB NVIDIA GeForce RTX 3060, 15.6"" FHD",15160163,1TB,AMD RYZEN R5,16GB,1269990,2021-09-15
+122,122.0,"Notebook Pavilion Gaming 15-dk1037la Intel® Core i7 16GB 1TB + 128GB SSD NVIDIA GeForce GTX 1660Ti 15,6""",15224419,128GB,INTEL CORE I7,16GB,999990,2021-09-15
+123,123.0,"TUF Gaming F15 FX506LH-HN155T Intel Core i7 8GB RAM 512GB SSD NVIDIA GeForce GTX 1650 15.6""",15219714,512GB,INTEL CORE I7,8GB,969990,2021-09-15
+124,124.0,"Notebook Pavilion Gaming 15-ec1026la AMD Ryzen 5 8GB 256GB SSD PCIe 15.6""",15359794,256GB,AMD RYZEN R5,8GB,749990,2021-09-15
+125,125.0,"Notebook HP Pavilion Gaming 15-dk1028la Intel Core i5 8GB RAM 256GB SSD NVIDIA GTX 1050 15.6"" 60 Hz",15331812,256GB,INTEL CORE I5,8GB,799990,2021-09-15
+126,126.0,"ROG Strix G15 G513QM-HF276T AMD Ryzen 9 16GB RAM 512GB SSD NVIDIA GeForce RTX 3060 15.6""",15219747,512GB,AMD RYZEN 9,16GB,1559990,2021-09-15
+127,127.0,"Pavilion Gaming 15-DK1043LA Intel Core i5 8GB RAM 512GB SSD NVIDIA GTX 1650Ti 15.6"" 60 Hz",15261225,512GB,INTEL CORE I5,8GB,829990,2021-09-15
+128,128.0,"Notebook Pavilion Gaming Intel Core i5-10300H 8GB RAM + 32GB Intel Optane 512GB SSD NVIDIA GeForce GTX 1650 16.1""",14449258,512GB,INTEL CORE I5,8GB,949990,2021-09-15
+129,129.0,"HP Pavilion Gaming 15-ec1024la AMD Ryzen 7 4800H 8GB 512GB SSD PCIe 15.6""",15477982,512GB,AMD RYZEN R7,8GB,849990,2021-09-15
+130,130.0,"ROG Zephyrus G14 GA401QM-K2120T AMD Ryzen 9 16GB RAM 1TB SSD NVIDIA GeForce RTX 3060 14""",15220657,1TB,AMD RYZEN 9,16GB,1799990,2021-09-15
+131,131.0,@NTG LENO LEGION I7 8 1T+128S 1660,11235824,128GB,INTEL CORE I7,8GB,1199990,2021-09-15
+132,132.0,"Alienware NB 15 m15 R3 Intel Core i7 16GB RAM 512GB SSD NVIDIA® GeForce RTX¿ 2070 15.6""",15261223,512GB,INTEL CORE I7,16GB,1899990,2021-09-15
+133,133.0,"Notebook Gamer OMEN Intel Core i5 8GB RAM + 32GB Intel Optane 512GB SSD NVIDIA GeForce RTX 2060 15.6""",14449248,512GB,INTEL CORE I5,8GB,1099990,2021-09-15
+134,134.0,"Notebook ROG Flow X13 GV301QH-K6291T AMD Ryzen 9 16GB RAM 1TB SSD NVIDIA GeForce GTX 1650 13.3""",14954807,1TB,AMD RYZEN 9,16GB,2699990,2021-09-15
+135,135.0,"Alienware NB 15 m15 R3 Intel Core i7 16GB RAM 512GB SSD NVIDIA® GeForce RTX¿ 2060 15.6""",15261222,512GB,INTEL CORE I7,16GB,1799990,2021-09-15
+136,136.0,Notebook Legion 7i Intel Core i7-10750H 32GB RAM 1TB SSD Nvidia Geforce RTX2080 Super Max-Q 240HZ,11236440,1TB,INTEL CORE I7,32GB,2519990,2021-09-15
+137,137.0,Notebook V145-14AST A4-9125 4Gb 500Gb 14 W10H,15360016,NO APLICA,AMD A4,4GB,399990,2021-09-15
+138,138.0,"Katana GF76 11UD Intel Core i7 16GB RAM 512GB SSD NVIDIA® GeForce RTX¿ 3050 Ti 4GB 17.3"" 144 Hz",15320552,512GB,INTEL CORE I7,16GB,1399990,2021-09-15
+139,139.0,"ROG Zephyrus Duo 15 SE GX551QS-HB261T AMD Ryzen 9 32GB RAM 2TB SSD NVIDIA GeForce RTX 3080 15.6"" 120Hz",15402356,2TB,AMD RYZEN 9,32GB,3999990,2021-09-15
+140,140.0,NTG LENO LEGION I5 16 1T+128S 2060,11235697,128GB,INTEL CORE I5,16GB,1199990,2021-09-15
+141,141.0,"Notebook Pavilion Gaming 16-a0004la Intel® Core i7 12GB 512GB SSD PCIe 16""",15229611,512GB,INTEL CORE I7,12GB,1499990,2021-09-15
+142,142.0,Notebook Gamer 15-EK0008 Intel Core i7-10750H 32GB RAM + 32 Intel Optane 512GB SSD NVIDIA GeForce RTX 2070 144Hz,13781047,512GB,INTEL CORE I7,32GB,1999990,2021-09-15
+143,143.0,Pavilion Gaming Ryzen 7 8GB RAM 512GB SSD 156,15229254,512GB,AMD RYZEN R7,8GB,1099990,2021-09-15
+144,144.0,Legion Slim 7i Core i7 10 Gen 16GB 512SSD GTX1660,14984188,512GB,INTEL CORE I7,16GB,1499990,2021-09-15
+145,145.0,"Pavilion Gaming 15-dk1022la Intel® Core i7 8GB RAM + 16GB Intel® Optane 256GB SSD 15,6""",15224425,256GB,INTEL CORE I7,8GB,1099990,2021-09-15
+146,146.0,"Notebook Gamer OMEN Intel Core Intel Core i7-10750H 16GB RAM + 32GB Intel Optane 512GB SSD NVIDIA GeForce RTX 2070 15.6""",14550700,512GB,INTEL CORE I7,16GB,2099990,2021-09-15
+147,147.0,"Notebook Gamer Intel Core i7-10750H 12GB RAM 512GB SSD NVIDIA GeForce RTX 2060 16""",14624679,512GB,INTEL CORE I7,12GB,1399990,2021-09-15
+148,148.0,Notebook Aorus 15P XC i7-10870H/16GB/512GB/RTX 3070,15425611,512GB,INTEL CORE I7,16GB,2399990,2021-09-15
+149,149.0,Notebook Aero I7-10870H 8Gb 512Gb Ssd / Rtx 3060 / W10,15391949,512GB,INTEL CORE I7,8GB,2099990,2021-09-15
+150,150.0,"Notebooks Gamer AN515 AMD Ryzen R5 3550H 12GB RAM 1TB HDD + 128GB SSD GeForce® GTX 1650 15.6""",11135800,128GB,AMD RYZEN R5,12GB,749990,2021-09-15
+151,151.0,"Notebook Pavilion Gaming 15-ec1026la AMD Ryzen 5 8GB 256GB SSD NVIDIA GeForce GTX 1650 15.6""",13781046,256GB,AMD RYZEN R5,8GB,699990,2021-09-15
+152,152.0,"Notebook Gamer Nitro 5 AMD Ryzen 7 12GB RAM 1TB HDD + 128GB SSD NVIDIA GeForce GTX1650 15.6""",13766448,128GB,AMD RYZEN R7,12GB,929990,2021-09-15
+153,153.0,"Notebook Intel Core i7-9750H 16GB RAM + 32GB Intel Optane 512GB SSD NVIDIA GeForce RTX 2080 15.6""",8116897,512GB,INTEL CORE I7,16GB,1599990,2021-09-15
+154,154.0,Notebook HP Pavilion x360 Convertible 14-dy0501la,4E8P3LA,Unidad de estado sólido PCIe® NVMe™ M.2 de 256 GB,"Intel® Core™ i3-1125G4 (hasta 3,7 GHz con tecnología Intel® Turbo Boost, 8 MB de caché L3, 4 núcleos, 8 subprocesos)",8 GB de RAM DDR4-3200 MHz (2 x 4 GB),679990,2021-09-15
+155,155.0,Notebook HP Pavilion Gaming 15-dk1033la,309F1LA,Unidad de estado sólido Intel® PCIe® NVMe™ M.2 de 256 GB,"Intel® Core™ i5-10300H (frecuencia base de 2,5 GHz, hasta 4,5 GHz con tecnología Intel® Turbo Boost, 8 MB de caché L3 y 4 núcleos)",8 GB de RAM DDR4-2933 MHz (1 x 8 GB),899990,2021-09-15
+156,156.0,Notebook HP 14-dq2026la,3V8J8LA,Unidad de estado sólido Intel® PCIe® NVMe™ M.2 de 256 GB,"Intel® Core™ i3-1115G4 (hasta 4,1 GHz con tecnología Intel® Turbo Boost, 6 MB de caché L3 y 2 núcleos)",4 GB de RAM DDR4-3200 MHz (1 x 4 GB),499990,2021-09-15
+157,157.0,Notebook HP Spectre x360 Convertible 14-ea0001la,30A09LA,Unidad de estado sólido Intel® PCIe® NVMe™ M.2 de 512 GB,"Intel® Core™ i7-1165G7 (hasta 4,7 GHz con tecnología Intel® Turbo Boost, 12 MB de caché L3 y 4 núcleos)",RAM LPDDR4x-3733 MHz de 16 GB (incorporada),1799990,2021-09-15
+158,158.0,Notebook HP Pavilion x360 Convertible 14-dy0002la,3A9V1LA,Unidad de estado sólido PCIe® NVMe™ M.2 de 256 GB,"Intel® Pentium Gold 7505 (hasta 3,5 GHz con tecnología Intel® Turbo Boost, 4 MB de caché L3, 2 núcleos)",4 GB de RAM DDR4-3200 MHz (1 x 4 GB),499990,2021-09-15
+159,159.0,Notebook HP Pavilion Gaming 15-dk1043la,3Y7A8LA,Unidad de estado sólido M.2 PCIe® NVMe™ de 512 GB,"Intel® Core™ i5-10300H (frecuencia base de 2,5 GHz, hasta 4,5 GHz con tecnología Intel® Turbo Boost, 8 MB de caché L3 y 4 núcleos)",8 GB de RAM DDR4-2933 MHz (1 x 8 GB),949990,2021-09-15
+160,160.0,Notebook HP Pavilion Gaming 15-dk1037la,309F7LA,Unidad de estado sólido M.2 PCIe® NVMe™ de 128 GB,"Intel® Core™ i7-10750H (frecuencia base de 2,6 GHz, hasta 5,0 GHz con tecnología Intel® Turbo Boost, 12 MB de caché L3 y 6 núcleos)",16 GB de RAM DDR4-2933 MHz (1 x 16 GB),1119990,2021-09-15
+161,161.0,Notebook HP 240 G7,1D0F5LT,"SATA de 500 GB, 5400 rpm","Intel® Celeron® N4020 con gráficos Intel® UHD 600 (frecuencia base de 1,1 GHz, frecuencia de ráfaga de hasta 2,8 GHz, 4 MB de caché y 2 núcleos)",4 GB de RAM DDR4-2400 MHz (1 x 4 GB),299990,2021-09-15
+162,162.0,Notebook HP Pavilion 13-bb0004la,310D8LA,Unidad de estado sólido PCIe® NVMe™ M.2 de 256 GB,"Intel® Core™ i7-1165G7 (hasta 4,7 GHz con tecnología Intel® Turbo Boost, 12 MB de caché L3 y 4 núcleos)",8 GB de RAM DDR4-3200 MHz (integrada),Precio no especificado,2021-09-15
+163,163.0,Notebook HP 348 G7,2E4U1LT,Disco duro SATA de 1 TB y 5400 RPM,"Intel® Core™ i3-10110U (frecuencia base de 2,1 GHz, hasta 4,1 GHz con tecnología Intel® Turbo Boost, 4 MB de caché L3 y 2 núcleos)",4 GB de RAM DDR4-2666 MHz (1 x 4 GB),Precio no especificado,2021-09-15
+164,164.0,Notebook HP ZBook Firefly G8,3C9C7LA,Unidad de estado sólido PCIe® NVMe™ TLC M.2 de 512 GB,"Intel® Core™ i7-1165G7 (hasta 4,7 GHz con tecnología Intel® Turbo Boost, 12 MB de caché L3 y 4 núcleos)",16 GB de RAM DDR4-3200 MHz (1 x 16 GB),Precio no especificado,2021-09-15
+165,165.0,Notebook HP 15-ef1015la,310J5LA,Unidad de estado sólido PCIe® NVMe™ M.2 de 256 GB,"AMD Ryzen™ 3 4300U (velocidad base de 2,7 GHz, velocidad de ráfaga máxima de hasta 3,7 GHz, 4 MB de caché L3 y 4 núcleos)",4 GB de RAM DDR4-2666 MHz (1 x 4 GB),Precio no especificado,2021-09-15
+166,166.0,Notebook OMEN 15-ek0062la,1M1L9LA,Unidad de estado sólido Intel® de 512 GB,"Intel® Core™ i7-10750H (frecuencia base de 2,6 GHz, hasta 5,0 GHz con tecnología Intel® Turbo Boost, 12 MB de caché L3 y 6 núcleos)",8 GB de SDRAM DDR4-2933 (1 x 8 GB),Precio no especificado,2021-09-15
+167,167.0,Notebook HP Pavilion Gaming - 15-dk1028la,10G81LA,Unidad de estado sólido Intel® de 256 GB,"Intel® Core™ i5-10300H (frecuencia base de 2,5 GHz, hasta 4,5 GHz con tecnología Intel® Turbo Boost, 8 MB de caché L3 y 4 núcleos)",8 GB de SDRAM DDR4-2933 (1 x 8 GB),Precio no especificado,2021-09-15
+168,168.0,Notebook HP 14-cf2053la,299P9LA,Unidad de estado sólido M.2 PCIe® NVMe™ de 512 GB,"Intel® Core™ i3-10110U (frecuencia base de 2,1 GHz, hasta 4,1 GHz con tecnología Intel® Turbo Boost, 4 MB de caché L3 y 2 núcleos)",8 GB de RAM DDR4-2666 MHz (1 x 8 GB),Precio no especificado,2021-09-15
+169,169.0,Notebook HP 15-da2031la,2M6J3LA,Disco duro SATA de 1 TB y 5400 RPM,"Intel® Core™ i5-10210U (frecuencia base de 1,6 GHz, hasta 4,2 GHz con tecnología Intel® Turbo Boost, 6 MB de caché L3 y 4 núcleos)",4 GB de RAM DDR4-2666 MHz (1 x 4 GB),Precio no especificado,2021-09-15
+170,170.0,Notebook HP EliteBook x360 1040 G6,8GF48LT,SSD M.2 PCIe® NVMe™ de 512 GB,"Intel® Core™ i5-8265U con gráficos Intel® UHD 620 (frecuencia base de 1,6 GHz, hasta 3,9 GHz con tecnología Intel® Turbo Boost, 6 MB de caché y 4 núcleos)",RAM DDR4-2666 MHz de 8 GB (integrada),Precio no especificado,2021-09-15
+171,171.0,Notebook HP ZBook Firefly 14 G7,30C56LA,Unidad de estado sólido PCIe® NVMe™ TLC M.2 de 512 GB,"Intel® Core™ i7-10510U (frecuencia base de 1,8 GHz, hasta 4,9 GHz con tecnología Intel® Turbo Boost, 8 MB de caché L3 y 4 núcleos)",RAM DDR4-2666 MHz de 16 GB (incorporada),Precio no especificado,2021-09-15
+172,172.0,Notebook HP ZBook Firefly 14 G7,30C55LA,Unidad de estado sólido PCIe® NVMe™ TLC M.2 de 512 GB,"Intel® Core™ i5-10210U (frecuencia base de 1,6 GHz, hasta 4,2 GHz con tecnología Intel® Turbo Boost, 6 MB de caché L3 y 4 núcleos)",16 GB de RAM DDR4-2666 MHz (1 x 16 GB),Precio no especificado,2021-09-15
+173,173.0,Notebook HP 250 G8,2P5L7LT,Disco duro SATA de 1 TB y 5400 RPM,"Intel® Core™ i3-1005G1 (frecuencia base de 1,2 GHz, hasta 3,4 GHz con tecnología Intel® Turbo Boost, 4 MB de caché L3 y 2 núcleos)",4 GB de RAM DDR4-2666 MHz (1 x 4 GB),Precio no especificado,2021-09-15
+174,174.0,Notebook HP 14-ck2096la,2C3C5LA,Disco duro SATA de 500 GB y 5400 rpm,"Intel® Celeron® N4020 (frecuencia base de 1,1 GHz, frecuencia de ráfaga de hasta 2,8 GHz, 4 MB de caché L2 y 2 núcleos)",4 GB de RAM DDR4-2400 MHz (1 x 4 GB),Precio no especificado,2021-09-15
+175,175.0,Notebook HP 15-dw2039la,1A6E9LA,Disco duro SATA de 1 TB y 5400 RPM,"Intel® Core™ i7-1065G7 (frecuencia base de 1,3 GHz, hasta 3,9 GHz con tecnología Intel® Turbo Boost, 8 MB de caché, 4 núcleos)",8 GB de SDRAM DDR4-2666 (1 x 8 GB),Precio no especificado,2021-09-15
+176,176.0,Notebook HP 15-dy1064la,6QW58LA,Unidad de estado sólido Intel® de 256 GB,"Intel® Core™ i5-1035G1 (frecuencia base de 1,0 GHz, hasta 3,6 GHz con tecnología Intel® Turbo Boost, 6 MB de caché, 4 núcleos)",SDRAM DDR4-2666 de 8 GB (1 x 8 GB),Precio no especificado,2021-09-15
+177,177.0,Notebook HP Pavilion x360 Convertible 15-dq1003la,2B129LA,Unidad de estado sólido M.2 de 128 GB,"Intel® Core™ i5-10210U (frecuencia base de 1,6 GHz, base de hasta 4,2 GHz con tecnología Intel® Turbo Boost, 6 MB de caché y 4 núcleos)",8 GB de SDRAM DDR4-2666 (1 x 8 GB),Precio no especificado,2021-09-15
+178,178.0,Notebook HP 14-ck2091la,275K1LA,Unidad de estado sólido SATA M.2 de 128 GB,"Intel® Core™ i3-10110U (frecuencia base de 2,1 GHz, hasta 4,1 GHz con tecnología Intel® Turbo Boost, 4 MB de caché L3 y 2 núcleos)",4 GB de RAM DDR4-2666 MHz (1 x 4 GB),Precio no especificado,2021-09-15
+179,179.0,Notebook HP ENVY 13-ba1124la,2K6V7LA,Unidad de estado sólido Intel® PCIe® NVMe™ M.2 de 512 GB,Procesador no especificado,RAM DDR4-2666 MHz de 8 GB (integrada),Precio no especificado,2021-09-15
+180,180.0,Notebook HP 348 G7,2Q0D2LT,Disco duro SATA de 1 TB y 5400 RPM,"Intel® Core™ i5-10210U (frecuencia base de 1,6 GHz, hasta 4,2 GHz con tecnología Intel® Turbo Boost, 6 MB de caché L3 y 4 núcleos)",4 GB de RAM DDR4-2666 MHz (1 x 4 GB),Precio no especificado,2021-09-15
+181,181.0,Notebook HP ZBook Power G7,2S4Y8LA,Unidad de estado sólido PCIe® NVMe™ TLC M.2 de 1 TB,"Intel® Core™ i9-10885H (frecuencia base de 2,4 GHz, hasta 5,3 GHz con tecnología Intel® Turbo Boost, 16 MB de caché L3 y 8 núcleos)",16 GB de RAM DDR4-3200 MHz (1 x 16 GB),Precio no especificado,2021-09-15
+182,182.0,Notebook HP Pavilion x360 Convertible 14-dh1032la,275K7LA,Unidad de estado sólido PCIe® NVMe™ M.2 de 256 GB,"Intel® Core™ i3-10110U (frecuencia base de 2,1 GHz, hasta 4,1 GHz con tecnología Intel® Turbo Boost, 4 MB de caché L3 y 2 núcleos)",4 GB de RAM DDR4-2666 MHz (1 x 4 GB),Precio no especificado,2021-09-15
+183,183.0,Notebook HP 15-da2034la,2M6M1LA,Disco duro SATA de 1 TB y 5400 RPM,"Intel® Pentium® Gold 6405U (frecuencia base de 2,4 GHz, 2 MB de caché L3, 2 núcleos)",8 GB de RAM DDR4-2666 MHz (1 x 8 GB),Precio no especificado,2021-09-15
+184,184.0,Notebook HP 14-cf3028la,171V1LA,Disco duro SATA de 1 TB y 5400 RPM,"Intel® Core™ i5-1035G1 (frecuencia base de 1,0 GHz, hasta 3,6 GHz con tecnología Intel® Turbo Boost, 6 MB de caché L3 y 4 núcleos)",4 GB de SDRAM DDR4-2666 (1 x 4 GB),Precio no especificado,2021-09-15
+185,185.0,Notebook HP 14-cf2087la,310H3LA,Unidad de estado sólido SATA M.2 de 128 GB,"Intel® Celeron® N4020 (frecuencia base de 1,1 GHz, frecuencia de ráfaga de hasta 2,8 GHz, 4 MB de caché L2 y 2 núcleos)",4 GB de RAM DDR4-2400 MHz (1 x 4 GB),Precio no especificado,2021-09-15
+186,186.0,Notebook HP Pavilion x360 Convertible 14-dw0005la,8VV69LA,Unidad de estado sólido M.2 PCIe® NVMe™ de 512 GB,"Intel® Core™ i7-1065G7 (frecuencia base de 1,3 GHz, hasta 3,9 GHz con tecnología Intel® Turbo Boost, 8 MB de caché L3 y 4 núcleos)",8 GB de SDRAM DDR4-3200 (1 x 8 GB),Precio no especificado,2021-09-15
+187,187.0,Notebook HP Pavilion 14-dv0001la,30A61LA,Unidad de estado sólido Intel® PCIe® NVMe™ M.2 de 512 GB,"Intel® Core™ i5-1135G7 (hasta 4,2 GHz con tecnología Intel® Turbo Boost, 8 MB de caché L3 y 4 núcleos)",8 GB de RAM DDR4-3200 MHz (2 x 4 GB),Precio no especificado,2021-09-15
+188,188.0,Notebook HP ENVY 13-ba1123la,2K6T1LA,Unidad de estado sólido PCIe® NVMe™ M.2 de 256 GB,"Intel® Core™ i5-1135G7 (hasta 4,2 GHz con tecnología Intel® Turbo Boost, 8 MB de caché L3 y 4 núcleos)",RAM DDR4-2666 MHz de 8 GB (integrada),Precio no especificado,2021-09-15
+189,189.0,Notebook HP 14-dq1016la,9UV94LA,Unidad de estado sólido PCIe® NVMe™ M.2 de 256 GB,"Intel® Core™ i3-1005G1 (frecuencia base de 1,2 GHz, hasta 3,4 GHz con tecnología Intel® Turbo Boost, 4 MB de caché, 2 núcleos)","12 GB de SDRAM DDR4-2666 (1 x 4 GB, 1 x 8 GB)",Precio no especificado,2021-09-15
+190,190.0,Notebook HP 15-dw2043la,9UV60LA,Unidad de estado sólido PCIe® NVMe™ M.2 de 256 GB,"Intel® Core™ i5-1035G1 (frecuencia base de 1,0 GHz, hasta 3,6 GHz con tecnología Intel® Turbo Boost, 6 MB de caché, 4 núcleos)",8 GB de SDRAM DDR4-2666 (1 x 8 GB),Precio no especificado,2021-09-15
+191,191.0,Notebook HP Pavilion 14-dv0005la,310G1LA,Unidad de estado sólido Intel® de 256 GB,"Intel® Core™ i5-1135G7 (hasta 4,2 GHz con tecnología Intel® Turbo Boost, 8 MB de caché L3 y 4 núcleos)",8 GB de RAM DDR4-3200 MHz (1 x 8 GB),Precio no especificado,2021-09-15
+192,192.0,Notebook HP Pavilion 14-dv0002la,309B1LA,Unidad de estado sólido (SSD) PCIe® NVMe™ M.2 de 1 TB,"Intel® Core™ i7-1165G7 (hasta 4,7 GHz con tecnología Intel® Turbo Boost, 12 MB de caché L3 y 4 núcleos)",16 GB de RAM DDR4-3200 MHz (1 x 16 GB),Precio no especificado,2021-09-15
+193,193.0,Notebook HP 240 G7,151D7LT,SATA de 1 TB y 5400 rpm,"Intel® Core™ i3-1005G1 (frecuencia base de 1,2 GHz, hasta 3,4 GHz con tecnología Intel® Turbo Boost, 4 MB de caché L3 y 2 núcleos)",4 GB de RAM DDR4-2666 MHz (1 x 4 GB),Precio no especificado,2021-09-15
+194,194.0,Notebook HP 15-dw1064la,2A4R3LA,Unidad de estado sólido SATA 3 TLC M.2 de 128 GB,"Intel® Core™ i7-10510U (frecuencia base de 1,8 GHz, hasta 4,9 GHz con tecnología Intel® Turbo Boost, 8 MB de caché L3 y 4 núcleos)","12 GB de RAM DDR4-2666 MHz (1 x 4 GB, 1 x 8 GB)",Precio no especificado,2021-09-15
+195,195.0,Notebook HP 14-cf2052la,299P8LA,Unidad de estado sólido PCIe® NVMe™ M.2 de 256 GB,"Intel® Core™ i3-10110U (frecuencia base de 2,1 GHz, hasta 4,1 GHz con tecnología Intel® Turbo Boost, 4 MB de caché L3 y 2 núcleos)",8 GB de RAM DDR4-2666 MHz (1 x 8 GB),Precio no especificado,2021-09-15
+196,196.0,Notebook HP 15-da1093la,18K56LA,Unidad de estado sólido M.2 de 256 GB,"Intel® Pentium® Gold 5405U (frecuencia base de 2,3 GHz, 2 MB de caché y 2 núcleos)",RAM DDR4-2133 MHz de 8 GB (1 x 8 GB),Precio no especificado,2021-09-15
+197,197.0,Notebook HP Pavilion Gaming 16-a0004la,190G0LA,Unidad de estado sólido M.2 PCIe® NVMe™ de 512 GB,"Intel® Core™ i7-10750H (frecuencia base de 2,6 GHz, hasta 5,0 GHz con tecnología Intel® Turbo Boost, 12 MB de caché L3 y 6 núcleos)","12 GB de SDRAM DDR4-2933 (1 x 4 GB, 1 x 8 GB)",Precio no especificado,2021-09-15
+198,198.0,Notebook HP 14-cf2051la,299P5LA,Unidad de estado sólido Intel® PCIe® NVMe™ M.2 de 256 GB,"Intel® Core™ i3-10110U (frecuencia base de 2,1 GHz, hasta 4,1 GHz con tecnología Intel® Turbo Boost, 4 MB de caché L3 y 2 núcleos)",4 GB de RAM DDR4-2666 MHz (1 x 4 GB),Precio no especificado,2021-09-15
+199,199.0,Notebook HP Pavilion x360 Convertible 14-dw0002la,8VV66LA,Unidad de estado sólido Intel® de 256 GB,"Intel® Core™ i5-1035G1 (frecuencia base de 1,0 GHz, hasta 3,6 GHz con tecnología Intel® Turbo Boost, 6 MB de caché L3 y 4 núcleos)",8 GB de SDRAM DDR4-3200 (1 x 8 GB),Precio no especificado,2021-09-15
+200,200.0,Notebook HP 15-dw1051la,2A4P8LA,Unidad de estado sólido PCIe® NVMe™ M.2 de 256 GB,"Intel® Core™ i5-10210U (frecuencia base de 1,6 GHz, hasta 4,2 GHz con tecnología Intel® Turbo Boost, 6 MB de caché L3 y 4 núcleos)",8 GB de RAM DDR4-2666 MHz (1 x 8 GB),Precio no especificado,2021-09-15
+201,201.0,Notebook HP 15-da1094la,18K57LA,Disco duro SATA de 500 GB y 5400 rpm,"Intel® Pentium® Gold 5405U (frecuencia base de 2,3 GHz, 2 MB de caché y 2 núcleos)",4 GB de RAM DDR4-2133 MHz (1 x 4 GB),Precio no especificado,2021-09-15
+202,202.0,Notebook HP 15-da0083la,9UV28LA,Disco duro SATA de 1 TB y 5400 RPM,"Intel® Pentium® Silver N5000 (frecuencia base de 1,1 GHz, frecuencia de ráfaga de hasta 2,7 GHz, 4 MB de caché L2 y 4 núcleos)",8 GB de RAM DDR4-2400 MHz (1 x 8 GB),Precio no especificado,2021-09-15
+203,203.0,Notebook HP 240 G7,151D9LT,SATA de 1 TB y 5400 rpm,"Procesador Intel® Core™ i5-1035G1 con gráficos Intel® UHD (frecuencia base de 1 GHz, hasta 3,6 GHz con tecnología Intel® Turbo Boost, 6 MB de caché y 4 núcleos)",4 GB de RAM DDR4-2666 MHz (1 x 4 GB),Precio no especificado,2021-09-15
+204,204.0,Notebook HP Pavilion 13-an1016la,2B111LA,Unidad de estado sólido PCIe® NVMe™ M.2 de 256 GB,"Intel® Core™ i7-1065G7 (frecuencia base de 1,3 GHz, hasta 3,9 GHz con tecnología Intel® Turbo Boost, 8 MB de caché L3 y 4 núcleos)",8 GB de RAM DDR4-2400 MHz (integrada),Precio no especificado,2021-09-15
+205,205.0,Notebook HP 240 G7 (27R70LT),27R70LT,Disco duro SATA de 500 GB y 5400 rpm,"Intel® Celeron® N4100 con gráficos Intel® UHD 600 (frecuencia base de 1,1 GHz, frecuencia de ráfaga de hasta 2,4 GHz, 4 MB de caché y 4 núcleos)",4 GB de SDRAM DDR4-2400 (1 x 4 GB),Precio no especificado,2021-09-15
+206,206.0,Notebook HP 240 G7,151D5LT,SATA de 1 TB y 5400 rpm,"Intel® Core™ i3-1005G1 (frecuencia base de 1,2 GHz, hasta 3,4 GHz con tecnología Intel® Turbo Boost, 4 MB de caché L3 y 2 núcleos)",4 GB de RAM DDR4-2666 MHz (1 x 4 GB),Precio no especificado,2021-09-15
+207,207.0,Notebook HP Pavilion Gaming 16-a0001la,165G0LA,Unidad de estado sólido Intel® de 512 GB,"Intel® Core™ i5-10300H (frecuencia base de 2,5 GHz, hasta 4,5 GHz con tecnología Intel® Turbo Boost, 8 MB de caché L3 y 4 núcleos)",8 GB de SDRAM DDR4-2933 (1 x 8 GB),Precio no especificado,2021-09-15
+208,208.0,Notebook OMEN 15-ek0010la,15F21LA,Unidad de estado sólido Intel® de 512 GB,"Intel® Core™ i5-10300H (frecuencia base de 2,5 GHz, hasta 4,5 GHz con tecnología Intel® Turbo Boost, 8 MB de caché L3 y 4 núcleos)",8 GB de SDRAM DDR4-2933 (1 x 8 GB),Precio no especificado,2021-09-15
+209,209.0,Notebook HP 250 G7,153B5LT,SATA de 1 TB y 5400 rpm,"Procesador Intel® Core™ i3-1005G1 con gráficos Intel® UHD (frecuencia base de 1,2 GHz, hasta 3,4 GHz con tecnología Intel® Turbo Boost, 4 MB de caché y 2 núcleos)",4 GB de RAM DDR4-2666 MHz (1 x 4 GB),Precio no especificado,2021-09-15
+210,210.0,Notebook HP ENVY 15-ep0002la,2B132LA,Unidad de estado sólido Intel® de 512 GB,"Intel® Core™ i7-10750H (frecuencia base de 2,6 GHz, hasta 5,0 GHz con tecnología Intel® Turbo Boost, 12 MB de caché L3 y 6 núcleos)",16 GB de SDRAM DDR4-2933 (2 x 8 GB),Precio no especificado,2021-09-15
+211,211.0,Notebook HP ENVY 15-ep0001la,2B131LA,Unidad de estado sólido Intel® de 512 GB,"Intel® Core™ i7-10750H (frecuencia base de 2,6 GHz, hasta 5,0 GHz con tecnología Intel® Turbo Boost, 12 MB de caché L3 y 6 núcleos)",16 GB de SDRAM DDR4-2933 (2 x 8 GB),Precio no especificado,2021-09-15
+212,212.0,Notebook HP Spectre x360 Convertible 13-aw0004la,6QW79LA,Unidad de estado sólido Intel® de 512 GB,"Intel® Core™ i7-1065G7 (frecuencia base de 1,3 GHz, hasta 3,9 GHz con tecnología Intel® Turbo Boost, 8 MB de caché, 4 núcleos)",16 GB de SDRAM LPDDR4-3200 (incorporada),Precio no especificado,2021-09-15
+213,213.0,Notebook HP 240 G7 (151F0LT),151F0LT,SATA de 1 TB y 5400 rpm,"Procesador Intel® Core™ i5-1035G1 con gráficos Intel® UHD (frecuencia base de 1 GHz, hasta 3,6 GHz con tecnología Intel® Turbo Boost, 6 MB de caché y 4 núcleos)",4 GB de RAM DDR4-2666 MHz (1 x 4 GB),Precio no especificado,2021-09-15
+214,214.0,"ASUS E410MA-EK1016T / INTEL® CELERON® / 4GB RAM / 64GB EMMC / INTEL UHD GRAPHICS 600 / 14"" FHD",2000385400387,64 GB eMMC,Intel Celeron,4 GB,279990,2021-09-15
+215,215.0,LENOVO IDEAPAD FLEX 5 / AMD RYZEN™ 5 / 8GB RAM / 256GB SSD / AMD RADEON GRAPHICS / 14'' FHD,2000386293094,256 GB SSD,AMD Ryzen™ 5,8 GB,669990,2021-09-15
+216,216.0,HP LAPTOP 14-DQ2026LA / INTEL® CORE™ I3 / 20GB MEMORIA (16GB INTEL OPTANE+4GB RAM) / 256GB SSD / INTEL UHD GRAPHICS /14'' FHD,2000385847632,256 GB SSD,Intel Core i3,4 GB,459990,2021-09-15
+217,217.0,"HP PAVILION GAMING LAPTOP 15-EC1026LA / AMD RYZEN™ 5 / 8GB RAM / 256GB SSD / NVIDIA GEFORCE GTX 1650 / 15.6""",2000379735440,256 GB SSD,AMD Ryzen™ 5,8 GB,699990,2021-09-15
+218,218.0,"ASUS LAPTOP E410MA-EK746T / INTEL® CELERON® / 4GB RAM / 64GB EMMC / INTEL UHD GRAPHICS 600 / 14"" FHD",2000385135562,64 GB eMMC,Intel Celeron,4 GB,279990,2021-09-15
+219,219.0,"ASUS ZENBOOK 14 UM425 / AMD RYZEN™ 7 / 8GB RAM / 512GB SSD / AMD RADEON 7 / 14"" FHD",2000385400394,512 GB SSD,AMD Ryzen™ 7,8 GB,749990,2021-09-15
+220,220.0,"ASUS TUF GAMING F15 FX506LH / INTEL® CORE™ I5 / 8GB RAM / 512GB SSD / NVIDIA GEFORCE GTX 1650 / 15.6"" FHD",2000385135579,512 GB SSD,Intel Core i5,8 GB,799990,2021-09-15
+221,221.0,"HP LAPTOP 15-EF1018LA / AMD RYZEN™ 5 / 8GB RAM / 256GB SSD / AMD RADEON GRAPHICS / 15.6""",2000383107424,256 GB SSD,AMD Ryzen™ 5,8 GB,529990,2021-09-15
+222,222.0,"HP PAVILION GAMING LAPTOP 15-EC1024LA / AMD RYZEN™ 7 / 8GB RAM / 512GB SSD / NVIDIA GEFORCE GTX 1650 / 15.6"" FHD",2000381137980,512 GB SSD,AMD Ryzen™ 7,8 GB,849990,2021-09-15
+223,223.0,HP 348 G7 / INTEL® CORE™ I5 / 8GB RAM / 256GB SSD / 14'',2000385887492,256 GB SSD,Intel Core i5,8 GB,579990,2021-09-15
+224,224.0,"ACER NITRO 5 / INTEL® CORE™ I5 / 16GB RAM / 512GB SSD / NVIDIA GEFORCE GTX 1650 / 15.6"" FHD",2000383871721,512 GB SSD,Intel Core i5,16 GB,859990,2021-09-15
+225,225.0,ACER C733 / INTEL® CELERON® / 4GB RAM / 32GB EMMC / INTEL UHD GRAPHICS / 11.6'',2000385850595,32 GB EMMC,Intel Celeron,4 GB,209990,2021-09-15
+226,226.0,LENOVO LEGION 5 / AMD RYZEN™ 5 / 8GB RAM / 512GB SSD / NVIDIA GEFORCE RTX 3060 / 15.6'' FHD,2000385918295,512 GB SSD,AMD Ryzen™ 5,8 GB,1199990,2021-09-15
+227,227.0,ASUS TUF GAMING A15 FA506Q / AMD RYZEN™ 7 / 16GB RAM / 512GB SSD / NVIDIA GEFORCE RTX 3060 / 15.6'' FHD,2000383797526,512 GB SSD,AMD Ryzen™ 7,16 GB,1249990,2021-09-15
+228,228.0,"MACBOOK AIR M1 / GPU 7C / 8GB RAM / 256GB SSD / 13.3""",2000383032436,256 GB SSD,Procesador no especificado,8 GB,979990,2021-09-15
+229,229.0,"ASUS ZENBOOK 14 UM425UA-AM227T / AMD RYZEN™ 7 / 8GB RAM / 512GB SSD / AMD RADEON R7 GRAPHICS / 14"" FHD",2000385050117,512 GB SSD,AMD Ryzen™ 7,8 GB,749990,2021-09-15
+230,230.0,ASUS X515EA-BQ968T / INTEL® CORE™ I3 / 4GB RAM / 128GB SSD / INTEL UHD GRAPHICS / 15.6'' FHD,2000385588825,128 GB SSD,Intel Core i3,4 GB,409990,2021-09-15
+231,231.0,HONOR MAGICBOX / INTEL® CORE™ I5 / 8GB RAM / 512GB SSD / 14'',2000385989066,512 GB SSD,Intel Core i5,8 GB,699990,2021-09-15
+232,232.0,"LENOVO YOGA C740 / INTEL® CORE™ I5 / 8GB RAM / 256GB SSD / 15.6"" FHD",2000385146407,256 GB SSD,Intel Core i5,8 GB,689990,2021-09-15
+233,233.0,LENOVO YOGA SLIM 9I / INTEL® CORE™ I7 / 16GB RAM / 1TB SSD / INTEL IRIS XE / 14” 4K,2000382285017,1 TB SSD,Intel Core i7,16 GB,1449990,2021-09-15
+234,234.0,"HP PAVILION GAMING LAPTOP 15-DK1044LA / INTEL® CORE™ I5 / 8GB RAM / 512GB SSD / NVIDIA GEFORCE GTX 1660 TI / 15.6"" FHD",2000383803388,512 GB SSD,Intel Core i5,8 GB,799990,2021-09-15
+235,235.0,"LENOVO LEGION 5 / AMD RYZEN™ 5 / 8GB RAM / 512GB SSD / NVIDIA GEFORCE GTX 1650 / 15.6""",2000380705449,512 GB SSD,AMD Ryzen™ 5,8 GB,829990,2021-09-15
+236,236.0,"LENOVO IDEAPAD S540 / INTEL® CORE™ I5 / 8GB RAM / 512GB SSD / 13.3"" QHD",2000382321111,512 GB SSD,Intel Core i5,8 GB,769990,2021-09-15
+237,237.0,DELL INSPIRON 15 3505 / AMD RYZEN™ 7 / 8GB RAM / 512GB SSD / AMD RADEON RX VEGA 10 / 15.6” FHD,2000381884198,512 GB SSD,AMD Ryzen™ 7,8 GB,699990,2021-09-15
+238,238.0,"ASUS ROG ZEPHYRUS G14 GA401QC / AMD RYZEN™ 7 / 16GB RAM / 512GB SSD / NVIDIA® GEFORCE RTX™ 3050 / 14"" FHD",2000384495025,512 GB SSD,AMD Ryzen™ 7,16 GB,1149990,2021-09-15
+239,239.0,"HP PAVILION LAPTOP 13-BB0004LA / INTEL® CORE™ I7 / 8GB RAM / 256GB SSD / INTEL IRIS XE / 13.3"" FHD",2000385161783,256 GB SSD,Intel Core i7,8 GB,799990,2021-09-15
+240,240.0,"ACER ASPIRE 3 / AMD ATHLON™ / 12GB RAM / 256GB SSD / AMD RADEON GRAPHICS / 14"" FHD",2000385401100,256 GB SSD,AMD Athlon,12 GB,449990,2021-09-15
+241,241.0,"HP 348 G7 / INTEL® CORE™ I3 / 4GB RAM / 1TB / INTEL UHD GRAPHICS / 14""",2000384496824,1 TB,Intel Core i3,4 GB,399990,2021-09-15
+242,242.0,"HP CHROMEBOOK 11A G8 EE / AMD A4 / 4GB RAM / 32GB EMMC / AMD RADEON R4 / 11.6""",2000385160687,32 GB EMMC,AMD Serie A,4 GB,229990,2021-09-15
+243,243.0,HP LAPTOP 14-CF2051LA / INTEL® CORE™ I3 / 20GB MEMORIA (16GB INTEL OPTANE + 4GB RAM) / 256GB SSD / INTEL UHD GRAPHICS / 14'',2000385777335,256 GB SSD,Intel Core i3,4 GB,549990,2021-09-15
+244,244.0,LENOVO IDEAPAD 5 PRO / AMD RYZEN™ 7 / 16GB RAM / 1TB SSD / NVIDIA GEFORCE GTX 1650 / 16'' WQXGA,2000385925286,1 TB SSD,AMD Ryzen™ 7,16 GB,1099990,2021-09-15
+245,245.0,LENOVO YOGA 9I / INTEL® CORE™ I5 / 16GB RAM / 1TB SSD / INTEL IRIS XE / 14” 4K,2000382285000,1 TB SSD,Intel Core i5,16 GB,1199990,2021-09-15
+246,246.0,"ASUS X415EA / INTEL® CORE™ I7 / 8GB RAM / 512GB SSD / INTEL UHD GRAPHICS / 14"" FHD",2000382093698,512 GB SSD,Intel Core i7,8 GB,719990,2021-09-15
+247,247.0,"ACER SPIN 3 / INTEL® CORE™ I5 / 8GB RAM / 256GB SSD / INTEL IRIS XE / 13.3""",2000384580967,256 GB SSD,Intel Core i5,8 GB,819990,2021-09-15
+248,248.0,"ACER ASPIRE 5 / INTEL® CORE™ I3 / 12GB RAM / 512GB SSD / INTEL UHD GRAPHICS / 15.6"" FHD",2000384580950,512 GB SSD,Intel Core i3,12 GB,589990,2021-09-15
+249,249.0,ASUS ZENBOOK 13 OLED UX325EA / INTEL® CORE™ I7 / 16GB RAM / 512GB SSD / INTEL IRIS XE / 13.3'' FHD,2000383567761,512 GB SSD,Intel Core i7,16 GB,949990,2021-09-15
+250,250.0,"LENOVO IDEAPAD S340 / INTEL® CORE™ I5 / 4GB RAM / 256GB SSD / 14""",2000379795482,256 GB SSD,Intel Core i5,4 GB,499990,2021-09-15
+251,251.0,LENOVO IDEAPAD 1 14ADA05 / AMD 3020E / 4GB RAM / 64GB EMMC / AMD RADEON GRAPHICS / 14'',2000385605430,64 GB eMMC,Procesador no especificado,4 GB,289990,2021-09-15
+252,252.0,"DELL INSPIRON 15 3501 / INTEL® CORE™ I7 / 8GB RAM / 256GB SSD / INTEL IRIS XE / 15.6"" FHD",2000385223849,256 GB SSD,Intel Core i7,8 GB,719990,2021-09-15
+253,253.0,"HP PAVILION X360 CONVERTIBLE 14-DY0002LA / INTEL® PENTIUM™GOLD / 4GB RAM / 256GB SSD / INTEL UHD GRAPHICS / 14""",2000383803371,256 GB SSD,Intel Pentium,4 GB,489990,2021-09-15
+254,254.0,ACER SPIN 3 / AMD RYZEN™ 3 / 4GB RAM / 256GB SSD / AMD RADEON GRAPHICS / 14'' FHD,2000385472667,256 GB SSD,AMD Ryzen™ 3,4 GB,509990,2021-09-15
+255,255.0,"ASUS ZENBOOK 13 UM325SA / AMD RYZEN™ 5 / 8GB RAM / 512GB SSD / AMD RADEON GRAPHICS / 13.3"" OLED",2000384495032,512 GB SSD,AMD Ryzen™ 5,8 GB,719990,2021-09-15
+256,256.0,DELL INSPIRON 5310 / INTEL® CORE™ I5 / 8GB RAM / 256GB SSD / INTEL IRIS XE / 13.3'' FHD+,2000385545347,256 GB SSD,Intel Core i5,8 GB,789990,2021-09-15
+257,257.0,DELL INSPIRON 5415 / AMD RYZEN™ 5 / 8GB RAM / 512GB SSD / AMD RADEON GRAPHICS / 14'' FHD,2000385545354,512 GB SSD,AMD Ryzen™ 5,8 GB,719990,2021-09-15
+258,258.0,ACER ASPIRE 3 / AMD RYZEN™ 3 / 12GB RAM / 256GB SSD / AMD RADEON GRAPHICS / 14'' FHD,2000385749783,256 GB SSD,AMD Ryzen™ 3,12 GB,539990,2021-09-15
+259,259.0,"HP ZBOOK FIREFLY 14 G7 / INTEL® CORE™ I5 / 16GB RAM / 512GB SSD / NVIDIA QUADRO P520 / 14""",2000381517553,512 GB SSD,Intel Core i5,16 GB,1349990,2021-09-15
+260,260.0,ACER NITRO 5 / INTEL® CORE™ I7 / 16GB RAM / 512GB SSD / NVIDIA GEFORCE RTX 3050TI / 17.3'' FHD,2000385924098,512 GB SSD,Intel Core i7,16 GB,1349990,2021-09-15
+261,261.0,"LENOVO IDEAPAD 5 PRO / INTEL® CORE™ I7 / 16GB RAM / 1TB SSD / NVIDIA GEFORCE MX450 / 16"" WQXGA",2000385116028,1 TB SSD,Intel Core i7,16 GB,1069990,2021-09-15
+262,262.0,HP PAVILION LAPTOP 15-EH0011LA / AMD RYZEN™ 7 / 16GB RAM / 512GB SSD / AMD RADEON GRAPHICS / 15.6'' FHD,2000385847687,512 GB SSD,AMD Ryzen™ 7,16 GB,819990,2021-09-15
+263,263.0,HUAWEI MATEBOOK D14 / INTEL® CORE™ I5 / 8GB RAM / 512GB SSD / INTEL UHD 620 / 14'',2000384564219,512 GB SSD,Intel Core i5,8 GB,679990,2021-09-15
+264,264.0,"LENOVO IDEAPAD S145-14API / AMD 3020E / 8GB RAM / 2TB / AMD RADEON GRAPHICS / 14""",2000385325710,2 TB,Procesador no especificado,8 GB,389990,2021-09-15
+265,265.0,HP PAVILION X360 CONVERTIBLE 14-DY0501LA / INTEL® CORE™ I3 / 8GB RAM / 256GB SSD / INTEL UHD GRAPHICS / 14'',2000385847649,256 GB SSD,Intel Core i3,8 GB,609990,2021-09-15
+266,266.0,"HP ENVY 13-BA1123LA / INTEL® CORE™ I5 / 24GB (16GB INTEL® OPTANE™ + 8GB RAM) /256GB SSD/INTEL IRIS XE/13.3"" / WINDOWS 10",2000380929722,256 GB SSD,Intel Core i5,8 GB,829990,2021-09-15
+267,267.0,ASUS TUF GAMING F15 FX506LH / INTEL® CORE™ I5 / 8GB RAM / 512GB SSD / NVIDIA GEFORCE GTX 1650 / 15.6'' FHD,2000385900122,512 GB SSD,Intel Core i5,8 GB,779990,2021-09-15
+268,268.0,HP ZBOOK FIREFLY 14 G8 / INTEL® CORE™ I7 / 16GB RAM / 512GB SSD / NVIDIA T500 / 14'' FHD,2000385264774,512 GB SSD,Intel Core i7,16 GB,1399990,2021-09-15
+269,269.0,HP PAVILION AERO LAPTOP 13-BE0501LA / AMD RYZEN™ 5 / 8GB RAM / 512GB SSD / AMD RADEON GRAPHICS / 13.3'',2000385847625,512 GB SSD,AMD Ryzen™ 5,8 GB,829990,2021-09-15
+270,270.0,LENOVO LEGION 5 / AMD RYZEN™ 7 / 16GB RAM / 1TB + 128GB SSD / NVIDIA GEFORCE RTX 2060 / 15.6'' FHD,2000385768548,1 TB + 128 GB SSD,AMD Ryzen™ 7,16 GB,1099990,2021-09-15
+271,271.0,HP PAVILION LAPTOP 15-EH0010LA / AMD RYZEN™ 7 / 8GB RAM / 512GB SSD / AMD RADEON GRAPHICS / 15.6'' FHD,2000385847670,512 GB SSD,AMD Ryzen™ 7,8 GB,729990,2021-09-15
+272,272.0,"HP 15-DK1028LA / INTEL® CORE™ I5 / 24GB MEMORIA (16GB INTEL® OPTANE + 8GB RAM)/256GB SSD/NVIDIA GEFORCE GTX 1050/15.6"" FHD",2000383487335,256 GB SSD,Intel Core i5,8 GB,799990,2021-09-15
+273,273.0,HUAWEI MATEBOOK X / INTEL® CORE™ I5 / 16GB RAM / 512GB SSD / INTEL UHD GRAPHICS / 13'',2000383668956,512 GB SSD,Intel Core i5,16 GB,1069990,2021-09-15
+274,274.0,"DELL INSPIRON 14 7415 / AMD RYZEN™ 7 / 16GB RAM / 512GB SSD / AMD RADEON GRAPHICS / 14"" FHD",2000385223856,512 GB SSD,AMD Ryzen™ 7,16 GB,919990,2021-09-15
+275,275.0,"MACBOOK AIR M1 / GPU 7C / 8GB RAM / 256GB SSD / 13.3""",2000383032429,256 GB SSD,Procesador no especificado,8 GB,979990,2021-09-15
+276,276.0,HUAWEI MATEBOOK X PRO / INTEL® CORE™ I7 / 16GB RAM / 1TB SSD / INTEL IRIS XE / 13.9'',2000383668970,1 TB SSD,Intel Core i7,16 GB,1499990,2021-09-15
+277,277.0,"ACER NITRO 5 / INTEL® CORE™ I5 / 12GB RAM / 512GB SSD / NVIDIA GEFORCE GTX 1650 / 15.6""",2000380458338,512 GB SSD,Intel Core i5,12 GB,899990,2021-09-15
+278,278.0,"ACER NITRO 5 AN515 / INTEL® CORE™ I5 / 12GB RAM / 1TB + 128GB SSD / NVIDIA GEFORCE GTX 1650 / 15.6""",2000380207530,1 TB + 128 GB SSD,Intel Core i5,12 GB,829990,2021-09-15
+279,279.0,MACBOOK PRO M1 / GPU 8C / 8GB RAM / 512GB SSD / 13.3”,2000383032504,512 GB SSD,Procesador no especificado,8 GB,1449990,2021-09-15
+280,280.0,"LENOVO LEGION 7I / INTEL® CORE™ I7 / 32GB RAM / 1TB SSD / NVIDIA GEFORCE RTX 2080 / 15.6"" FHD",2000379361793,1 TB SSD,Intel Core i7,32 GB,2199990,2021-09-15
+281,281.0,"HP ZBOOK FIREFLY 15 G8 / INTEL® CORE™ I7 / 16GB RAM / 512GB SSD / NVIDIA T500 / 15.6"" FHD",2000383568782,512 GB SSD,Intel Core i7,16 GB,1299990,2021-09-15
+282,282.0,"MSI MODERN 14 B10MW / INTEL® CORE™ I5 / 8GB RAM / 256GB SSD / INTEL UHD GRAPHICS 620 / 14"" FHD",2000381301718,256 GB SSD,Intel Core i5,8 GB,749990,2021-09-15
+283,283.0,"MACBOOK PRO RETINA TBAR / INTEL® CORE™ I5 / 16GB RAM / 1TB SSD / INTEL IRIS PLUS / 13.3""",2000379236244P,1 TB SSD,Intel Core i5,16 GB,1999990,2021-09-15
+284,284.0,"MACBOOK PRO T.BAR MWP52CI/A / INTEL® CORE™ I5 / 16GB RAM / 1TB SSD / INTEL IRIS PLUS / 13.3""",2000380358676,1 TB SSD,Intel Core i5,16 GB,1999990,2021-09-15
+285,285.0,"MACBOOK AIR M1 / GPU 8C / 8GB RAM / 512GB SSD / 13.3""",2000383032450,512 GB SSD,Procesador no especificado,8 GB,1199990,2021-09-15
+286,286.0,"LENOVO LEGION 5I / INTEL® CORE™ I7 / 8GB RAM / 1TB + 128GB SSD / NVIDIA GEFORCE GTX 1660 TI / 15.6"" FHD",2000379795598,1 TB + 128 GB SSD,Intel Core i7,8 GB,1099990,2021-09-15
+287,287.0,"MACBOOK AIR RETINA MVH22CI/A / INTEL® CORE™ I5 / 8GB RAM / 512GB SSD / 13.3""",2000380358638,512 GB SSD,Intel Core i5,8 GB,1399990,2021-09-15
+288,288.0,"MACBOOK AIR M1 / GPU 8C / 8GB RAM / 512GB SSD / 13.3""",2000383032467,512 GB SSD,Procesador no especificado,8 GB,1199990,2021-09-15
+289,289.0,"MACBOOK PRO M1 / GPU 8C / 8GB RAM / 256GB SSD / 13.3""",2000383032481,256 GB SSD,Procesador no especificado,8 GB,1249990,2021-09-15
+290,290.0,"MACBOOK PRO T.BAR MWP42CI/A / INTEL® CORE™ I5 / 16GB RAM / 512GB SSD / INTEL IRIS PLUS / 13.3""",2000380358683,512 GB SSD,Intel Core i5,16 GB,2299990,2021-09-15
+291,291.0,HP PAVILION GAMING 16-A0004LA / INTEL® CORE™ I7 / 12GB RAM / 512GB SSD / NVIDIA GEFORCE RTX 2060 + SILLA GAMING HP OMEN,3000000008055,512 GB SSD,Intel Core i7,12 GB,1599990,2021-09-15
+292,292.0,"LENOVO LEGION 7I / INTEL® CORE™ I7 / 16GB RAM / 512GB SSD / NVIDIA GEFORCE RTX 2070 / 15.6"" FHD",2000379361786,512 GB SSD,Intel Core i7,16 GB,1499990,2021-09-15
+293,293.0,DELL VOSTRO 14 5402 / INTEL® CORE™ I7 / 8GB RAM / 256GB SSD / INTEL IRIS XE / 14” FHD,2000381884167,256 GB SSD,Intel Core i7,8 GB,869990,2021-09-15
+294,294.0,"HP 240 G7 / INTEL® CELERON® / 4GB RAM / 500GB / INTEL UHD GRAPHICS 600 / 14""",2000380555501,500 GB,Intel Celeron,4 GB,299990,2021-09-15
+295,295.0,NOTEBOOK LENOVO THINKPAD T440P 14' INTEL CORE I7 8GB 256GB SSD WIN10 REACONDICIONADO GRADO A,MPM00028110936,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,529000,2021-09-15
+296,296.0,HP STREAM 14,2189166,64 GB,Intel Celeron,4 GB,299900,2021-09-15
+297,297.0,NOTEBOOK HP 240 G8 INTEL CORE I3-1005G1/ 4GB/ 1TB/ 14'/ W10H,MPM00027415632,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,404990,2021-09-15
+298,298.0,NOTEBOOKS ASUS B9450FA-BM0198R I7-10510U 1TB PCIE G3X4 SSD+TPM 16GB 14IN W10 PRO,MPM00014616720,1 TB,Intel Core i7,16 GB,3019990,2021-09-15
+299,299.0,NOTEBOOKS ASUS A434FAC-A5182R I7-10510U 512G PCIE G3X2 SSD+TPM 16GB 14IN W10 PRO,MPM00014616742,512 GB,Intel Core i7,16 GB,2010990,2021-09-15
+300,300.0,NOTEBOOKS LENOVO X395 RYZEN 5 3500U 8GB 512SSD W10P+ADP,MPM00014617184,512 GB,AMD Ryzen™ 5,8 GB,1470990,2021-09-15
+301,301.0,NOTEBOOKS LENOVO X390 I5-8265U 8G 1TB SSD W10P,MPM00014617274,1 TB,Intel Core i5,8 GB,1627990,2021-09-15
+302,302.0,LAPTOP HP 240 G7 CELERON N4020 4GB RAM 500 GB 14 HD SIN SISTEMA OPERATIVO,1736466,500 GB,Intel Celeron,4 GB,299990,2021-09-15
+303,303.0,"NOTEBOOK LENOVO V14-IIL I5-1035G1, 4GB RAM, 256GB SSD, 14' HD, W10H",MPM00011268588,256 GB,Intel Core i5,4 GB,599990,2021-09-15
+304,304.0,GETAC NOTEBOOK RUGGED V100 BASIC,MPM00016087406,320 GB,Intel Core i7,4 GB,1899900,2021-09-15
+305,305.0,"NOTEBOOK DELL VOSTRO 3401 I3 1005G1, RAM 4GB, DISCO 1TB, 14' WIN10H",MPM00019004570,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,549990,2021-09-15
+306,306.0,NOTEBOOK HP 240 G7 N4020 4GB 500GB WIN10H + SOUNDBAR 60W + CANDADO,1951589,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,499990,2021-09-15
+307,307.0,NOTEBOOK HP 240 G7 N4020 4GB 500GB WIN10H + CANDADO,1950460,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,399990,2021-09-15
+308,308.0,ASUS ZENBOOK Q407IQ AMD RYZEN™ 5 256GB SSD 8GB 14' FHD WIN10 NVIDIA® GTX MX350,MPM00017543995,256 GB SSD,AMD Ryzen™ 5,8 GB,729000,2021-09-15
+309,309.0,"NOTEBOOK HP 240 G7, 14', N4020, 4GB, 500GB, WIN10H",MPM00017683602,500 GB,Intel Celeron,4 GB,399990,2021-09-15
+310,310.0,NOTEBOOK HP 240 I5-1035 4GB 1TB WIN10P,1844291,1 TB,Intel Core i5,4 GB,670900,2021-09-15
+311,311.0,NOTEBOOK HP 240 I5-1035 8GB 1TB WIN10P,1844048,1 TB,Intel Core i5,8 GB,690900,2021-09-15
+312,312.0,NOTEBOOK HP 240 G7 I3-1005G1 4GB 1TB WIN10HOME,1844057,1 TB,Intel Core i3,4 GB,499990,2021-09-15
+313,313.0,NOTEBOOK ASUS B2 B2451FA-EK0343R I5 256GB 8GB W10P,1847732,256 GB,Intel Core i5,8 GB,999999,2021-09-15
+314,314.0,NOTEBOOK HP 348 G7 I3-10110U 1TB 4GB W10HOME 14´´,2234477,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,564900,2021-09-15
+315,315.0,NOTEBOOK LENOVO TP L14 I7-10510U 8GB 256GB SSD W10P,2234476,256 GB,Intel Core i7,8 GB,979900,2021-09-15
+316,316.0,HP 240 G7 CELERON N4020 8GB 500GB SIN SISTEMA OPERATIVO,2234473,500 GB,Intel Celeron,8 GB,349900,2021-09-15
+317,317.0,NOTEBOOK HP 240 G8 I3-1005 8GB 1TB WIN10H,2234472,1 TB,Intel Core i3,8 GB,539000,2021-09-15
+318,318.0,NOTEBOK HP 240 CELERON N4020 4GB 500GB SIN SISTEMA OPERATIVO,2234475,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,299990,2021-09-15
+319,319.0,NOTEBOOK HP 348 G7 INTEL CORE I3 RAM 4GB DISCO 1TB,MPM00026681458,1 TB,Intel Core i3,4 GB,659990,2021-09-15
+320,320.0,"NOTEBOOK LENOVO V14 ADA, AMD ATHLON GOLD 3150U,4GB, 128GB SSD 14¿",MPM00026908116,128 GB,AMD Athlon,128 MB,424990,2021-09-15
+321,321.0,"NOTEBOOK HP 255 G7 AMD 3150U,8GB,1TB,15.6, SIN SISTEMA OPERATIVO.",2262896,1 TB,AMD Serie A,8 GB,429990,2021-09-15
+322,322.0,"NOTEBOOK DELL VOSTRO 3401 I3 1005G1, RAM 4GB, DISCO 1TB, 14' WIN10H",2263578,1 TB SSD,Intel Core i3,4 GB,529990,2021-09-15
+323,323.0,NOTEBOOK HP G7 240 INTEL I3-1005G1/1TB/ FREE DOS 14',2267832,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,459990,2021-09-15
+324,324.0,"NOTEBOOK DELL VOSTRO 3401, I3 1005G1, RAM 4GB, 1TB HDD, 14 HD, SIN SISTEMA OPERATIVO",2267378,1 TB,Intel Core i3,4 GB,427990,2021-09-15
+325,325.0,"NOTEBOOK HP 240 G7, INTEL CORE I5 8265U, RAM 4GB, 1TB, DH 14.0, SIN SISTEMA OPERATIVO",2266073,1 TB,Intel Core i5,4 GB,529990,2021-09-15
+326,326.0,NOTEBOOK DELL 13.3' FHD TOUCHSCREEN CORE I3- REACONDICIONADO,MPM00024813656,128 GB SSD,Intel Core i3,8 GB,549990,2021-09-15
+327,327.0,NOTEBOOK DELL LATITUDE 3410 I5-10210U 8GB 1TB W10PRO,2174524,1 TB,Intel Core i5,8 GB,749900,2021-09-15
+328,328.0,"NOTEBOOK LENOVO V14 ADA, RYZEN 3 3250U, RAM 4GB, 1TB, W10H, 14.",2194343,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,439990,2021-09-15
+329,329.0,"NOTEBOOK ASUS E410MA BV037T INTEL CELERON N4020 14¿ – 4GB, 64GB EMMC",2205056,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,399990,2021-09-15
+330,330.0,"NOTEBOOK HP 240 G7 INTEL CELERON N4020 - 4GB RAM, 500GB HDD, FREEDOS",MPM00025578952,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,355990,2021-09-15
+331,331.0,"NOTEBOOK LENOVO 100E /AMD/4GB/64GB/11,6'",MPM00025910520,64 GB,AMD Serie A,4MB,226990,2021-09-15
+332,332.0,LENOVO NOTEBOOK WS P43S CORE 17 8665U 16GB 512GB SSD M.2,MPM00026115000,512 GB,Intel Core i7,16 GB,1599989,2021-09-15
+333,333.0,"NOTEBOOK BMAX CONVERTIBLE Y11 INTEL CELERON N4120, 8GB, 256GB SSD, WIN10,11.6' | BMAX",2194339,256 GB,Intel Celeron,8 GB,369990,2021-09-15
+334,334.0,NOTEBOOK HP 14-CF2087LA INTEL CELERON N4020 14¿ 4GB 128GB SSD,MPM00025227184,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,377990,2021-09-15
+335,335.0,NOTEBOOK ASUS EXPERTBOOK B2451FA-EB1422R,MPM00026108518,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,988990,2021-09-15
+336,336.0,"NOTEBOOK HP PROBOOK 445 G7 AMD RYZEN 5 14 8GB RAM, 256GB SSD, WIN10PRO",MPM00027028366,256 GB SSD,AMD Ryzen™ 5,8 GB,899990,2021-09-15
+337,337.0,IDEAPAD 3 15.6' HD CORE I3 4GB RAM 128GB SSD - REACONDICIONADO,MPM00027722220,128 GB SSD,Intel Core i3,4 GB,399990,2021-09-15
+338,338.0,"NOTEBOOK LENOVO L340, CORE I5-9300, 8GB, 256GB SSD, WIN 10, 15.6",2275485,256 GB,Intel Core i5,8 GB,859990,2021-09-15
+339,339.0,NOTEBOOK / LENOVO / THINKBOOK 13S GEN 2 / INTEL CORE I5 11VA GEN / 16GB RAM / 256GB SSD / WQXGA / 13'''' | GRIS,2189012,256 GB SSD,Intel Core i5,16 GB,1019990,2021-09-15
+340,340.0,NOTEBOOK / LENOVO / THINKPAD X1 FOLD / INTEL CORE I5 NON-VPRO / 8GB RAM / 512GB SSD / QXGA / 13'',2189014,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,3319990,2021-09-15
+341,341.0,ELITEBOOK HP CHROMEBOOK REACONDICIONADO 14A-NA0031WM/,2200259,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,299990,2021-09-15
+342,342.0,NOTEBOOK DYNABOOK TECRA A30-G INTEL CELERON 5205U/ RAM 4GB/ 128GB SSD/ 13.3'/ W10P,2202233,128 GB,Intel Celeron,4 GB,339990,2021-09-15
+343,343.0,NOTEBOOK ASUS EXPERTBOOK P2451FA-EK0343R,MPM00026108578,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,899990,2021-09-15
+344,344.0,NOTEBOOK HP 240 G8 I3-1005G1 4GB 1TB WIN10H,MPM00026792204,1 TB,Intel Core i3,4 GB,499990,2021-09-15
+345,345.0,"NOTEBOOK HP 240 G7 INTEL CORE I3 1005G1, 4GB RAM, 1TB, 14 HD, W10",2265822,1 TB,Intel Core i3,4 GB,446990,2021-09-15
+346,346.0,"NOTEBOOK DELL INSPIRON 3493 DE 14, I3 1005G1, 4GB RAM, 1TB HDD,SIN SITEMA OPERATIVO",2265512,1 TB,Intel Core i3,4 GB,439990,2021-09-15
+347,347.0,NOTEBOOK ASUS CHROMEBOOK C200 REACONDICIONADO,2283799,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,219990,2021-09-15
+348,348.0,NOTEBOOK LENOVO CHROMEBOOK N22 REACONDICIONADO NEGRO,2285668,32 GB SSD,Intel Celeron,4 GB,219990,2021-09-15
+349,349.0,NOTEBOOK LENOVO L14 I7-10510U 16GB 256GB W10P,2315775,256 GB,Intel Core i7,16 GB,1029900,2021-09-15
+350,350.0,NOTEBK LENOVO IDEAPAD 5 14IIL05 I7-1065 16GB 512GB WPRO,2315903,512 GB,Intel Core i7,16 GB,889900,2021-09-15
+351,351.0,NOTEBOOK LENOVO IDEAPAD 3 TOUCH INTEL CORE I3-10110U 15.6' HD 8GB - 256GB PCIE SSD - WEBCAM - WINDOWS 10,2320037,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,529000,2021-09-15
+352,352.0,NOTEBOOK / LENOVO 14W / AMD A6 / 4GB RAM / 128GB SSD / FHD / W10P / 14'',2319866,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,299990,2021-09-15
+353,353.0,ASUS L510 / INTEL N4020 / 4GB RAM / 128GB SSD / 15.6' FHD,2317891,128 GB,Intel Celeron,4 GB,329990,2021-09-15
+354,354.0,DELL INSPIRON 14-3493 14' HD/RAM 8GB /256 GB/REACONDICIONADO,2321129,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,649990,2021-09-15
+355,355.0,"NOTEBOOK HP 240 G7 CELERON N4020, 4GB RAM, 500 GB, 14' HD",MPM00028877990,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,319990,2021-09-15
+356,356.0,NOTEBOOK DELL 13.3' HD CORE I3 8GB RAM - REACONDICIONADO,MPM00024726970,128 GB SSD,Intel Core i3,8 GB,499990,2021-09-15
+357,357.0,NOTEBOOK HP ELITEBOOK 840 G3 14” INTEL CORE I5 8GB 240GB SSD WEBCAM WINDOWS 10 PRO REACONDICIONADO GRADO A,MPM00029084738,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,496000,2021-09-15
+358,358.0,HP 15-DY1971CL/INTEL I7-1065G/256 GB/8GB RAM/REACONDICIONADO,2333987,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,699990,2021-09-15
+359,359.0,HP 15-DA3020CY / I5 1035G1/2TB SATA/RAM 12GB/,2333986,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,649990,2021-09-15
+360,360.0,NOTEBOOK DELL LATITUDE E5470 INTEL CORE I5 8GB 500GB WIN10 REACONDICIONADO GRADO A,MPM00029021680,500 GB,Intel Core i5,16 GB,539000,2021-09-15
+361,361.0,NOTEBOOK HP PROBOOK 650 G2 15.6” INTEL CORE I5 8GB 256GB SSD WEBCAM WINDOWS 10 PRO REACONDICIONADO GRADO A,MPM00021063628,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,599000,2021-09-15
+362,362.0,NOTEBOOK HP 240 G7 CELERON N4020 4GB 500GB WIN10HOME,2174522,500 GB,Intel Celeron,4 GB,449900,2021-09-15
+363,363.0,NOTEBOOK DELL VOSTRO 3400 I3-1120G4 8GB 1TB W10PRO 14´´,2174523,1 TB,Intel Core i3,8 GB,599990,2021-09-15
+364,364.0,HP PROBOOK 445 G7 AMD RYZEN 7-4700U 8GB 256GB W10PRO,2174525,256 GB,AMD Ryzen,8 GB,834900,2021-09-15
+365,365.0,NOTEBOOK DELL LATITUDE 7480 14' CORE I5 - REACONDICIONADO,MPM00024724458,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,539990,2021-09-15
+366,366.0,"NOTEBOOK HP ELITEBOOK X360 1030 G2 13.3', CORE I5, 8GB RAM, 512GB SSD - REACONDICIONADO",MPM00027346104,512 GB SSD,Intel Core i5,8 GB,499990,2021-09-15
+367,367.0,NOTEBOOK LENOVO TP L14 I5-10210U 8GB 256GB W10P,2315773,256 GB,Intel Core i5,8 GB,889900,2021-09-15
+368,368.0,"NOTEBOOK GAMER AERO OLED I7-10870H, 8GB, 512GB SSD, RTX 3060 6GB,W10H",MPM00028624768,512 GB SSD,Intel Core i7,8 GB,2099990,2021-09-15
+369,369.0,"NOTEBOOK HP 348 G7, INTEL I3-10110U, 4GB, 1TB, LED 14', W10H",MPM00028633580,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,469990,2021-09-15
+370,370.0,"NOTEBOOK GAMER AERO OLED I7-10870H, 8GB, 512GB SSD, RTX 3060 6GB,W10H",MPM00028633640,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,2099990,2021-09-15
+371,371.0,LENOVO IDEAPAD 3 15¿ FHD RYZEN 5 3500U CHERRY_RED,2319343,256 GB,AMD Ryzen™ 5,8 GB,625990,2021-09-15
+372,372.0,LENOVO 100E / AMD 3015E / 4GB RAM / 64GB SSD / 11.6' HD,2317901,64 GB SSD,AMD E2,4 GB,229990,2021-09-15
+373,373.0,NOTEBOOK DELL LATITUDE 3510 15.6 FHD I3-10110U 4GB 500GB W10HOME,2321405,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,546990,2021-09-15
+374,374.0,DELL INSPIRION 15 3502 / INTEL N4020 / 4GB RAM / 128GB SSD / 15.6' HD / ULTRA DELGADA,2317892,128 GB,Intel Celeron,4 GB,339990,2021-09-15
+375,375.0,HP 15-DA3016CY /I5 -1035G1 /2TB/ 16 GB / REACONDICIONADO,2321130,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,649990,2021-09-15
+376,376.0,DELL LAT 7480 / I7-76000/ RAM 8GB / 512 GB / REACONDICIONADO,2321131,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,499990,2021-09-15
+377,377.0,"NOTEBOOK DELL VOSTRO 3400, I5 1135G7, RAM 8GB, SSD 256, SIN SISTEMA OPERATIVO. 14 FHD",1922782,256 GB,Intel Core i5,8 GB,609990,2021-09-15
+378,378.0,"NOTEBOOK LENOVO V14-IIL I5-1035G1,RAM 4 GB,256GB SSD, 14'HD SIN SISTEMA OPERATIVO",MPM00015078940,256 GB,Intel Core i5,4 GB,529990,2021-09-15
+379,379.0,NOTEBOOKS ASUS P5440FA-BM0897R I5-8265U 512G PCIE G3X2 SSD+TPM 8GB 14IN W10 PRO,MPM00014616852,512 GB,Intel Core i5,8 GB,1427990,2021-09-15
+380,380.0,NOTEBOOKS LENOVO T490 I5-10210 8GB DDR4 512GB SSD W10P,MPM00014617070,512 GB,Intel Core i5,8 GB,1514990,2021-09-15
+381,381.0,NOTEBOOKS LENOVO X390 I5-10210U 8GB DDR4 512GB SSD W10P,MPM00014617128,512 GB,Intel Core i5,8 GB,1765990,2021-09-15
+382,382.0,NOTEBOOKS LENOVO X1 CARBON I7-10510U 16GB 512GB SSD W10P+ ADP,MPM00014617344,512 GB,Intel Core i7,16 GB,2932990,2021-09-15
+383,383.0,NOTEBOOKS LENOVO X1 CARBON I7-8565U 16GB DDR4 1TBSSD W10P,MPM00014617368,1 TB,Intel Core i7,16 GB,3067990,2021-09-15
+384,384.0,NOTEBOOKS DELL LATITUDE 7400 I7-8665U 8GB 256GB SSD WIN10PRO 3YR PROSUPPORT,MPM00014617414,256 GB,Intel Core i7,8 GB,1979990,2021-09-15
+385,385.0,NOTEBOOK HP 240 G8 INTEL CORE I3-1005G1/ 4GB/ 1TB/ 14'/ W10H,MPM00027415632,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,404990,2021-09-15
+386,386.0,"NOTEBOOK ASUS E410MA BV037T INTEL CELERON N4020 14¿ – 4GB, 64GB EMMC",2205056,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,399990,2021-09-15
+387,387.0,"NOTEBOOK HP 240 G7 INTEL CELERON N4020 - 4GB RAM, 500GB HDD, FREEDOS",MPM00025578952,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,355990,2021-09-15
+388,388.0,NOTEBOOK HP 348 G7 I3-10110U 1TB 4GB W10HOME 14´´,2234477,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,564900,2021-09-15
+389,389.0,NOTEBOOK LENOVO TP L14 I7-10510U 8GB 256GB SSD W10P,2234476,256 GB,Intel Core i7,8 GB,979900,2021-09-15
+390,390.0,HP 240 G7 CELERON N4020 8GB 500GB SIN SISTEMA OPERATIVO,2234473,500 GB,Intel Celeron,8 GB,349900,2021-09-15
+391,391.0,NOTEBOOK HP 240 G8 I3-1005 8GB 1TB WIN10H,2234472,1 TB,Intel Core i3,8 GB,539000,2021-09-15
+392,392.0,NOTEBOK HP 240 CELERON N4020 4GB 500GB SIN SISTEMA OPERATIVO,2234475,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,299990,2021-09-15
+393,393.0,"NOTEBOOK LENOVO V14 ADA, AMD ATHLON GOLD 3150U,4GB, 128GB SSD 14¿",MPM00026908116,128 GB,AMD Athlon,128 MB,424990,2021-09-15
+394,394.0,"NOTEBOOK HP PROBOOK 445 G7 AMD RYZEN 5 14 8GB RAM, 256GB SSD, WIN10PRO",MPM00027028366,256 GB SSD,AMD Ryzen™ 5,8 GB,899990,2021-09-15
+395,395.0,NOTEBOOK HP G7 240 INTEL I3-1005G1/1TB/ FREE DOS 14',2267832,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,459990,2021-09-15
+396,396.0,"NOTEBOOK DELL VOSTRO 3401, I3 1005G1, RAM 4GB, 1TB HDD, 14 HD, SIN SISTEMA OPERATIVO",2267378,1 TB,Intel Core i3,4 GB,427990,2021-09-15
+397,397.0,"NOTEBOOK HP 240 G7 INTEL CORE I3 1005G1, 4GB RAM, 1TB, 14 HD, W10",2265822,1 TB,Intel Core i3,4 GB,446990,2021-09-15
+398,398.0,LENOVO NOTEBOOK WS P43S CORE 17 8665U 16GB 512GB SSD M.2,MPM00026115000,512 GB,Intel Core i7,16 GB,1599989,2021-09-15
+399,399.0,NOTEBOOK ASUS EXPERTBOOK B2451FA-EB1422R,MPM00026108518,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,988990,2021-09-15
+400,400.0,NOTEBOOK ASUS EXPERTBOOK P2451FA-EK0343R,MPM00026108578,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,899990,2021-09-15
+401,401.0,"NOTEBOOK LENOVO L340, CORE I5-9300, 8GB, 256GB SSD, WIN 10, 15.6",2275485,256 GB,Intel Core i5,8 GB,859990,2021-09-15
+402,402.0,NOTEBOOK ASUS CHROMEBOOK C200 REACONDICIONADO,2283799,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,219990,2021-09-15
+403,403.0,NOTEBOOK LENOVO CHROMEBOOK N22 REACONDICIONADO NEGRO,2285668,32 GB SSD,Intel Celeron,4 GB,219990,2021-09-15
+404,404.0,NOTEBOOK LENOVO TP L14 I5-10210U 8GB 256GB W10P,2315773,256 GB,Intel Core i5,8 GB,889900,2021-09-15
+405,405.0,DELL INSPIRON 14-3493 14' HD/RAM 8GB /256 GB/REACONDICIONADO,2321129,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,649990,2021-09-15
+406,406.0,DELL LAT 7480 / I7-76000/ RAM 8GB / 512 GB / REACONDICIONADO,2321131,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,499990,2021-09-15
+407,407.0,NOTEBOOK HP 14' N5030 4GB 128GB SSD W10 + MOUSE HP,2326861,128 GB,Intel Pentium Silver,4 GB,399990,2021-09-15
+408,408.0,NOTEBOOK HP 14-DQ2088 11A GENERACION INTEL CORE I5 8GB RAM 256GB SSD INTEL IRIS XE GRAPHICS 14'HD WINDOWS 10,2340446,256 GB,Intel Core i5,8 GB,649000,2021-09-15
+409,409.0,HP PAVILION GAMING 15-EC1024LA/ AMD RYZEN™7 /8GB RAM / 512 GB SSD PCLE / NVDIA GEFORCE 1650 /15.6',MPM00029296454,512 GB SSD,AMD Ryzen™ 7,8 GB,849990,2021-09-15
+410,410.0,NOTEBOOK LENOVO TP L14 I5-10210U 16GB 256GB W10P,2315776,256 GB,Intel Core i5,16 GB,929900,2021-09-15
+411,411.0,NOTEBOOK LENOVO L14 I7-10510U 16GB 256GB W10P,2315775,256 GB,Intel Core i7,16 GB,1029900,2021-09-15
+412,412.0,NOTEBOOK LENOVO 14-IML I5-10210U 8GB 256GB WIN10PRO,MPM00028520382,256 GB,Intel Core i5,8 GB,849900,2021-09-15
+413,413.0,NOTEBOOK LENOVO 14-IML I5-10210U 8GB 256GB WIN10HOME,MPM00028520483,256 GB,Intel Core i5,8 GB,799990,2021-09-15
+414,414.0,NOTEBK LENOVO IDEAPAD 5 14IIL05 I7-1065 16GB 512GB WPRO,2315903,512 GB,Intel Core i7,16 GB,889900,2021-09-15
+415,415.0,ASUS L510 / INTEL N4020 / 4GB RAM / 128GB SSD / 15.6' FHD,2317891,128 GB,Intel Celeron,4 GB,329990,2021-09-15
+416,416.0,HP 15-DA3016CY /I5 -1035G1 /2TB/ 16 GB / REACONDICIONADO,2321130,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,649990,2021-09-15
+417,417.0,NOTEBOOK LENOVO IDEAPAD 3 / INTEL I3 10 GEN/ 8GB RAM / 256GB SSD P/ PANTALLA 15.6' HD TÁCTIL,2351214,256 GB SSD,Intel Core i3,8 GB,479990,2021-09-15
+418,418.0,DELL LAT 7480 /RAM 16 GB / 256 GB / REACONDICIONADO,2376222,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,499990,2021-09-15
+419,419.0,HP PAVILION 13-BB0027NR/ 512GB/ RAM 16 GB / REACONDICIONADO,2376219,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,849990,2021-09-15
+420,420.0,HP CHROMEBOOK 11A-NA0035NR 4GB RAM,MPM00029656564,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,199990,2021-09-15
+421,421.0,"NOTEBOOK DELL 5420 I5-1135G7 8GB RAM 256GB SSD W10PRO + MOCHILA, MOUSE GARANTÍA 3 AÑOS",2384118,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,935990,2021-09-15
+422,422.0,"NOTEBOOK HP PAVILION 15-DK1056WM, I5-10300H, 8GB, 256GB SSD,GTX 1650 4GB",MPM00029798766,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,970990,2021-09-15
+423,423.0,LENOVO LAPTOP V145-14AST / AMD A4-9125 / 4GB RAM / 500GB HDD / W10H / 14',MPM00030314822,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,399990,2021-09-15
+424,424.0,.,2345615,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,549990,2021-09-15
+425,425.0,NOTEBOOK LENOVO IDEAPAD 3 15.6' - BLUE,2367595,256 GB,Intel Core i3,8 GB,591990,2021-09-15
+426,426.0,"LAPTOP ASUS VIVOBOOK R564DA-UH72T -PANTALLA TÁCTIL FHD DE 15,6'",2367596,256 GB,AMD Ryzen™ 7,8 GB,780990,2021-09-15
+427,427.0,NOTEBOOK ULTRABOOK HP 9470M 14” INTEL CORE I5 4GB 256GB SSD WEBCAM WINDOWS 10 PRO REACONDICIONADO GRADO A,MPM00029794736,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,416990,2021-09-15
+428,428.0,HP LAPTOP 348 G7 2E4U1LT / I3-10110U / 4GB RAM / 1TB HDD / W10H / 14',MPM00030314742,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,689990,2021-09-15
+429,429.0,DELL LAT 7480 / I7-76000/RAM 8GB/ 256 GB/REACONDICIONADO,2346230,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,499990,2021-09-15
+430,430.0,"NOTEBOOK HP 348 G7, INTEL® CORE™ I3-10110U, RAM 8GB, 240SSD + 1TB HDD, LED 14', W10 HOME + MOCHILA",2368332,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,597990,2021-09-15
+431,431.0,"NOTEBOOK DELL 5420 I5-1135G7 8GB RAM 256GB SSD W10PRO + MOCHILA, MOUSE GARANTÍA 3 AÑOS",2384118,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,935990,2021-09-15
+432,432.0,"NOTEBOOK DELL LATITUDE 5480, 14', CORE I7 - REACONDICIONADO",MPM00030098882,512 GB,Intel Core i7,8 GB,589990,2021-09-15
+433,433.0,HP ELITEBOOK X360 830 G6 2IN1 IPS TOUCHSCREEN W10P,MPM00030474994,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,1129990,2021-09-15
+434,434.0,HP ELITEBOOK X360 1030 G4 I5 W10P DOCKING G5 LAPIZ,MPM00030475192,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,1345990,2021-09-15
+435,435.0,HP ELITEBOOK X360 100 G7 I5 WIN10 PRO,MPM00030475046,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,1899990,2021-09-15
+436,436.0,"NOTEBOOK HP ELITE X2 1012 G2, 12', CORE I5, 8GB RAM, 512GB - REACONDICIONADO",MPM00030098836,512 GB,Intel Core i5,8 GB,499990,2021-09-15
+437,437.0,"NOTEBOOK LENOVO THINKPAD T450, 14', CORE I5, 8GB RAM, 128GB SSD - REACONDICIONADO",MPM00030098930,128 GB,Intel Core i5,8 GB,399990,2021-09-15
+438,438.0,HP LAPTOP 348 G7 2E4U1LT / I3-10110U / 4GB RAM / 1TB HDD / W10H / 14',MPM00030314742,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,689990,2021-09-15
+439,439.0,"HP ELITEBOOK X360 1040 G6 I5 W10PRO, DOCKING LAPIZ",MPM00030475618,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,1452990,2021-09-15
+440,440.0,HP ELITEBOOK 735 G6 RYZEN 7 3700U W10PRO,MPM00030474944,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,1129990,2021-09-15
+441,441.0,HP ELITEBOOK X360 1030 G4 I5 8GB 256SSD WIN 10 PRO,MPM00030475142,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,1345990,2021-09-15
+442,442.0,"NOTEBOOK HP 240 G7, I3-1005G1, 4GB, 1TB, 14 WIN10",2366664,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,449990,2021-09-15
+443,443.0,HP ELITEBOOK X360 CONVERTIBLE 1040 G6 / INTEL CORE I5/ 8 GB RAM /512 SSD/14',MPM00025071608,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,1299990,2021-09-15
+444,444.0,NOTEBOOK HP 240 G7 INTEL CORE I3-1005G1/ 4GB/ RAM 1TB/ HDD 14'/ SIN SISTEMA OPERATIVO,1456216,1 TB,Intel Core i3,4 GB,449990,2021-09-15
+445,445.0,NOTEBOOK LENOVO THINKPAD T440P 14' INTEL CORE I7 8GB 500GB WIN10 REACONDICIONADO GRADO A,MPM00028110872,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,499000,2021-09-15
+446,446.0,HP PAVILION GAMING LAPTOP 15-DK0014LA/INTEL CORE I5/20GB MEMORIA(16GB INT OPTANE+4GB RAM)/256GB SSD/NVIDIA GEFORCE GTX 1050/15.6,2000378488460P,256 GB SSD,Intel Core i5,4 GB,799990,2021-09-15
+447,447.0,HP PROBOOK 450 440 445 455 470 G0 G1 NOTEBOOK FP06,MPM00012599680,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,56900,2021-09-15
+448,448.0,"NOTEBOOK LENOVO THINKPAD X1 C7 I5-8365U, RAM 16GB, SSD 512GB, LED 14', W10P",MPM00028710106,512 GB SSD,Intel Core i5,16 GB,999990,2021-09-15
+449,449.0,NOTEBOOK HP PROBOOK 440 G7 I5-10210U 8GB 256SSD WIN10PRO,MPM00013506696,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,759900,2021-09-15
+450,450.0,NOTEBOOK LENOVO 14-IML I7-10510U 16GB 512GB WIN10PRO,MPM00028520438,512 GB,Intel Core i7,16 GB,949900,2021-09-15
+451,451.0,NOTEBOOK HP ELITEBOOK REACONDICIONADO 8470P CORE I5-3210M; 8 GB DE RAM Y 480 GB,MPM00021147538,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,479990,2021-09-15
+452,452.0,"NOTEBOOK LENOVO S340 INTEL CORE I5 1035G4, RAM 4GB, 1TB, W10H, 15.6.",MPM00027330170,1 TB,Intel Core i5,4 GB,569990,2021-09-15
+453,453.0,NOTEBOOK HP 245 G7 RYZEN 3 FREEDOS 1TB,MPM00030240298,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,389000,2021-09-15
+454,454.0,"NOTEBOOK LENOVO IDEAPAD FLEX 5 14ITL05 PENTIUM 7505, 4GB, 128GB SSD, 14 FHD, W10P",MPM00028871840,128 GB,Intel Pentium,4 GB,369990,2021-09-15
+455,455.0,"LAPTOP LENOVO IDEAPAD L3, INTEL PENTIUM GOLD 6405U, 4 GB, 500 GB HDD, 15.6 HD, W10P",MPM00028715986,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,349990,2021-09-15
+456,456.0,"NOTEBOOK LENOVO THINKBOOK 13S I7-10510U, 16GB, SSD 512GB 13.3 W10P",MPM00028715994,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,899990,2021-09-15
+457,457.0,NOTEBOOK HP 240 G7 WINDOW 10H 512GB INTEL CELERON N4020 + MOCHILA REGALO,MPM00030240326,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,399990,2021-09-15
+458,458.0,"NOTEBOOK BMAX S13A INTEL N3350, 8GB, 128GB SSD, WIN10, FHD 13.3'",MPM00024810816,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,299990,2021-09-15
+459,459.0,NOTEBK LENOVO 14-IML I7-10510U 16GB 512GB WIN10HOME,MPM00028520588,512 GB,Intel Core i7,16 GB,919900,2021-09-15
+460,460.0,"NOTEBOOK LENOVO THINKPAD T490, I7 8565U, RAM 16GB, 512GB SSD, 14.0, W10P",MPM00028719594,512 GB,Intel Core i7,16 GB,999990,2021-09-15
+461,461.0,NOTEBOOK GEAR LOTUS 14 FHD CELERON N3350 4GB 128GB SSD WINDOWS 10 DARK GRAY,MPM00028878976,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,299990,2021-09-15
+462,462.0,"NOTEBOOK DELL 5500 I7-10750H, RAM 8GB, SSD 512GB, LED 15.6', GTX 1650TI, W10H",MPM00019004422,512 GB SSD,AMD Ryzen™ 7,8 GB,1249990,2021-09-15
+463,463.0,HP PROBOOK 645 G4 RYZEN 7 PRO 500GB 8GB VIDEO RX VEGA 14”HD WIN10 PRO,MPM00012484286,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,649000,2021-09-15
+464,464.0,LENOVO LEGION Y545 GAMING CORE™ I7 1TB+256GB SSD 16GB 15.6' 144HZ NVIDIA® GTX 1660TI 6144MB,MPM00015353152,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,1299000,2021-09-15
+465,465.0,LENOVO THINKBOOK 14 IIL INTEL CORE™ I7 10A GENERACION 512GB SSD 8GB 14” FHD LECTOR HUELLAS WIN 10 PRO,MPM00011620364,Almacenamiento no especificado,Procesador no especificado,8 GB,999000,2021-09-15
+466,466.0,ACER ASPIRE 5 A515 15.6' HD TOUCHSCREEN INTEL CORE I5-1035G1 8GB RAM 256GB PCIE SSD WINDOWS 10,MPM00021880566,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,599000,2021-09-15
+467,467.0,HP ELITEBOOK 820-G3 /INTEL CORE I5/ RAM8GB/HDD 256GB SSD/WINDOWS 10 PRO/12.5 FHD,MPM00005270168,Almacenamiento no especificado,Intel Core i5,8 GB,649000,2021-09-15
+468,468.0,LENOVO THINKBOOK 13S CORE™I5-8265U 256GB SSD 8GB 13.3' (1920X1080) WIN10 PROFESIONAL,MPM00011415520,Almacenamiento no especificado,Intel Core i5,8 GB,699000,2021-09-15
+469,469.0,LENOVO LEGION 5 INTEL CORE™ I7 10A GENERACIÓN 512GB SSD 16GB 15.6' FHD NVIDIA® GTX 1650TI,MPM00017543920,512 GB SSD,Intel Core i7,16 GB,1189000,2021-09-15
+470,470.0,MSI GF65 THIN GAMING CORE™ I7 512GB SSD 32GB RAM 15.6 WIN10 NVIDIA GEFORCE GTX 1660 TI 6GB.,MPM00015353173,512 GB SSD,Intel Core i7,32 GB,1339000,2021-09-15
+471,471.0,NOTEBOK GAMER ASUS ROG STRIX I7-10750 16GB 1TB PCIE SSD NVIDIA RTX 2070,MPM00016416098,1 TB SSD,Intel Core i7,16 GB,1799990,2021-09-15
+472,472.0,NOTEBOOK GAMER ASUS ROG ZEPHYRUS G15 AMD RYZEN 9 4900HS 16GB RAM SSD 1TB,MPM00016416390,1 TB SSD,AMD Ryzen,16 GB,1849990,2021-09-15
+473,473.0,LENOVO FLEX14' 2-IN-1 TOUCHSCREEN AMD RYZEN 7 14 FHD 1080P 8GB RAM 512GB SSD FINGERPRINT WIN 10,MPM00015353206,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,699000,2021-09-15
+474,474.0,NOTEBOOK HP PAVILION X360 14-DY0002LA PENTIUM GOLD 7505 4GB 256GB SSD 14' TOUCH,MPM00031393952,256 GB SSD,Intel Pentium,4 GB,429990,2021-09-15
+475,475.0,NOTEBOOK HP PROBOOK 6560B 15.6' INTEL CORE I5 4GB 320GB WEBCAM REACONDICIONADO GRADO A,MPM00029084966,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,384000,2021-09-15
+476,476.0,NOTEBOOK DELL ULTRABOOK E7270 12.5' (I7 8GB 256GB SSD) REACONDICIONADO GRADO A,MPM00031093738,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,576990,2021-09-15
+477,477.0,NOTEBOOK ULTRABOOK LENOVO THINKPAD X240 12.5' (I7 8GB 256GB) WIN10 REACONDICIONADO GRADO A - NO WEBCAM,MPM00031093662,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,450990,2021-09-15
+478,478.0,DELL VOSTRO 5402 I5-1135G7 8GB 256GB SSD WIN10P,MPM00031682742,256 GB,Intel Core i5,8MB,859990,2021-09-15
+479,479.0,"HP NOTEBOOK PAVILION GAMING / INTEL CORE I5 / 8GB RAM / 256GB SSD /NVDIA GEFORCE 1650 / FHD 15,6'",MPM00030751916,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,799990,2021-09-15
+480,480.0,DELL VOSTRO 3400 14 I3 8GB 1TB WIN10 PRO,MPM00031681445,1 TB,Intel Core i3,8MB,659990,2021-09-15
+481,481.0,NOTEBOOK HP 340S G7 I5 8GB 256GB SSD 14 W10PRO,2487984,256 GB,Intel Core i5,8MB,704990,2021-09-15
+482,482.0,LEGION SLIM 7I CORE I7 10° GEN 16GB RAM 512SSD GTX1660 15'',2479462,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,1719990,2021-09-15
+483,483.0,NOTEBOOK HP 14-CF2087LA / INTEL® CELERON® N4020 / 4GB RAM / 128GB SSD / 14,2485019,128 GB SSD,Intel Celeron,4 GB,329990,2021-09-15
+484,484.0,NOTEBOOK IDEAPAD D330 INTEL 4GB RAM 64GB 10'' LENOVO,MPM00031467106,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,369990,2021-09-15
+485,485.0,"NOTEBOOK ASUS VIVOBOOK X413E - I3, 128GB SSD, 4GB, 14",2485006,128 GB SSD,Intel Core i3,4 GB,539990,2021-09-15
+486,486.0,NOTEBOOK YOGA 7I CORE I5 11VA GEN 12GB RAM 512GB SSD + LÁPIZ,MPM00031469464,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,1119990,2021-09-15
+487,487.0,NOTEBOOK GAMING OMEN 15-EK0007LA CORE I7 16GB RAM +32GB OPTANE 512GB SSD 15.6,2485023,512 GB SSD,Intel Core i7,16 GB,1649990,2021-09-15
+488,488.0,DELL VOSTRO 3400 14 I5-1135G7 8GB RAM 256GB SSD,2492715,256 GB,Intel Core i5,8MB,612990,2021-09-15
+489,489.0,HP PAVILION GAMING LAPTOP 15.6 I5-10300H 8GB 256GB GTX 1650 W10,MPM00031784610,512 GB,Intel Core i5,8 GB,799990,2021-09-15
+490,490.0,"HEROBOOK PRO INTEL CELERON/ 8GB/ 256GB SSD/ 14,1'/ W10",MPM00031774284,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,339990,2021-09-15
+491,,Notebook Asus X515ma-br576t,861599001,500 Gb,Intel Celeron,4 Gb,309990,2021-09-16
+492,,Notebook Reacondicionado Hp 14-dq1043c I3,851066001,256 Gb,Intel Core I3,8 Gb,399990,2021-09-16
+493,,Notebook Gamer Asus Tuf Gaming Fx506lh-hn082t,861708001,512 Gb,Intel Core I5,8 Gb,769990,2021-09-16
+494,,Notebook Lenovo Ideapad 3,841656001,1 Tb,Amd Athlon,8 Gb,399990,2021-09-16
+495,,Notebook Asus X415ea-eb742t,861710001,512 Gb,Intel Core I7,8 Gb,769990,2021-09-16
+496,,Notebook Hp 14-ck2091la,852613001,128 Gb,Intel Core I3,4 Gb,379990,2021-09-16
+497,,Notebook Hp Pavilion X360 Convertible 14-dy0002la,861802001,256 Gb,Intel Pentium,4 Gb,479990,2021-09-16
+498,,Notebook Asus M415da-ek844t,861709001,256 Gb,Amd Ryzen 3,4 Gb,449990,2021-09-16
+499,,Notebook Gamer Lenovo Ideapad Gaming 3 15arh05,866156001,512 Gb,Amd Ryzen 5,8 Gb,799990,2021-09-16
+500,,Notebook Hp 240 G7,861805001,500 Gb,Intel Celeron,4 Gb,299990,2021-09-16
+501,,Notebook Hp 240 G7,827608001,1 Tb,Intel Core I3,4 Gb,389990,2021-09-16
+502,,Notebook Asus X515ea-bq968t,861707001,128 Gb,Intel Core I3,4 Gb,419990,2021-09-16
+503,,Notebook Lenovo Ideapad 3 14alc6,866158001,256 Gb,Amd Ryzen 5,8 Gb,589990,2021-09-16
+504,,Notebook Lenovo Ideapad S340,857116001,256 Gb,Amd Ryzen 5,8 Gb,629990,2021-09-16
+505,,Notebook Hp 15-cs3153cl Reacondicionado,857135001,512 Gb,Intel Core I5,12 Gb,599990,2021-09-16
+506,,Notebook Hp Pavilion 17-by3063st Reacondicionado,858970001,1 Tb + 128 Gb,Intel Core I3,8 Gb,459990,2021-09-16
+507,,Chromebook p 14a-na0010ca Reacondicionado,857127001,64 Gb,Intel Celeron,4 Gb,239990,2021-09-16
+508,,Notebook Hp 348 G7,857419001,1 Tb,Intel Core I3,4 Gb,499990,2021-09-16
+509,,Notebook Gamer Acer Nitro 5,853268001,1 Tb + 128 Gb,Intel Core I5,16 Gb,849990,2021-09-16
+510,,Notebook Asus L410,857105001,64 Gb,Intel Celeron,4 Gb,334990,2021-09-16
+511,,Notebook Lenovo Yoga Slim 7,863495001,256 Gb,Amd Ryzen 5,8 Gb,719990,2021-09-16
+512,,Notebook Lenovo Ideapad Flex 5,861594001,512 Gb,Intel Core I5,12 Gb,889990,2021-09-16
+513,,Notebook Lenovo Ideapad S145-14iil,866155001,128 Gb,Intel Core I3,4 Gb,379990,2021-09-16
+514,,Macbook Air,844508001,256 Gb,Apple M1,8 Gb,1049990,2021-09-16
+515,,Notebook Hp Pavilion Gaming Laptop 15 Dk1028la,861686001,256 Gb,Intel Core I5,8 Gb,839990,2021-09-16
+516,,Notebook Reacondicionado Hp 15-da0022ds,851065001,256 Gb,Intel Pentium,8 Gb,459990,2021-09-16
+517,,Notebook Gamer Msi Gf63 Thin 10sc-227cl,856792001,256 Gb,Intel Core I5,8 Gb,849990,2021-09-16
+518,,Notebook Hp 15-da0022 Reacondicionado,857131001,256 Gb,Intel Pentium,8 Gb,449990,2021-09-16
+519,,Notebook Hp 15-da0022 Reacondicionado,857130001,256 Gb,Intel Pentium,8 Gb,429990,2021-09-16
+520,,Notebook Hp 14-ce3065st Reacondicionado,857134001,256 Gb,Intel Core I5,8 Gb,569990,2021-09-16
+521,,Notebook Asus X515ma-br288t,856210001, 500 Gb,Intel Celeron,4 Gb,309990,2021-09-16
+522,,Notebook Hp 14-fq0013dx Reacondicionado,857128001,128 Gb,Amd Athlon,4 Gb,319990,2021-09-16
+523,,Notebook Reacondicionado Hp 14m-dw1013dx,851068001,128 Gb,Intel Core I3,8 Gb,499990,2021-09-16
+524,,Notebook Gamer Acer Nitro 5 An515-55-56p2-2,857358001,512 Gb,Intel Core I5,16 Gb,899990,2021-09-16
+525,,Notebook Dell G5 5505,857110001,256 Gb,Amd Ryzen 7,8 Gb,1249990,2021-09-16
+526,,Macbook Pro,858915001,256 Gb,Apple M1,8 Gb,1349990,2021-09-16
+527,,Notebook Hp Pavilion X360 Reacondicionado,858968001,256 Gb,Intel Core I5,8 Gb,589990,2021-09-16
+528,,Notebook Dell 14-5406 Reacondicionado,857119001,512 Gb,Intel Core I7, 8 Gb,769990,2021-09-16
+529,,Notebook Hp 14-dq1043c I3 Reacondicionado,857129001,256 Gb,Intel Core I3,8 Gb,439990,2021-09-16
+530,,Notebook Lenovo Ideapad 1 14ada05,865065001,64 Gb,Amd Athlon,4 Gb,299990,2021-09-16
+531,,Notebook Lenovo Ideapad 3 15itl6,866157001,256 Gb,Intel Core I3,4 Gb,449990,2021-09-16
+532,,Notebook Msi Prestige 14evo A11m-250cl,856793001,512 Gb,Intel Core I5,16 Gb,899990,2021-09-16
+533,,Notebook Lenovo Ideapad 3 14itl6,857972001,512 Gb,Intel Core I7,8 Gb,819990,2021-09-16
+534,,Notebook Reacondicionado Dell 15-3593,851070001, 128 Gb,Intel Core I3,8 Gb,489990,2021-09-16
+535,,Notebook Gamer Msi Gf65 Thin 10sdr-1272cl,856791001,512 Gb,Intel Core I7,16 Gb,1349990,2021-09-16
+536,,Notebook Gamer Hp Pavilion 15-dk1022la,860717001,256 Gb,Intel Core I7,8 Gb,1209990,2021-09-16
+537,,Notebook Lenovo Ideapad S145-14ast,840418001,500 Gb,Amd A4,4 Gb,299990,2021-09-16
+538,,Notebook Dell 15-3505 Reacondicionado,857122001,512 Gb,Amd Ryzen 7,12 Gb,739990,2021-09-16
+539,,Notebook Gamer Hp 15-EC1026LA,827605001,256 Gb,Amd Ryzen 5,8 GB,996990,2021-09-16
+540,,Notebook Dell 15-3505 Reacondicionado,857123001,128 Gb,Amd Athlon,4 Gb,429990,2021-09-16
+541,,Notebook Asus X543ua-dm3470t,847348001,1 Tb,Intel Core I3,4 Gb,369990,2021-09-16
+542,,Notebook Asus Vivobook Ultra Thin,857106001,64 Gb,Intel Celeron,4 Gb,324990,2021-09-16
+543,,Notebook Lenovo Ideapad 3,851823001,128 Gb,Intel Core I3,4 Gb,849990,2021-09-16
+544,,Notebook Dell G3 3500,857108001,256 Gb,Intel Core I5,8 Gb,969990,2021-09-16
+545,,Notebook Lenovo Yoga Slim 9 14itl5,847312001,1 Tb,Intel Core I7,16 Gb,1449990,2021-09-16
+546,,Notebook Lenovo Yoga 9 14itl5,847313001,1 Tb,Intel Core I5,16 Gb,1149990,2021-09-16
+547,,Notebook Lenovo Yoga Slim 7 14itl05,858765001,512 Gb,Intel Core I5,8 Gb,849990,2021-09-16
+548,,Macbook Apple Pro Myda2b,864728001,256 Gb,Apple M1,8 Gb,1509990,2021-09-16
+549,,Macbook Pro,861596001,256 Gb, Apple M1,8 Gb,1349990,2021-09-16
+550,,Notebook Dell Inspiron 15 3000,857111001,128 Gb,Intel Core I3,4 Gb,449990 ,2021-09-16
+551,,Notebook Hp 14-cf2051la,836670001,256 Gb,Intel Core I3,4 Gb,449990,2021-09-16
+552,,Notebook Dell 15-3505 Reacondicionado,857124001,512 Gb,Intel Core I7,12 Gb,819990,2021-09-16
+553,,Macbook Apple Pro Myd82b,864727001,256 Gb,Apple M1,8 Gb,1349990,2021-09-16
+554,,Notebook Lenovo Slim 7,843695001,512 GB,Intel Core I5,8 GB,899990,2021-09-16
+555,,Macbook Air,844509001,256 Gb,Apple M1,8 Gb,1049990,2021-09-16
+556,,Notebook Dell 14-5406 Reacondicionado,857120001,512 Gb,Intel Core I3,8 Gb,769990,2021-09-16
+557,,Notebook Lenovo Ideapad S145,854773001,500 Gb,Amd Athlon,4 Gb,319990,2021-09-16
+558,,Notebook Lenovo Ideapad S145,843715001,128 Gb,Intel Core I3,4 GB,449990,2021-09-16
+559,,Notebook Dell G5 15 5500,857109001,256 Gb,Intel Core I7,8 Gb,1249990,2021-09-16
+560,,Notebook Gamer Hp Pavilion 15-dk1028la,861804001,256 Gb,Intel Core I5,8 Gb,829990,2021-09-16
+561,,HP Chromebook,42710,32GB eMMC,"AMD® A4-9120, 1,6GHz hasta 2,4GHz (1M Caché L2)",4 GB (1x4GB) DDR4 2666Mhz (Máx. 32GB de Memoria RAM) X Slot,237090,2021-09-16
+562,,HP 240 G7,38020,"SATA de 500 GB, 5400 rpm","Intel® Celeron® N4020, 1,1 GHz hasta 2,8 GHz (4MB caché)",4GB SDRAM DDR4-2400Mhz (1x4GB)(Máx. 8GB de Memoria RAM) 1 Slot,309290,2021-09-16
+563,,Asus X515MA-BR576T,42189,"500GB SATA 5400RPM 2.5"" HDD","Intel® Celeron® N4020, 1.1GHz hasta 2.8GHz (4MB Caché)",4GB DDR4 2400MHz SO-DIMM (Máx. 8GB de Memoria RAM) X 1Slot,319590,2021-09-16
+564,,Asus X515MA-BR288T,41517,"500GB SATA 5400RPM 2.5"" HDD","Intel® Celeron® N4020, 1.1GHz hasta 2.8GHz (4MB Caché)",4GB DDR4 SO-DIMM (Máx. 8GB de Memoria RAM) 1X Slot,340190,2021-09-16
+565,,HP 250 G8,41940,1TB Disco duro SATA de 5400 RPM,"Intel® Core™ 3-1005G1, 1,2GHz hasta 3,4GHz (4M Caché L3)",4GB RAM DDR4-2666MHz (1x4GB)(Máx. 16GB de Memoria RAM) 2 Slot,381490,2021-09-16
+566,,HP HP 348 G7,42392,HDD 1 TB 5400RPM,"Intel® Core™ i3-10110U, 2,10GHz hasta 4,10GHz (4MB Caché)",4GB DDR4 2666Mhz (Máx. 16 GB de Memoria RAM) 2 Slot,402090,2021-09-16
+567,,Asus X412FA-EB1257T,40077,256GB SSD / M.2 NVMe™ PCIe® 3.0,"Intel® Pentium® Gold 5405U, frecuencia básica 2.3 GHz (2M Cache, hasta 2.3 GHz)",4GB DDR4 on board (Máx memoria RAM 4GB),412390,2021-09-16
+568,,HP 240 G7,38857,SATA de 1 TB y 5400 rpm,"Intel® Core™ i3-1005G1, 1,2GHz hasta 3,4GHz (4MB caché)",4 GB de SDRAM DDR4-2666 (1x4GB) (Máx. 16GB de Memoria RAM) 2 Slot,422690,2021-09-16
+569,,Asus Aspire 3 A314-22-R522-1,42823,256GB SSD PCI Express,"AMD Athlon™ 3050U, 2.30GHz hasta 3.20GHz (4MB Caché)",12GB DDR4 SDRAM 2400/2666/3200Mhz (4GB On Board + 1 Slot)(Máx. 12GB de Memoria RAM) 1 Slot,453590,2021-09-16
+570,,HP 14-dq2026la,43015,Unidad de estado sólido Intel® PCIe® NVMe™ M.2 de 256 GB,"Intel® Core™ i3-1115G4, hasta 4,1GHz (6MB caché L3)",4GB RAM DDR4-3200MHz (1x 4GB) + 16GB Intel® Optane™ (Máx. 4GB de Memoria RAM) 1 Slot (Ranura no accesible para el usuario),463890,2021-09-16
+571,,HP Pavilion x360,42691,SSD PCIe® NVMe™ M.2 de 256GB,"Intel® Pentium Gold 7505, hasta 3,5GHz (4MB Caché L3)",4 GB DDR4-3200MHz (1x4GB) (Máx.16 GB de Memoria RAM) X Slot,484490,2021-09-16
+572,,Asus X515EA-BQ507T,41554,256GB M.2 NVMe™ PCIe® 3.0 SSD,"Intel® Core™ i3-1115G4, 3.0GHz hasta 4.1GHz (6MB Caché)",4GB DDR4 2666MHz (on board) (Máx. 12GB de Memoria RAM) 1 Slot,494890,2021-09-16
+573,,HP 15-ef1018la,41355,256GB SSD PCIe® NVMe™ M.2,"AMD Ryzen™ 5 4500U, 2,3GHz hasta 4,0GHz (8MB Caché L3)",8 GB de SDRAM DDR4-2666 (1x8GB) (Máx. 16 GB de Memoria RAM) X 2 Slot,515490,2021-09-16
+574,,Huawei Matebook D 15,43264,SSD N4VMe PCIe de 256GB,"Intel® Core™ i3-10110U, 2,10GHz hasta 4,10GHz (4MB Caché)",8GB DDR4 2400MHz  (Máx. 8GB de Memoria RAM) 1 Slot,546390,2021-09-16
+575,,Asus Aspire 3 A314-22-R56E-1,43016,256GB SSD PCI Express,"AMD Ryzen™ 3 3250U, 2.60GHz hasta 3.50GHz (4MB Caché)",12GB (4GB On Board + 1 Slot)(Máx. 12GB de Memoria RAM) 1 Slot,549990,2021-09-16
+576,,Huawei Matebook D 14,43263,SSD NVMe PCIe de 256GB,"Intel® Core™ i3-10110U, 2,10GHz hasta 4,10 GHz (4MB Caché)",8GB DDR4 2400 MHz (Máx. 8GB de Memoria RAM) ,566990,2021-09-16
+577,,HP 14-dy0501la,43061,Unidad de estado sólido PCIe® NVMe™ M.2 de 256 GB,"Intel® Core™ i3-1125G4, hasta 3,70GHz (8MB caché)",8 GB de RAM DDR4-3200 MHz (2x4GB)(Máx. 16GB de Memoria RAM) 2 Slot ,659790,2021-09-16
+578,,Huawei Matebook D 14,42359,SSD NVMe PCIe de 512 GB,"Intel® Core™ i5-10210U, 1,60GHz hasta 4,20GHz (6MB caché)",8GB DDR4 2400 mhz ,721690,2021-09-16
+579,,HP 15-ec1026la,37289,256GB SSD PCIe®  NVMe™ M.2,"AMD Ryzen™ 5 4600H, 3.0GHz hasta 4,0 GHz (3MB caché)",8GB SDRAM DDR4 3200Mhz (Máx. 16GB de Memoria RAM) 2 Slot ,731990,2021-09-16
+580,,Acer Nitro 5 AN515-55-56P2-2,42048,512GB SSD PCI Express,"Intel® Core™ i5-10300H, 2.50GHz hasta 4.50GHz (8M Caché)",16GB DDR4 SODIMM 2400/2666/3200Mhz (Máx. 32GB de Memoria RAM) 2 Slot,793790,2021-09-16
+581,,HP 15-eh0011la,43062,Unidad de estado sólido M.2 PCIe® NVMe™ de 512 GB,"AMD Ryzen™ 7 4700U, 2,0GHz hasta 4,1GHz (8MB caché L3)",16 GB de SDRAM DDR4-3200 (2x8GB)(Máx. 16GB de Memoria RAM) 2 Slot ,804090,2021-09-16
+582,,HP Pavilion Aero 13-be0501la,42281,Unidad de estado sólido M.2 PCIe® NVMe™ de 512 GB,"AMD Ryzen™ 5 5600U, 2,3 GHz hasta 4,2GHz (16MB Caché L3)",8GB RAM DDR4-3200 MHz (integrada)(Máx. GB de Memoria RAM) X Slot,814390,2021-09-16
+583,,Asus D433IA-EB934R,43186,512GB M.2 NVMe™ PCIe® 3.0 SSD,"AMD Ryzen™ 7 4700U, 2.0GHz hasta 4.1GHz (8MB Caché)",16GB DDR4 2666 MHz (on board)(Máx.16 GB de Memoria RAM) X Slot,824790,2021-09-16
+584,,HP 15-dk1028la,42347,256GB SSD / Unidad de estado sólido Intel,"Intel® Core™ i5-10300H, 2,5 GHz hasta 4,5GHz (8MB Caché L3)",8GB SDRAM DDR4-2933Mhz (1x8GB) + 16GB Intel Optane (Máx. 32GB de Memoria RAM) X 2 Slot,824790,2021-09-16
+585,,Asus ideapad S540-13IML,42015,512GB SSD M.2 2280 PCIe 3.0x4 NVMe,"Intel® Core™ i5-10210U, 1.6GHz hasta 4.2GHz (6M Caché)",8GB Soldered DDR4-2666Mhz (Máx.16 GB de Memoria RAM) X Slot,835090,2021-09-16
+586,,Asus X571GT-BQ930T,41518,512GB M.2 NVMe™ PCIe® 3.0 SSD,"Intel® Core™ i5-9300H, 2.4GHz hasta 4.1GHz (8MB Caché)",8GB DDR4 (4GB DDR4 on board + 4GB DDR4 SO-DIMM) (Máx. 12 GB de Memoria RAM) 1Slot,855690,2021-09-16
+587,,Asus ideapad S540-13IML,42528,512GB SSD M.2 2280 PCIe 3.0x4 NVMe,"Intel® Core™ i5-10210U, 1.6GHz hasta 4.2GHz (6M Caché)",8GB Soldered DDR4-2666Mhz (Máx.16 GB de Memoria RAM) X Slot,855690,2021-09-16
+588,,HP 13-ba1123la,39513,Unidad de estado sólido PCIe® NVMe™ M.2 de 256 GB ,"Intel® Core™ i5-1135G7,  hasta 4.2 GHz (8M Caché)",8GB de SDRAM DDR4-2933 (incorporada) (8GB Máx. Memoria) + Intel® Optane™ de 16GB,927790,2021-09-16
+589,,Asus ROG Strix G15 G512LI-HN061T,40482,512GB SSD M.2 NVMe™ PCIe® 3.0,"Intel® Core™ i5-10300H, 2.5 GHz hasta 4.5GHz (8M Caché)",8GB DDR4 SO-DIMM 2933MHz (Máx. 32GB de Memoria RAM) 2 Slot,958790,2021-09-16
+590,,Asus FX516PC-HN021T,41903,512GB M.2 NVMe™ PCIe® 3.0 SSD,"Intel® Core™ i7-11370H, 3.3GHz hasta  4.8GHz (12MB Caché)",8GB DDR4 3200Mhz (on board)(Máx. 32GB de Memoria RAM) 1 Slot,979390,2021-09-16
+591,,Lenovo Ideapad s540,40025,512GB SSD M.2 2280 PCIe 3.0x4 NVMe,"Intel Core i7-10510U, desde 1.8GHz hasta 4.9GHz",16GB DDR4 2666MHz ( Máx. RAM soportada 16GB),999990,2021-09-16
+592,,Apple Macbook Air,41980,SSD de 256 GB,M1 de Apple 8 núcleos con 4 núcleos de rendimiento y 4 de eficiencia,8 GB,999990,2021-09-16
+593,,Apple Macbook Air,40890,SSD de 256 GB,M1 de Apple 8 núcleos con 4 núcleos de rendimiento y 4 de eficiencia,8 GB,999990,2021-09-16
+594,,Asus FX506HC-HN042T,42186,512GB M.2 NVMe™ PCIe® 3.0 SSD,"Intel® Core™ i5-11400H, 2.7GHz hasta 4.5GHz (12MB Caché)",8GB DDR4 SO-DIMM (Máx. 32GB de Memoria RAM) 2 Slot,999990,2021-09-16
+595,,Apple Macbook Air,40893,SSD de 256 GB,M1 de Apple 8 núcleos con 4 núcleos de rendimiento y 4 de eficiencia,8 GB,999990,2021-09-16
+596,,Asus UX435EG-AI094TS,37724,512GB SSD M.2 NVMe™ PCIe®,"Intel® Core™ i5-1135G7, 2.4 GHz hasta 4.2GHz (8M Cache)",8GB LPDDR4X (on board) + 32GB de memoria Intel® Optane™(Máx. 8GB de Memoria RAM) 1 Slot,1133990,2021-09-16
+597,,Huawei Matebook X,42709,SSD NVMe PCIe de 512 GB,"Intel® Core™ i5-10210U, 1,60GHz hasta 4,20GHz (6MB Caché)",16GB LPDDR3 (Máx. 16GB de Memoria RAM) 1 Slot,1133990,2021-09-16
+598,,HP OMEN 15-en0002la,40501,512GB SSD M.2 PCIe® NVMe™,"AMD Ryzen™ 7 4800H, 2,9GHz hasta 4,3GHz (4MB caché L2)",16GB SDRAM DDR4-3200Mhz (2x8GB) (Máx. 16GB de Memoria RAM) 2 Slot ,1185590,2021-09-16
+599,,Apple Macbook Air,42014,SSD de 512 GB,M1 de Apple 8 núcleos con 4 núcleos de rendimiento y 4 de eficiencia,8 GB,1237090,2021-09-16
+600,,Apple Macbook Air,40892,SSD de 512 GB,M1 de Apple 8 núcleos con 4 núcleos de rendimiento y 4 de eficiencia,8 GB,1237090,2021-09-16
+601,,Apple Macbook Air,40894,SSD de 512 GB,M1 de Apple 8 núcleos con 4 núcleos de rendimiento y 4 de eficiencia,8 GB,1237090,2021-09-16
+602,,Huawei Mate Xpro,42708,SSD NVMe PCIe de 512 GB,"Intel® Core™ i5-1135G7, hasta 4,20GHz (8MB Caché)",16GB LPDDR4x (Máx. 16GB de Memoria RAM) 1 Slot,1237090,2021-09-16
+603,,Apple Macbook Pro,41175,SSD de 256 GB,M1 de Apple 8 núcleos con 4 núcleos de rendimiento y 4 de eficiencia,8 GB,1288690,2021-09-16
+604,,Apple Macbook Pro,42282,SSD de 256 GB,M1 de Apple 8 núcleos con 4 núcleos de rendimiento y 4 de eficiencia,8 GB,1288690,2021-09-16
+605,,HP 13-ba1124la,39511,512GB SSD / Unidad de estado sólido Intel® PCIe® NVMe™ M.2,"Intel® Core™ i7-1165G7,  hasta 4.7 GHz (12M Caché)",8GB SDRAM DDR4 2933Mhz + 32GB Intel® Optane™(8GB Máx. Memoria),1340190,2021-09-16
+606,,Lenovo ThinkPad X13,41852,512GB SSD M.2 2280 PCIe 3.0x4 NVMe,"Intel® Core™ i5-10210U, hasta 4.2GHz (6MB Caché)",16GB DDR4-2666Mhz (Máx. 16 GB de Memoria RAM soldada) ,1349990,2021-09-16
+607,,Lenovo Yoga 9 14ITL5,40625,1TB SSD M.2 NVME,"Intel® Core™ i5 -1135G7 hasta 4,20 GHz.","16GB Soldered LPDDR4x-4266(Memoria soldada al tablero del sistema, sin ranuras)",1499990,2021-09-16
+608,,Asus ROG Strix G15 G513QM-HF276T,41078,512GB M.2 NVMe™ PCIe® 3.0 SSD,"AMD Ryzen™ 9 5900HX, 3.3GHz hasta 4.6GHz (16MB Caché)",16GB DDR4-3200Mhz SO-DIMM (8GBx2)(Máx. 32GB de Memoria RAM) 2 Slot,1515490,2021-09-16
+609,,"TUF Gaming F15 FX506LH-HN110T Intel Core i5 8GB RAM 512GB SSD NVIDIA GeForce GTX 1650 15.6"" 144Hz",15059525,512GB,INTEL CORE I5,8GB,799990,2021-09-16
+610,,"Notebook Gamer Nitro 5 AN515-55-56P2-1 Intel Core i5 12GB RAM 512 GB SSD NVIDIA GeForce GTX 1650 15.6""",15016083,512GB,INTEL CORE I5,12GB,799990,2021-09-16
+611,,"Pavilion Gaming 15-DK1044LA Intel Core i5 8GB RAM 512GB SSD NVIDIA GTX 1660Ti 15.6"" 60 Hz",15261226,512GB,INTEL CORE I5,8GB,799990,2021-09-16
+612,,"Notebook Gamer Legion 5 AMD Ryzen 5 5600, 16GB RAM, 1TB SSD, 6GB NVIDIA GeForce RTX 3060, 15.6"" FHD",15160163,1TB,AMD RYZEN R5,16GB,1269990,2021-09-16
+613,,"Notebook Pavilion Gaming 15-dk1037la Intel® Core i7 16GB 1TB + 128GB SSD NVIDIA GeForce GTX 1660Ti 15,6""",15224419,128GB,INTEL CORE I7,16GB,999990,2021-09-16
+614,,"TUF Gaming F15 FX506LH-HN155T Intel Core i7 8GB RAM 512GB SSD NVIDIA GeForce GTX 1650 15.6""",15219714,512GB,INTEL CORE I7,8GB,969990,2021-09-16
+615,,"Notebook Pavilion Gaming 15-ec1026la AMD Ryzen 5 8GB 256GB SSD PCIe 15.6""",15359794,256GB,AMD RYZEN R5,8GB,749990,2021-09-16
+616,,"Notebook HP Pavilion Gaming 15-dk1028la Intel Core i5 8GB RAM 256GB SSD NVIDIA GTX 1050 15.6"" 60 Hz",15331812,256GB,INTEL CORE I5,8GB,799990,2021-09-16
+617,,"Pavilion Gaming 15-DK1043LA Intel Core i5 8GB RAM 512GB SSD NVIDIA GTX 1650Ti 15.6"" 60 Hz",15261225,512GB,INTEL CORE I5,8GB,829990,2021-09-16
+618,,"Notebook Pavilion Gaming Intel Core i5-10300H 8GB RAM + 32GB Intel Optane 512GB SSD NVIDIA GeForce GTX 1650 16.1""",14449258,512GB,INTEL CORE I5,8GB,949990,2021-09-16
+619,,"HP Pavilion Gaming 15-ec1024la AMD Ryzen 7 4800H 8GB 512GB SSD PCIe 15.6""",15477982,512GB,AMD RYZEN R7,8GB,849990,2021-09-16
+620,,"ROG Zephyrus G14 GA401QM-K2120T AMD Ryzen 9 16GB RAM 1TB SSD NVIDIA GeForce RTX 3060 14""",15220657,1TB,AMD RYZEN 9,16GB,1799990,2021-09-16
+621,,@NTG LENO LEGION I7 8 1T+128S 1660,11235824,128GB,INTEL CORE I7,8GB,1199990,2021-09-16
+622,,"Alienware NB 15 m15 R3 Intel Core i7 16GB RAM 512GB SSD NVIDIA® GeForce RTX¿ 2070 15.6""",15261223,512GB,INTEL CORE I7,16GB,1899990,2021-09-16
+623,,"Notebook Gamer OMEN Intel Core i5 8GB RAM + 32GB Intel Optane 512GB SSD NVIDIA GeForce RTX 2060 15.6""",14449248,512GB,INTEL CORE I5,8GB,1099990,2021-09-16
+624,,"Notebook ROG Flow X13 GV301QH-K6291T AMD Ryzen 9 16GB RAM 1TB SSD NVIDIA GeForce GTX 1650 13.3""",14954807,1TB,AMD RYZEN 9,16GB,2699990,2021-09-16
+625,,"Alienware NB 15 m15 R3 Intel Core i7 16GB RAM 512GB SSD NVIDIA® GeForce RTX¿ 2060 15.6""",15261222,512GB,INTEL CORE I7,16GB,1799990,2021-09-16
+626,,Notebook Legion 7i Intel Core i7-10750H 32GB RAM 1TB SSD Nvidia Geforce RTX2080 Super Max-Q 240HZ,11236440,1TB,INTEL CORE I7,32GB,2519990,2021-09-16
+627,,"Katana GF76 11UD Intel Core i7 16GB RAM 512GB SSD NVIDIA® GeForce RTX¿ 3050 Ti 4GB 17.3"" 144 Hz",15320552,512GB,INTEL CORE I7,16GB,1399990,2021-09-16
+628,,"ROG Zephyrus Duo 15 SE GX551QS-HB261T AMD Ryzen 9 32GB RAM 2TB SSD NVIDIA GeForce RTX 3080 15.6"" 120Hz",15402356,2TB,AMD RYZEN 9,32GB,3999990,2021-09-16
+629,,NTG LENO LEGION I5 16 1T+128S 2060,11235697,128GB,INTEL CORE I5,16GB,1199990,2021-09-16
+630,,"Notebook Pavilion Gaming 16-a0004la Intel® Core i7 12GB 512GB SSD PCIe 16""",15229611,512GB,INTEL CORE I7,12GB,1499990,2021-09-16
+631,,Legion Slim 7i Core i7 10 Gen 16GB 512SSD GTX1660,14984188,512GB,INTEL CORE I7,16GB,1499990,2021-09-16
+632,,Notebook Gamer 15-EK0008 Intel Core i7-10750H 32GB RAM + 32 Intel Optane 512GB SSD NVIDIA GeForce RTX 2070 144Hz,13781047,512GB,INTEL CORE I7,32GB,1999990,2021-09-16
+633,,Pavilion Gaming Ryzen 7 8GB RAM 512GB SSD 156,15229254,512GB,AMD RYZEN R7,8GB,1099990,2021-09-16
+634,,"Pavilion Gaming 15-dk1022la Intel® Core i7 8GB RAM + 16GB Intel® Optane 256GB SSD 15,6""",15224425,256GB,INTEL CORE I7,8GB,1099990,2021-09-16
+635,,"Notebook Gamer Intel Core i7-10750H 12GB RAM 512GB SSD NVIDIA GeForce RTX 2060 16""",14624679,512GB,INTEL CORE I7,12GB,1399990,2021-09-16
+636,,"Notebook Gamer OMEN Intel Core Intel Core i7-10750H 16GB RAM + 32GB Intel Optane 512GB SSD NVIDIA GeForce RTX 2070 15.6""",14550700,512GB,INTEL CORE I7,16GB,2099990,2021-09-16
+637,,Notebook Aorus 15P XC i7-10870H/16GB/512GB/RTX 3070,15425611,512GB,INTEL CORE I7,16GB,2399990,2021-09-16
+638,,Notebook Aero I7-10870H 8Gb 512Gb Ssd / Rtx 3060 / W10,15391949,512GB,INTEL CORE I7,8GB,2099990,2021-09-16
+639,,"Notebooks Gamer AN515 AMD Ryzen R5 3550H 12GB RAM 1TB HDD + 128GB SSD GeForce® GTX 1650 15.6""",11135800,128GB,AMD RYZEN R5,12GB,749990,2021-09-16
+640,,"Notebook Pavilion Gaming 15-ec1026la AMD Ryzen 5 8GB 256GB SSD NVIDIA GeForce GTX 1650 15.6""",13781046,256GB,AMD RYZEN R5,8GB,699990,2021-09-16
+641,,Notebook Aero I7-10870H 8Gb 512Gb Ssd / Rtx 3060 / W10,15391949,512GB,INTEL CORE I7,8GB,2099990,2021-09-16
+642,,Notebook HP Pavilion x360 Convertible 14-dy0501la,4E8P3LA,Unidad de estado sólido PCIe® NVMe™ M.2 de 256 GB,"Intel® Core™ i3-1125G4 (hasta 3,7 GHz con tecnología Intel® Turbo Boost, 8 MB de caché L3, 4 núcleos, 8 subprocesos)",8 GB de RAM DDR4-3200 MHz (2 x 4 GB),679990,2021-09-16
+643,,Notebook HP Pavilion Gaming 15-dk1033la,309F1LA,Unidad de estado sólido Intel® PCIe® NVMe™ M.2 de 256 GB,"Intel® Core™ i5-10300H (frecuencia base de 2,5 GHz, hasta 4,5 GHz con tecnología Intel® Turbo Boost, 8 MB de caché L3 y 4 núcleos)",8 GB de RAM DDR4-2933 MHz (1 x 8 GB),899990,2021-09-16
+644,,Notebook HP 14-dq2026la,3V8J8LA,Unidad de estado sólido Intel® PCIe® NVMe™ M.2 de 256 GB,"Intel® Core™ i3-1115G4 (hasta 4,1 GHz con tecnología Intel® Turbo Boost, 6 MB de caché L3 y 2 núcleos)",4 GB de RAM DDR4-3200 MHz (1 x 4 GB),499990,2021-09-16
+645,,Notebook HP Pavilion 13-bb0004la,310D8LA,Unidad de estado sólido PCIe® NVMe™ M.2 de 256 GB,"Intel® Core™ i7-1165G7 (hasta 4,7 GHz con tecnología Intel® Turbo Boost, 12 MB de caché L3 y 4 núcleos)",8 GB de RAM DDR4-3200 MHz (integrada),949990,2021-09-16
+646,,Notebook HP Spectre x360 Convertible 14-ea0001la,30A09LA,Unidad de estado sólido Intel® PCIe® NVMe™ M.2 de 512 GB,"Intel® Core™ i7-1165G7 (hasta 4,7 GHz con tecnología Intel® Turbo Boost, 12 MB de caché L3 y 4 núcleos)",RAM LPDDR4x-3733 MHz de 16 GB (incorporada),1799990,2021-09-16
+647,,Notebook HP Pavilion x360 Convertible 14-dy0002la,3A9V1LA,Unidad de estado sólido PCIe® NVMe™ M.2 de 256 GB,"Intel® Pentium Gold 7505 (hasta 3,5 GHz con tecnología Intel® Turbo Boost, 4 MB de caché L3, 2 núcleos)",4 GB de RAM DDR4-3200 MHz (1 x 4 GB),499990,2021-09-16
+648,,Notebook HP Pavilion Gaming 15-dk1043la,3Y7A8LA,Unidad de estado sólido M.2 PCIe® NVMe™ de 512 GB,"Intel® Core™ i5-10300H (frecuencia base de 2,5 GHz, hasta 4,5 GHz con tecnología Intel® Turbo Boost, 8 MB de caché L3 y 4 núcleos)",8 GB de RAM DDR4-2933 MHz (1 x 8 GB),949990,2021-09-16
+649,,Notebook HP Pavilion Gaming 15-dk1037la,309F7LA,Unidad de estado sólido M.2 PCIe® NVMe™ de 128 GB,"Intel® Core™ i7-10750H (frecuencia base de 2,6 GHz, hasta 5,0 GHz con tecnología Intel® Turbo Boost, 12 MB de caché L3 y 6 núcleos)",16 GB de RAM DDR4-2933 MHz (1 x 16 GB),1119990,2021-09-16
+650,,Notebook HP 240 G7,1D0F5LT,"SATA de 500 GB, 5400 rpm","Intel® Celeron® N4020 con gráficos Intel® UHD 600 (frecuencia base de 1,1 GHz, frecuencia de ráfaga de hasta 2,8 GHz, 4 MB de caché y 2 núcleos)",4 GB de RAM DDR4-2400 MHz (1 x 4 GB),299990,2021-09-16
+651,,Notebook HP 348 G7,2E4U1LT,Disco duro SATA de 1 TB y 5400 RPM,"Intel® Core™ i3-10110U (frecuencia base de 2,1 GHz, hasta 4,1 GHz con tecnología Intel® Turbo Boost, 4 MB de caché L3 y 2 núcleos)",4 GB de RAM DDR4-2666 MHz (1 x 4 GB),Precio no especificado,2021-09-16
+652,,Notebook HP ZBook Firefly G8,3C9C7LA,Unidad de estado sólido PCIe® NVMe™ TLC M.2 de 512 GB,"Intel® Core™ i7-1165G7 (hasta 4,7 GHz con tecnología Intel® Turbo Boost, 12 MB de caché L3 y 4 núcleos)",16 GB de RAM DDR4-3200 MHz (1 x 16 GB),Precio no especificado,2021-09-16
+653,,Notebook HP 15-ef1015la,310J5LA,Unidad de estado sólido PCIe® NVMe™ M.2 de 256 GB,"AMD Ryzen™ 3 4300U (velocidad base de 2,7 GHz, velocidad de ráfaga máxima de hasta 3,7 GHz, 4 MB de caché L3 y 4 núcleos)",4 GB de RAM DDR4-2666 MHz (1 x 4 GB),Precio no especificado,2021-09-16
+654,,Notebook OMEN 15-ek0062la,1M1L9LA,Unidad de estado sólido Intel® de 512 GB,"Intel® Core™ i7-10750H (frecuencia base de 2,6 GHz, hasta 5,0 GHz con tecnología Intel® Turbo Boost, 12 MB de caché L3 y 6 núcleos)",8 GB de SDRAM DDR4-2933 (1 x 8 GB),Precio no especificado,2021-09-16
+655,,Notebook HP Pavilion Gaming - 15-dk1028la,10G81LA,Unidad de estado sólido Intel® de 256 GB,"Intel® Core™ i5-10300H (frecuencia base de 2,5 GHz, hasta 4,5 GHz con tecnología Intel® Turbo Boost, 8 MB de caché L3 y 4 núcleos)",8 GB de SDRAM DDR4-2933 (1 x 8 GB),Precio no especificado,2021-09-16
+656,,Notebook HP 14-cf2053la,299P9LA,Unidad de estado sólido M.2 PCIe® NVMe™ de 512 GB,"Intel® Core™ i3-10110U (frecuencia base de 2,1 GHz, hasta 4,1 GHz con tecnología Intel® Turbo Boost, 4 MB de caché L3 y 2 núcleos)",8 GB de RAM DDR4-2666 MHz (1 x 8 GB),Precio no especificado,2021-09-16
+657,,Notebook HP 15-da2031la,2M6J3LA,Disco duro SATA de 1 TB y 5400 RPM,"Intel® Core™ i5-10210U (frecuencia base de 1,6 GHz, hasta 4,2 GHz con tecnología Intel® Turbo Boost, 6 MB de caché L3 y 4 núcleos)",4 GB de RAM DDR4-2666 MHz (1 x 4 GB),Precio no especificado,2021-09-16
+658,,Notebook HP EliteBook x360 1040 G6,8GF48LT,SSD M.2 PCIe® NVMe™ de 512 GB,"Intel® Core™ i5-8265U con gráficos Intel® UHD 620 (frecuencia base de 1,6 GHz, hasta 3,9 GHz con tecnología Intel® Turbo Boost, 6 MB de caché y 4 núcleos)",RAM DDR4-2666 MHz de 8 GB (integrada),Precio no especificado,2021-09-16
+659,,Notebook HP ZBook Firefly 14 G7,30C56LA,Unidad de estado sólido PCIe® NVMe™ TLC M.2 de 512 GB,"Intel® Core™ i7-10510U (frecuencia base de 1,8 GHz, hasta 4,9 GHz con tecnología Intel® Turbo Boost, 8 MB de caché L3 y 4 núcleos)",RAM DDR4-2666 MHz de 16 GB (incorporada),Precio no especificado,2021-09-16
+660,,Notebook HP ZBook Firefly 14 G7,30C55LA,Unidad de estado sólido PCIe® NVMe™ TLC M.2 de 512 GB,"Intel® Core™ i5-10210U (frecuencia base de 1,6 GHz, hasta 4,2 GHz con tecnología Intel® Turbo Boost, 6 MB de caché L3 y 4 núcleos)",16 GB de RAM DDR4-2666 MHz (1 x 16 GB),Precio no especificado,2021-09-16
+661,,Notebook HP 250 G8,2P5L7LT,Disco duro SATA de 1 TB y 5400 RPM,"Intel® Core™ i3-1005G1 (frecuencia base de 1,2 GHz, hasta 3,4 GHz con tecnología Intel® Turbo Boost, 4 MB de caché L3 y 2 núcleos)",4 GB de RAM DDR4-2666 MHz (1 x 4 GB),Precio no especificado,2021-09-16
+662,,Notebook HP 14-ck2096la,2C3C5LA,Disco duro SATA de 500 GB y 5400 rpm,"Intel® Celeron® N4020 (frecuencia base de 1,1 GHz, frecuencia de ráfaga de hasta 2,8 GHz, 4 MB de caché L2 y 2 núcleos)",4 GB de RAM DDR4-2400 MHz (1 x 4 GB),Precio no especificado,2021-09-16
+663,,Notebook HP 15-dw2039la,1A6E9LA,Disco duro SATA de 1 TB y 5400 RPM,"Intel® Core™ i7-1065G7 (frecuencia base de 1,3 GHz, hasta 3,9 GHz con tecnología Intel® Turbo Boost, 8 MB de caché, 4 núcleos)",8 GB de SDRAM DDR4-2666 (1 x 8 GB),Precio no especificado,2021-09-16
+664,,Notebook HP 15-dy1064la,6QW58LA,Unidad de estado sólido Intel® de 256 GB,"Intel® Core™ i5-1035G1 (frecuencia base de 1,0 GHz, hasta 3,6 GHz con tecnología Intel® Turbo Boost, 6 MB de caché, 4 núcleos)",SDRAM DDR4-2666 de 8 GB (1 x 8 GB),Precio no especificado,2021-09-16
+665,,Notebook HP Pavilion x360 Convertible 15-dq1003la,2B129LA,Unidad de estado sólido M.2 de 128 GB,"Intel® Core™ i5-10210U (frecuencia base de 1,6 GHz, base de hasta 4,2 GHz con tecnología Intel® Turbo Boost, 6 MB de caché y 4 núcleos)",8 GB de SDRAM DDR4-2666 (1 x 8 GB),Precio no especificado,2021-09-16
+666,,Notebook HP 14-ck2091la,275K1LA,Unidad de estado sólido SATA M.2 de 128 GB,"Intel® Core™ i3-10110U (frecuencia base de 2,1 GHz, hasta 4,1 GHz con tecnología Intel® Turbo Boost, 4 MB de caché L3 y 2 núcleos)",4 GB de RAM DDR4-2666 MHz (1 x 4 GB),Precio no especificado,2021-09-16
+667,,Notebook HP ENVY 13-ba1124la,2K6V7LA,Unidad de estado sólido Intel® PCIe® NVMe™ M.2 de 512 GB,Procesador no especificado,RAM DDR4-2666 MHz de 8 GB (integrada),Precio no especificado,2021-09-16
+668,,Notebook HP 348 G7,2Q0D2LT,Disco duro SATA de 1 TB y 5400 RPM,"Intel® Core™ i5-10210U (frecuencia base de 1,6 GHz, hasta 4,2 GHz con tecnología Intel® Turbo Boost, 6 MB de caché L3 y 4 núcleos)",4 GB de RAM DDR4-2666 MHz (1 x 4 GB),Precio no especificado,2021-09-16
+669,,Notebook HP ZBook Power G7,2S4Y8LA,Unidad de estado sólido PCIe® NVMe™ TLC M.2 de 1 TB,"Intel® Core™ i9-10885H (frecuencia base de 2,4 GHz, hasta 5,3 GHz con tecnología Intel® Turbo Boost, 16 MB de caché L3 y 8 núcleos)",16 GB de RAM DDR4-3200 MHz (1 x 16 GB),Precio no especificado,2021-09-16
+670,,Notebook HP Pavilion x360 Convertible 14-dh1032la,275K7LA,Unidad de estado sólido PCIe® NVMe™ M.2 de 256 GB,"Intel® Core™ i3-10110U (frecuencia base de 2,1 GHz, hasta 4,1 GHz con tecnología Intel® Turbo Boost, 4 MB de caché L3 y 2 núcleos)",4 GB de RAM DDR4-2666 MHz (1 x 4 GB),Precio no especificado,2021-09-16
+671,,Notebook HP 15-da2034la,2M6M1LA,Disco duro SATA de 1 TB y 5400 RPM,"Intel® Pentium® Gold 6405U (frecuencia base de 2,4 GHz, 2 MB de caché L3, 2 núcleos)",8 GB de RAM DDR4-2666 MHz (1 x 8 GB),Precio no especificado,2021-09-16
+672,,Notebook HP 14-cf3028la,171V1LA,Disco duro SATA de 1 TB y 5400 RPM,"Intel® Core™ i5-1035G1 (frecuencia base de 1,0 GHz, hasta 3,6 GHz con tecnología Intel® Turbo Boost, 6 MB de caché L3 y 4 núcleos)",4 GB de SDRAM DDR4-2666 (1 x 4 GB),Precio no especificado,2021-09-16
+673,,Notebook HP 14-cf2087la,310H3LA,Unidad de estado sólido SATA M.2 de 128 GB,"Intel® Celeron® N4020 (frecuencia base de 1,1 GHz, frecuencia de ráfaga de hasta 2,8 GHz, 4 MB de caché L2 y 2 núcleos)",4 GB de RAM DDR4-2400 MHz (1 x 4 GB),Precio no especificado,2021-09-16
+674,,Notebook HP Pavilion x360 Convertible 14-dw0005la,8VV69LA,Unidad de estado sólido M.2 PCIe® NVMe™ de 512 GB,"Intel® Core™ i7-1065G7 (frecuencia base de 1,3 GHz, hasta 3,9 GHz con tecnología Intel® Turbo Boost, 8 MB de caché L3 y 4 núcleos)",8 GB de SDRAM DDR4-3200 (1 x 8 GB),Precio no especificado,2021-09-16
+675,,Notebook HP Pavilion 14-dv0001la,30A61LA,Unidad de estado sólido Intel® PCIe® NVMe™ M.2 de 512 GB,"Intel® Core™ i5-1135G7 (hasta 4,2 GHz con tecnología Intel® Turbo Boost, 8 MB de caché L3 y 4 núcleos)",8 GB de RAM DDR4-3200 MHz (2 x 4 GB),Precio no especificado,2021-09-16
+676,,Notebook HP ENVY 13-ba1123la,2K6T1LA,Unidad de estado sólido PCIe® NVMe™ M.2 de 256 GB,"Intel® Core™ i5-1135G7 (hasta 4,2 GHz con tecnología Intel® Turbo Boost, 8 MB de caché L3 y 4 núcleos)",RAM DDR4-2666 MHz de 8 GB (integrada),Precio no especificado,2021-09-16
+677,,Notebook HP 14-dq1016la,9UV94LA,Unidad de estado sólido PCIe® NVMe™ M.2 de 256 GB,"Intel® Core™ i3-1005G1 (frecuencia base de 1,2 GHz, hasta 3,4 GHz con tecnología Intel® Turbo Boost, 4 MB de caché, 2 núcleos)","12 GB de SDRAM DDR4-2666 (1 x 4 GB, 1 x 8 GB)",Precio no especificado,2021-09-16
+678,,Notebook HP 15-dw2043la,9UV60LA,Unidad de estado sólido PCIe® NVMe™ M.2 de 256 GB,"Intel® Core™ i5-1035G1 (frecuencia base de 1,0 GHz, hasta 3,6 GHz con tecnología Intel® Turbo Boost, 6 MB de caché, 4 núcleos)",8 GB de SDRAM DDR4-2666 (1 x 8 GB),Precio no especificado,2021-09-16
+679,,Notebook HP Pavilion 14-dv0005la,310G1LA,Unidad de estado sólido Intel® de 256 GB,"Intel® Core™ i5-1135G7 (hasta 4,2 GHz con tecnología Intel® Turbo Boost, 8 MB de caché L3 y 4 núcleos)",8 GB de RAM DDR4-3200 MHz (1 x 8 GB),Precio no especificado,2021-09-16
+680,,Notebook HP Pavilion 14-dv0002la,309B1LA,Unidad de estado sólido (SSD) PCIe® NVMe™ M.2 de 1 TB,"Intel® Core™ i7-1165G7 (hasta 4,7 GHz con tecnología Intel® Turbo Boost, 12 MB de caché L3 y 4 núcleos)",16 GB de RAM DDR4-3200 MHz (1 x 16 GB),Precio no especificado,2021-09-16
+681,,Notebook HP 240 G7,151D7LT,SATA de 1 TB y 5400 rpm,"Intel® Core™ i3-1005G1 (frecuencia base de 1,2 GHz, hasta 3,4 GHz con tecnología Intel® Turbo Boost, 4 MB de caché L3 y 2 núcleos)",4 GB de RAM DDR4-2666 MHz (1 x 4 GB),Precio no especificado,2021-09-16
+682,,Notebook HP 15-dw1064la,2A4R3LA,Unidad de estado sólido SATA 3 TLC M.2 de 128 GB,"Intel® Core™ i7-10510U (frecuencia base de 1,8 GHz, hasta 4,9 GHz con tecnología Intel® Turbo Boost, 8 MB de caché L3 y 4 núcleos)","12 GB de RAM DDR4-2666 MHz (1 x 4 GB, 1 x 8 GB)",Precio no especificado,2021-09-16
+683,,Notebook HP 14-cf2052la,299P8LA,Unidad de estado sólido PCIe® NVMe™ M.2 de 256 GB,"Intel® Core™ i3-10110U (frecuencia base de 2,1 GHz, hasta 4,1 GHz con tecnología Intel® Turbo Boost, 4 MB de caché L3 y 2 núcleos)",8 GB de RAM DDR4-2666 MHz (1 x 8 GB),Precio no especificado,2021-09-16
+684,,Notebook HP 15-da1093la,18K56LA,Unidad de estado sólido M.2 de 256 GB,"Intel® Pentium® Gold 5405U (frecuencia base de 2,3 GHz, 2 MB de caché y 2 núcleos)",RAM DDR4-2133 MHz de 8 GB (1 x 8 GB),Precio no especificado,2021-09-16
+685,,Notebook HP Pavilion Gaming 16-a0004la,190G0LA,Unidad de estado sólido M.2 PCIe® NVMe™ de 512 GB,"Intel® Core™ i7-10750H (frecuencia base de 2,6 GHz, hasta 5,0 GHz con tecnología Intel® Turbo Boost, 12 MB de caché L3 y 6 núcleos)","12 GB de SDRAM DDR4-2933 (1 x 4 GB, 1 x 8 GB)",Precio no especificado,2021-09-16
+686,,Notebook HP 14-cf2051la,299P5LA,Unidad de estado sólido Intel® PCIe® NVMe™ M.2 de 256 GB,"Intel® Core™ i3-10110U (frecuencia base de 2,1 GHz, hasta 4,1 GHz con tecnología Intel® Turbo Boost, 4 MB de caché L3 y 2 núcleos)",4 GB de RAM DDR4-2666 MHz (1 x 4 GB),Precio no especificado,2021-09-16
+687,,Notebook HP Pavilion x360 Convertible 14-dw0002la,8VV66LA,Unidad de estado sólido Intel® de 256 GB,"Intel® Core™ i5-1035G1 (frecuencia base de 1,0 GHz, hasta 3,6 GHz con tecnología Intel® Turbo Boost, 6 MB de caché L3 y 4 núcleos)",8 GB de SDRAM DDR4-3200 (1 x 8 GB),Precio no especificado,2021-09-16
+688,,Notebook HP 15-dw1051la,2A4P8LA,Unidad de estado sólido PCIe® NVMe™ M.2 de 256 GB,"Intel® Core™ i5-10210U (frecuencia base de 1,6 GHz, hasta 4,2 GHz con tecnología Intel® Turbo Boost, 6 MB de caché L3 y 4 núcleos)",8 GB de RAM DDR4-2666 MHz (1 x 8 GB),Precio no especificado,2021-09-16
+689,,Notebook HP 15-da1094la,18K57LA,Disco duro SATA de 500 GB y 5400 rpm,"Intel® Pentium® Gold 5405U (frecuencia base de 2,3 GHz, 2 MB de caché y 2 núcleos)",4 GB de RAM DDR4-2133 MHz (1 x 4 GB),Precio no especificado,2021-09-16
+690,,Notebook HP 15-da0083la,9UV28LA,Disco duro SATA de 1 TB y 5400 RPM,"Intel® Pentium® Silver N5000 (frecuencia base de 1,1 GHz, frecuencia de ráfaga de hasta 2,7 GHz, 4 MB de caché L2 y 4 núcleos)",8 GB de RAM DDR4-2400 MHz (1 x 8 GB),Precio no especificado,2021-09-16
+691,,Notebook HP 240 G7,151D9LT,SATA de 1 TB y 5400 rpm,"Procesador Intel® Core™ i5-1035G1 con gráficos Intel® UHD (frecuencia base de 1 GHz, hasta 3,6 GHz con tecnología Intel® Turbo Boost, 6 MB de caché y 4 núcleos)",4 GB de RAM DDR4-2666 MHz (1 x 4 GB),Precio no especificado,2021-09-16
+692,,Notebook HP Pavilion 13-an1016la,2B111LA,Unidad de estado sólido PCIe® NVMe™ M.2 de 256 GB,"Intel® Core™ i7-1065G7 (frecuencia base de 1,3 GHz, hasta 3,9 GHz con tecnología Intel® Turbo Boost, 8 MB de caché L3 y 4 núcleos)",8 GB de RAM DDR4-2400 MHz (integrada),Precio no especificado,2021-09-16
+693,,Notebook HP 240 G7 (27R70LT),27R70LT,Disco duro SATA de 500 GB y 5400 rpm,"Intel® Celeron® N4100 con gráficos Intel® UHD 600 (frecuencia base de 1,1 GHz, frecuencia de ráfaga de hasta 2,4 GHz, 4 MB de caché y 4 núcleos)",4 GB de SDRAM DDR4-2400 (1 x 4 GB),Precio no especificado,2021-09-16
+694,,Notebook HP 240 G7,151D5LT,SATA de 1 TB y 5400 rpm,"Intel® Core™ i3-1005G1 (frecuencia base de 1,2 GHz, hasta 3,4 GHz con tecnología Intel® Turbo Boost, 4 MB de caché L3 y 2 núcleos)",4 GB de RAM DDR4-2666 MHz (1 x 4 GB),Precio no especificado,2021-09-16
+695,,Notebook HP Pavilion Gaming 16-a0001la,165G0LA,Unidad de estado sólido Intel® de 512 GB,"Intel® Core™ i5-10300H (frecuencia base de 2,5 GHz, hasta 4,5 GHz con tecnología Intel® Turbo Boost, 8 MB de caché L3 y 4 núcleos)",8 GB de SDRAM DDR4-2933 (1 x 8 GB),Precio no especificado,2021-09-16
+696,,Notebook OMEN 15-ek0010la,15F21LA,Unidad de estado sólido Intel® de 512 GB,"Intel® Core™ i5-10300H (frecuencia base de 2,5 GHz, hasta 4,5 GHz con tecnología Intel® Turbo Boost, 8 MB de caché L3 y 4 núcleos)",8 GB de SDRAM DDR4-2933 (1 x 8 GB),Precio no especificado,2021-09-16
+697,,Notebook HP 250 G7,153B5LT,SATA de 1 TB y 5400 rpm,"Procesador Intel® Core™ i3-1005G1 con gráficos Intel® UHD (frecuencia base de 1,2 GHz, hasta 3,4 GHz con tecnología Intel® Turbo Boost, 4 MB de caché y 2 núcleos)",4 GB de RAM DDR4-2666 MHz (1 x 4 GB),Precio no especificado,2021-09-16
+698,,Notebook HP ENVY 15-ep0002la,2B132LA,Unidad de estado sólido Intel® de 512 GB,"Intel® Core™ i7-10750H (frecuencia base de 2,6 GHz, hasta 5,0 GHz con tecnología Intel® Turbo Boost, 12 MB de caché L3 y 6 núcleos)",16 GB de SDRAM DDR4-2933 (2 x 8 GB),Precio no especificado,2021-09-16
+699,,Notebook HP ENVY 15-ep0001la,2B131LA,Unidad de estado sólido Intel® de 512 GB,"Intel® Core™ i7-10750H (frecuencia base de 2,6 GHz, hasta 5,0 GHz con tecnología Intel® Turbo Boost, 12 MB de caché L3 y 6 núcleos)",16 GB de SDRAM DDR4-2933 (2 x 8 GB),Precio no especificado,2021-09-16
+700,,Notebook HP Spectre x360 Convertible 13-aw0004la,6QW79LA,Unidad de estado sólido Intel® de 512 GB,"Intel® Core™ i7-1065G7 (frecuencia base de 1,3 GHz, hasta 3,9 GHz con tecnología Intel® Turbo Boost, 8 MB de caché, 4 núcleos)",16 GB de SDRAM LPDDR4-3200 (incorporada),Precio no especificado,2021-09-16
+701,,Notebook HP 240 G7 (151F0LT),151F0LT,SATA de 1 TB y 5400 rpm,"Procesador Intel® Core™ i5-1035G1 con gráficos Intel® UHD (frecuencia base de 1 GHz, hasta 3,6 GHz con tecnología Intel® Turbo Boost, 6 MB de caché y 4 núcleos)",4 GB de RAM DDR4-2666 MHz (1 x 4 GB),Precio no especificado,2021-09-16
+702,,"HP LAPTOP 15-EF1018LA / AMD RYZEN™ 5 / 8GB RAM / 256GB SSD / AMD RADEON GRAPHICS / 15.6""",2000383107424,256 GB SSD,AMD Ryzen™ 5,8 GB,529990,2021-09-16
+703,,"ASUS TUF GAMING F15 FX506LH / INTEL® CORE™ I5 / 8GB RAM / 512GB SSD / NVIDIA GEFORCE GTX 1650 / 15.6"" FHD",2000385135579,512 GB SSD,Intel Core i5,8 GB,799990,2021-09-16
+704,,HP PAVILION X360 CONVERTIBLE 14-DY0501LA / INTEL® CORE™ I3 / 8GB RAM / 256GB SSD / INTEL UHD GRAPHICS / 14'',2000385847649,256 GB SSD,Intel Core i3,8 GB,609990,2021-09-16
+705,,"ASUS LAPTOP E410MA-EK746T / INTEL® CELERON® / 4GB RAM / 64GB EMMC / INTEL UHD GRAPHICS 600 / 14"" FHD",2000385135562,64 GB eMMC,Intel Celeron,4 GB,279990,2021-09-16
+706,,HP LAPTOP 14-DQ2026LA / INTEL® CORE™ I3 / 20GB MEMORIA (16GB INTEL OPTANE+4GB RAM) / 256GB SSD / INTEL UHD GRAPHICS /14'' FHD,2000385847632,256 GB SSD,Intel Core i3,4 GB,459990,2021-09-16
+707,,"HP PAVILION GAMING LAPTOP 15-EC1026LA / AMD RYZEN™ 5 / 8GB RAM / 256GB SSD / NVIDIA GEFORCE GTX 1650 / 15.6""",2000379735440,256 GB SSD,AMD Ryzen™ 5,8 GB,699990,2021-09-16
+708,,"ASUS ZENBOOK 14 UM425 / AMD RYZEN™ 7 / 8GB RAM / 512GB SSD / AMD RADEON 7 / 14"" FHD",2000385400394,512 GB SSD,AMD Ryzen™ 7,8 GB,749990,2021-09-16
+709,,LENOVO IDEAPAD FLEX 5 / AMD RYZEN™ 5 / 8GB RAM / 256GB SSD / AMD RADEON GRAPHICS / 14'' FHD,2000386293094,256 GB SSD,AMD Ryzen™ 5,8 GB,669990,2021-09-16
+710,,"ASUS E410MA-EK1016T / INTEL® CELERON® / 4GB RAM / 64GB EMMC / INTEL UHD GRAPHICS 600 / 14"" FHD",2000385400387,64 GB eMMC,Intel Celeron,4 GB,279990,2021-09-16
+711,,"HP PAVILION GAMING LAPTOP 15-EC1024LA / AMD RYZEN™ 7 / 8GB RAM / 512GB SSD / NVIDIA GEFORCE GTX 1650 / 15.6"" FHD",2000381137980,512 GB SSD,AMD Ryzen™ 7,8 GB,849990,2021-09-16
+712,,"ACER NITRO 5 / INTEL® CORE™ I5 / 16GB RAM / 512GB SSD / NVIDIA GEFORCE GTX 1650 / 15.6"" FHD",2000383871721,512 GB SSD,Intel Core i5,16 GB,859990,2021-09-16
+713,,ACER C733 / INTEL® CELERON® / 4GB RAM / 32GB EMMC / INTEL UHD GRAPHICS / 11.6'',2000385850595,32 GB EMMC,Intel Celeron,4 GB,279990,2021-09-16
+714,,HP 348 G7 / INTEL® CORE™ I5 / 8GB RAM / 256GB SSD / 14'',2000385887492,256 GB SSD,Intel Core i5,8 GB,579990,2021-09-16
+715,,LENOVO LEGION 5 / AMD RYZEN™ 5 / 8GB RAM / 512GB SSD / NVIDIA GEFORCE RTX 3060 / 15.6'' FHD,2000385918295,512 GB SSD,AMD Ryzen™ 5,8 GB,1239990,2021-09-16
+716,,ASUS TUF GAMING A15 FA506Q / AMD RYZEN™ 7 / 16GB RAM / 512GB SSD / NVIDIA GEFORCE RTX 3060 / 15.6'' FHD,2000383797526,512 GB SSD,AMD Ryzen™ 7,16 GB,1249990,2021-09-16
+717,,"MACBOOK AIR M1 / GPU 7C / 8GB RAM / 256GB SSD / 13.3""",2000383032436,256 GB SSD,Procesador no especificado,8 GB,979990,2021-09-16
+718,,"ASUS ZENBOOK 14 UM425UA-AM227T / AMD RYZEN™ 7 / 8GB RAM / 512GB SSD / AMD RADEON R7 GRAPHICS / 14"" FHD",2000385050117,512 GB SSD,AMD Ryzen™ 7,8 GB,749990,2021-09-16
+719,,ASUS X515EA-BQ968T / INTEL® CORE™ I3 / 4GB RAM / 128GB SSD / INTEL UHD GRAPHICS / 15.6'' FHD,2000385588825,128 GB SSD,Intel Core i3,4 GB,409990,2021-09-16
+720,,"LENOVO YOGA C740 / INTEL® CORE™ I5 / 8GB RAM / 256GB SSD / 15.6"" FHD",2000385146407,256 GB SSD,Intel Core i5,8 GB,709990,2021-09-16
+721,,HONOR MAGICBOX / INTEL® CORE™ I5 / 8GB RAM / 512GB SSD / 14'',2000385989066,512 GB SSD,Intel Core i5,8 GB,699990,2021-09-16
+722,,LENOVO YOGA SLIM 9I / INTEL® CORE™ I7 / 16GB RAM / 1TB SSD / INTEL IRIS XE / 14” 4K,2000382285017,1 TB SSD,Intel Core i7,16 GB,1599990,2021-09-16
+723,,"HP PAVILION GAMING LAPTOP 15-DK1044LA / INTEL® CORE™ I5 / 8GB RAM / 512GB SSD / NVIDIA GEFORCE GTX 1660 TI / 15.6"" FHD",2000383803388,512 GB SSD,Intel Core i5,8 GB,799990,2021-09-16
+724,,"LENOVO LEGION 5 / AMD RYZEN™ 5 / 8GB RAM / 512GB SSD / NVIDIA GEFORCE GTX 1650 / 15.6""",2000380705449,512 GB SSD,AMD Ryzen™ 5,8 GB,829990,2021-09-16
+725,,"LENOVO IDEAPAD S540 / INTEL® CORE™ I5 / 8GB RAM / 512GB SSD / 13.3"" QHD",2000382321111,512 GB SSD,Intel Core i5,8 GB,799990,2021-09-16
+726,,DELL INSPIRON 15 3505 / AMD RYZEN™ 7 / 8GB RAM / 512GB SSD / AMD RADEON RX VEGA 10 / 15.6” FHD,2000381884198,512 GB SSD,AMD Ryzen™ 7,8 GB,699990,2021-09-16
+727,,"ASUS ROG ZEPHYRUS G14 GA401QC / AMD RYZEN™ 7 / 16GB RAM / 512GB SSD / NVIDIA® GEFORCE RTX™ 3050 / 14"" FHD",2000384495025,512 GB SSD,AMD Ryzen™ 7,16 GB,1149990,2021-09-16
+728,,"HP PAVILION LAPTOP 13-BB0004LA / INTEL® CORE™ I7 / 8GB RAM / 256GB SSD / INTEL IRIS XE / 13.3"" FHD",2000385161783,256 GB SSD,Intel Core i7,8 GB,799990,2021-09-16
+729,,"ACER ASPIRE 3 / AMD ATHLON™ / 12GB RAM / 256GB SSD / AMD RADEON GRAPHICS / 14"" FHD",2000385401100,256 GB SSD,AMD Athlon,12 GB,449990,2021-09-16
+730,,"HP 348 G7 / INTEL® CORE™ I3 / 4GB RAM / 1TB / INTEL UHD GRAPHICS / 14""",2000384496824,1 TB,Intel Core i3,4 GB,399990,2021-09-16
+731,,"HP CHROMEBOOK 11A G8 EE / AMD A4 / 4GB RAM / 32GB EMMC / AMD RADEON R4 / 11.6""",2000385160687,32 GB EMMC,AMD Serie A,4 GB,229990,2021-09-16
+732,,LENOVO YOGA 9I / INTEL® CORE™ I5 / 16GB RAM / 1TB SSD / INTEL IRIS XE / 14” 4K,2000382285000,1 TB SSD,Intel Core i5,16 GB,1299990,2021-09-16
+733,,HP LAPTOP 14-CF2051LA / INTEL® CORE™ I3 / 20GB MEMORIA (16GB INTEL OPTANE + 4GB RAM) / 256GB SSD / INTEL UHD GRAPHICS / 14'',2000385777335,256 GB SSD,Intel Core i3,4 GB,549990,2021-09-16
+734,,LENOVO IDEAPAD 5 PRO / AMD RYZEN™ 7 / 16GB RAM / 1TB SSD / NVIDIA GEFORCE GTX 1650 / 16'' WQXGA,2000385925286,1 TB SSD,AMD Ryzen™ 7,16 GB,1099990,2021-09-16
+735,,"ASUS X415EA / INTEL® CORE™ I7 / 8GB RAM / 512GB SSD / INTEL UHD GRAPHICS / 14"" FHD",2000382093698,512 GB SSD,Intel Core i7,8 GB,719990,2021-09-16
+736,,"ACER SPIN 3 / INTEL® CORE™ I5 / 8GB RAM / 256GB SSD / INTEL IRIS XE / 13.3""",2000384580967,256 GB SSD,Intel Core i5,8 GB,819990,2021-09-16
+737,,"ACER ASPIRE 5 / INTEL® CORE™ I3 / 12GB RAM / 512GB SSD / INTEL UHD GRAPHICS / 15.6"" FHD",2000384580950,512 GB SSD,Intel Core i3,12 GB,589990,2021-09-16
+738,,ASUS ZENBOOK 13 OLED UX325EA / INTEL® CORE™ I7 / 16GB RAM / 512GB SSD / INTEL IRIS XE / 13.3'' FHD,2000383567761,512 GB SSD,Intel Core i7,16 GB,949990,2021-09-16
+739,,"LENOVO IDEAPAD S340 / INTEL® CORE™ I5 / 4GB RAM / 256GB SSD / 14""",2000379795482,256 GB SSD,Intel Core i5,4 GB,499990,2021-09-16
+740,,LENOVO IDEAPAD 1 14ADA05 / AMD 3020E / 4GB RAM / 64GB EMMC / AMD RADEON GRAPHICS / 14'',2000385605430,64 GB eMMC,Procesador no especificado,4 GB,289990,2021-09-16
+741,,"DELL INSPIRON 15 3501 / INTEL® CORE™ I7 / 8GB RAM / 256GB SSD / INTEL IRIS XE / 15.6"" FHD",2000385223849,256 GB SSD,Intel Core i7,8 GB,719990,2021-09-16
+742,,"HP PAVILION X360 CONVERTIBLE 14-DY0002LA / INTEL® PENTIUM™GOLD / 4GB RAM / 256GB SSD / INTEL UHD GRAPHICS / 14""",2000383803371,256 GB SSD,Intel Pentium,4 GB,489990,2021-09-16
+743,,ACER SPIN 3 / AMD RYZEN™ 3 / 4GB RAM / 256GB SSD / AMD RADEON GRAPHICS / 14'' FHD,2000385472667,256 GB SSD,AMD Ryzen™ 3,4 GB,509990,2021-09-16
+744,,"ASUS ZENBOOK 13 UM325SA / AMD RYZEN™ 5 / 8GB RAM / 512GB SSD / AMD RADEON GRAPHICS / 13.3"" OLED",2000384495032,512 GB SSD,AMD Ryzen™ 5,8 GB,719990,2021-09-16
+745,,DELL INSPIRON 5310 / INTEL® CORE™ I5 / 8GB RAM / 256GB SSD / INTEL IRIS XE / 13.3'' FHD+,2000385545347,256 GB SSD,Intel Core i5,8 GB,789990,2021-09-16
+746,,DELL INSPIRON 5415 / AMD RYZEN™ 5 / 8GB RAM / 512GB SSD / AMD RADEON GRAPHICS / 14'' FHD,2000385545354,512 GB SSD,AMD Ryzen™ 5,8 GB,719990,2021-09-16
+747,,ACER ASPIRE 3 / AMD RYZEN™ 3 / 12GB RAM / 256GB SSD / AMD RADEON GRAPHICS / 14'' FHD,2000385749783,256 GB SSD,AMD Ryzen™ 3,12 GB,539990,2021-09-16
+748,,"HP ZBOOK FIREFLY 14 G7 / INTEL® CORE™ I5 / 16GB RAM / 512GB SSD / NVIDIA QUADRO P520 / 14""",2000381517553,512 GB SSD,Intel Core i5,16 GB,1349990,2021-09-16
+749,,ACER NITRO 5 / INTEL® CORE™ I7 / 16GB RAM / 512GB SSD / NVIDIA GEFORCE RTX 3050TI / 17.3'' FHD,2000385924098,512 GB SSD,Intel Core i7,16 GB,1349990,2021-09-16
+750,,"LENOVO IDEAPAD 5 PRO / INTEL® CORE™ I7 / 16GB RAM / 1TB SSD / NVIDIA GEFORCE MX450 / 16"" WQXGA",2000385116028,1 TB SSD,Intel Core i7,16 GB,1119990,2021-09-16
+751,,HP PAVILION LAPTOP 15-EH0011LA / AMD RYZEN™ 7 / 16GB RAM / 512GB SSD / AMD RADEON GRAPHICS / 15.6'' FHD,2000385847687,512 GB SSD,AMD Ryzen™ 7,16 GB,819990,2021-09-16
+752,,HUAWEI MATEBOOK D14 / INTEL® CORE™ I5 / 8GB RAM / 512GB SSD / INTEL UHD 620 / 14'',2000384564219,512 GB SSD,Intel Core i5,8 GB,679990,2021-09-16
+753,,HP SPECTRE X360 14-EA0001LA / INTEL® CORE™ I7 / 48GB MEMORIA (32GB INTEL OPTANE+16GB RAM)/ 512GB SSD / INTEL IRIS XE / 13.5'',2000385847656,512 GB SSD,Intel Core i7,16 GB,799990,2021-09-16
+754,,ASUS TUF GAMING F15 FX506LH / INTEL® CORE™ I5 / 8GB RAM / 512GB SSD / NVIDIA GEFORCE GTX 1650 / 15.6'' FHD,2000385900122,512 GB SSD,Intel Core i5,8 GB,779990,2021-09-16
+755,,HP ZBOOK FIREFLY 14 G8 / INTEL® CORE™ I7 / 16GB RAM / 512GB SSD / NVIDIA T500 / 14'' FHD,2000385264774,512 GB SSD,Intel Core i7,16 GB,1399990,2021-09-16
+756,,HP PAVILION GAMING LAPTOP - 15-EC1029LA / AMD RYZEN™ 7 / 12GB RAM / 512GB SSD / NVIDIA GEFORCE GTX 1650 TI / 15.6'' FHD,2000385847663,512 GB SSD,AMD Ryzen™ 7,12 GB,999990,2021-09-16
+757,,HP PAVILION AERO LAPTOP 13-BE0501LA / AMD RYZEN™ 5 / 8GB RAM / 512GB SSD / AMD RADEON GRAPHICS / 13.3'',2000385847625,512 GB SSD,AMD Ryzen™ 5,8 GB,829990,2021-09-16
+758,,LENOVO LEGION 5 / AMD RYZEN™ 7 / 16GB RAM / 1TB + 128GB SSD / NVIDIA GEFORCE RTX 2060 / 15.6'' FHD,2000385768548,1 TB + 128 GB SSD,AMD Ryzen™ 7,16 GB,1099990,2021-09-16
+759,,HP PAVILION LAPTOP 15-EH0010LA / AMD RYZEN™ 7 / 8GB RAM / 512GB SSD / AMD RADEON GRAPHICS / 15.6'' FHD,2000385847670,512 GB SSD,AMD Ryzen™ 7,8 GB,729990,2021-09-16
+760,,"HP 15-DK1028LA / INTEL® CORE™ I5 / 24GB MEMORIA (16GB INTEL® OPTANE + 8GB RAM)/256GB SSD/NVIDIA GEFORCE GTX 1050/15.6"" FHD",2000383487335,256 GB SSD,Intel Core i5,8 GB,799990,2021-09-16
+761,,HUAWEI MATEBOOK X / INTEL® CORE™ I5 / 16GB RAM / 512GB SSD / INTEL UHD GRAPHICS / 13'',2000383668956,512 GB SSD,Intel Core i5,16 GB,1069990,2021-09-16
+762,,"DELL INSPIRON 14 7415 / AMD RYZEN™ 7 / 16GB RAM / 512GB SSD / AMD RADEON GRAPHICS / 14"" FHD",2000385223856,512 GB SSD,AMD Ryzen™ 7,16 GB,919990,2021-09-16
+763,,HUAWEI MATEBOOK X PRO / INTEL® CORE™ I7 / 16GB RAM / 1TB SSD / INTEL IRIS XE / 13.9'',2000383668970,1 TB SSD,Intel Core i7,16 GB,1499990,2021-09-16
+764,,"ACER NITRO 5 / INTEL® CORE™ I5 / 12GB RAM / 512GB SSD / NVIDIA GEFORCE GTX 1650 / 15.6""",2000380458338,512 GB SSD,Intel Core i5,12 GB,899990,2021-09-16
+765,,"ACER NITRO 5 AN515 / INTEL® CORE™ I5 / 12GB RAM / 1TB + 128GB SSD / NVIDIA GEFORCE GTX 1650 / 15.6""",2000380207530,1 TB + 128 GB SSD,Intel Core i5,12 GB,829990,2021-09-16
+766,,MACBOOK PRO M1 / GPU 8C / 8GB RAM / 512GB SSD / 13.3”,2000383032504,512 GB SSD,Procesador no especificado,8 GB,1449990,2021-09-16
+767,,"LENOVO LEGION 7I / INTEL® CORE™ I7 / 32GB RAM / 1TB SSD / NVIDIA GEFORCE RTX 2080 / 15.6"" FHD",2000379361793,1 TB SSD,Intel Core i7,32 GB,2399990,2021-09-16
+768,,"HP ZBOOK FIREFLY 15 G8 / INTEL® CORE™ I7 / 16GB RAM / 512GB SSD / NVIDIA T500 / 15.6"" FHD",2000383568782,512 GB SSD,Intel Core i7,16 GB,1299990,2021-09-16
+769,,"MSI MODERN 14 B10MW / INTEL® CORE™ I5 / 8GB RAM / 256GB SSD / INTEL UHD GRAPHICS 620 / 14"" FHD",2000381301718,256 GB SSD,Intel Core i5,8 GB,749990,2021-09-16
+770,,"MACBOOK PRO RETINA TBAR / INTEL® CORE™ I5 / 16GB RAM / 1TB SSD / INTEL IRIS PLUS / 13.3""",2000379236244P,1 TB SSD,Intel Core i5,16 GB,1999990,2021-09-16
+771,,"MACBOOK PRO T.BAR MWP52CI/A / INTEL® CORE™ I5 / 16GB RAM / 1TB SSD / INTEL IRIS PLUS / 13.3""",2000380358676,1 TB SSD,Intel Core i5,16 GB,1999990,2021-09-16
+772,,"MACBOOK AIR M1 / GPU 8C / 8GB RAM / 512GB SSD / 13.3""",2000383032450,512 GB SSD,Procesador no especificado,8 GB,1199990,2021-09-16
+773,,"LENOVO LEGION 5I / INTEL® CORE™ I7 / 8GB RAM / 1TB + 128GB SSD / NVIDIA GEFORCE GTX 1660 TI / 15.6"" FHD",2000379795598,1 TB + 128 GB SSD,Intel Core i7,8 GB,1169990,2021-09-16
+774,,"MACBOOK AIR RETINA MVH22CI/A / INTEL® CORE™ I5 / 8GB RAM / 512GB SSD / 13.3""",2000380358638,512 GB SSD,Intel Core i5,8 GB,1399990,2021-09-16
+775,,"MACBOOK AIR M1 / GPU 8C / 8GB RAM / 512GB SSD / 13.3""",2000383032467,512 GB SSD,Procesador no especificado,8 GB,1199990,2021-09-16
+776,,"MACBOOK PRO M1 / GPU 8C / 8GB RAM / 256GB SSD / 13.3""",2000383032481,256 GB SSD,Procesador no especificado,8 GB,1249990,2021-09-16
+777,,"MACBOOK PRO T.BAR MWP42CI/A / INTEL® CORE™ I5 / 16GB RAM / 512GB SSD / INTEL IRIS PLUS / 13.3""",2000380358683,512 GB SSD,Intel Core i5,16 GB,2299990,2021-09-16
+778,,HP PAVILION GAMING 16-A0004LA / INTEL® CORE™ I7 / 12GB RAM / 512GB SSD / NVIDIA GEFORCE RTX 2060 + SILLA GAMING HP OMEN,3000000008055,512 GB SSD,Intel Core i7,12 GB,1599990,2021-09-16
+779,,"LENOVO LEGION 7I / INTEL® CORE™ I7 / 16GB RAM / 512GB SSD / NVIDIA GEFORCE RTX 2070 / 15.6"" FHD",2000379361786,512 GB SSD,Intel Core i7,16 GB,1779990,2021-09-16
+780,,DELL VOSTRO 14 5402 / INTEL® CORE™ I7 / 8GB RAM / 256GB SSD / INTEL IRIS XE / 14” FHD,2000381884167,256 GB SSD,Intel Core i7,8 GB,869990,2021-09-16
+781,,"HP 240 G7 / INTEL® CELERON® / 4GB RAM / 500GB / INTEL UHD GRAPHICS 600 / 14""",2000380555501,500 GB,Intel Celeron,4 GB,299990,2021-09-16
+782,,NOTEBOOK LENOVO THINKPAD T440P 14' INTEL CORE I7 8GB 256GB SSD WIN10 REACONDICIONADO GRADO A,MPM00028110936,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,529000,2021-09-16
+783,,"HP NOTEBOOK PAVILION GAMING / AMD RYZEN™ 5 / 8GB RAM / 256GB SSD / NVIDIA® GEFORCE® GTX 1650 /15,6'",MPM00026886020,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,749990,2021-09-16
+784,,HP STREAM 14,2189166,64 GB,Intel Celeron,4 GB,299900,2021-09-16
+785,,GETAC NOTEBOOK RUGGED V100 BASIC,MPM00016087406,320 GB,Intel Core i7,4 GB,1899900,2021-09-16
+786,,ASUS ZENBOOK Q407IQ AMD RYZEN™ 5 256GB SSD 8GB 14' FHD WIN10 NVIDIA® GTX MX350,MPM00017543995,256 GB SSD,AMD Ryzen™ 5,8 GB,729000,2021-09-16
+787,,NOTEBOOK HP 240 I5-1035 4GB 1TB WIN10P,1844291,1 TB,Intel Core i5,4 GB,670900,2021-09-16
+788,,NOTEBOOK HP 240 I5-1035 8GB 1TB WIN10P,1844048,1 TB,Intel Core i5,8 GB,690900,2021-09-16
+789,,NOTEBOOK ASUS B2 B2451FA-EK0343R I5 256GB 8GB W10P,1847732,256 GB,Intel Core i5,8 GB,999999,2021-09-16
+790,,"NOTEBOOK DELL VOSTRO 3400, I5 1135G7, RAM 8GB, SSD 256, SIN SISTEMA OPERATIVO. 14 FHD",1922782,256 GB,Intel Core i5,8 GB,609990,2021-09-16
+791,,"NOTEBOOK LENOVO V14-IIL I5-1035G1, 4GB RAM, 256GB SSD, 14' HD, W10H",MPM00011268588,256 GB,Intel Core i5,4 GB,599990,2021-09-16
+792,,"NOTEBOOK HP 240 G7, 14', N4020, 4GB, 500GB, WIN10H",MPM00017683602,500 GB,Intel Celeron,4 GB,399990,2021-09-16
+793,,NOTEBOOK HP 240 G7 I3-1005G1 4GB 1TB WIN10HOME,1844057,1 TB,Intel Core i3,4 GB,499990,2021-09-16
+794,,"NOTEBOOK DELL VOSTRO 3401 I3 1005G1, RAM 4GB, DISCO 1TB, 14' WIN10H",MPM00019004570,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,549990,2021-09-16
+795,,NOTEBOOK HP 240 G7 N4020 4GB 500GB WIN10H + SOUNDBAR 60W + CANDADO,1951589,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,499990,2021-09-16
+796,,NOTEBOOK HP 240 G7 N4020 4GB 500GB WIN10H + CANDADO,1950460,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,399990,2021-09-16
+797,,"NOTEBOOK LENOVO V14-IIL I5-1035G1,RAM 4 GB,256GB SSD, 14'HD SIN SISTEMA OPERATIVO",MPM00015078940,256 GB,Intel Core i5,4 GB,529990,2021-09-16
+798,,NOTEBOOKS ASUS B9450FA-BM0198R I7-10510U 1TB PCIE G3X4 SSD+TPM 16GB 14IN W10 PRO,MPM00014616720,1 TB,Intel Core i7,16 GB,3019990,2021-09-16
+799,,NOTEBOOKS ASUS A434FAC-A5182R I7-10510U 512G PCIE G3X2 SSD+TPM 16GB 14IN W10 PRO,MPM00014616742,512 GB,Intel Core i7,16 GB,2010990,2021-09-16
+800,,NOTEBOOKS ASUS P5440FA-BM0897R I5-8265U 512G PCIE G3X2 SSD+TPM 8GB 14IN W10 PRO,MPM00014616852,512 GB,Intel Core i5,8 GB,1427990,2021-09-16
+801,,NOTEBOOKS LENOVO T490 I5-10210 8GB DDR4 512GB SSD W10P,MPM00014617070,512 GB,Intel Core i5,8 GB,1514990,2021-09-16
+802,,NOTEBOOKS LENOVO X390 I5-10210U 8GB DDR4 512GB SSD W10P,MPM00014617128,512 GB,Intel Core i5,8 GB,1765990,2021-09-16
+803,,NOTEBOOKS LENOVO X395 RYZEN 5 3500U 8GB 512SSD W10P+ADP,MPM00014617184,512 GB,AMD Ryzen™ 5,8 GB,1470990,2021-09-16
+804,,NOTEBOOKS LENOVO X390 I5-8265U 8G 1TB SSD W10P,MPM00014617274,1 TB,Intel Core i5,8 GB,1627990,2021-09-16
+805,,NOTEBOOKS LENOVO X1 CARBON I7-10510U 16GB 512GB SSD W10P+ ADP,MPM00014617344,512 GB,Intel Core i7,16 GB,2932990,2021-09-16
+806,,NOTEBOOKS LENOVO X1 CARBON I7-8565U 16GB DDR4 1TBSSD W10P,MPM00014617368,1 TB,Intel Core i7,16 GB,3067990,2021-09-16
+807,,NOTEBOOKS DELL LATITUDE 7400 I7-8665U 8GB 256GB SSD WIN10PRO 3YR PROSUPPORT,MPM00014617414,256 GB,Intel Core i7,8 GB,1979990,2021-09-16
+808,,LAPTOP HP 240 G7 CELERON N4020 4GB RAM 500 GB 14 HD SIN SISTEMA OPERATIVO,1736466,500 GB,Intel Celeron,4 GB,299990,2021-09-16
+809,,"HP PAVILION GAMING 15-DK1037LA INTEL CORE I7 / 16GB RAM / 1TB+ 128GB SSD /NVIDIA GTX 1660 TI/ 15,6'",MPM00023535032,1 TB HDD + 128 GB SSD,Intel Core i7,16 GB,999990,2021-09-16
+810,,"HP PAVILION GAMING/ INTEL® CORE™ I7/ 24GB(16GB INTEL® OPTANE™+ 8GB RAM)/ 256GB SSD / 15,6'",MPM00023534940,256 GB SSD,Intel Core i7,8 GB,1099990,2021-09-16
+811,,"NOTEBOOK CHUWI HEROBOOK PRO INTEL N4020/ 8GB/ 256GB SSD/14,1'/W10",MPM00023683188,256 GB SSD,Intel Celeron,8 GB,339990,2021-09-16
+812,,"NOTEBOOK DELL LATITUDE 3400 INTEL CORE I7 8565U,16 GB DDR4, 256 GB SSD, NVIDIA GEFORCE MX130, 14, W10P",MPM00024811528,256 GB SSD,Intel Core i7,16 GB,889990,2021-09-16
+813,,NOTEBOOK HP PROBOOK 650 G2 15.6” INTEL CORE I5 8GB 256GB SSD WEBCAM WINDOWS 10 PRO REACONDICIONADO GRADO A,MPM00021063628,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,599000,2021-09-16
+814,,"NOTEBOOK HP 250 G7 I3-1005G1, 4GB,1TB, 15.6, SIN SISTEMA OPERATIVO",MPM00021006923,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,399990,2021-09-16
+815,,"NOTEBOOK CHUWI 2 EN 1 TOUCH HI10X, CELERON, 6GB RAM, 128GB EMMC,10.1, W10H | CHUWI",2079713,128 GB SSD,Intel Celeron,6 GB,299990,2021-09-16
+816,,NOTEBOOK CHUWI COREBOOK PRO INTEL I3-6157U/ 8GB RAM / 256GB SSD/ 13'/ W10H,MPM00022052212,256 GB SSD,Intel Core i3,8 GB,434990,2021-09-16
+817,,NOTEBOOK DELL LATITUDE E7480 14” INTEL CORE I5 8GB 256GB SSD WEBCAM WIN 10 PRO REACONDICIONADO GRADO A,MPM00023013366,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,642990,2021-09-16
+818,,NOTEBOOK DELL LATITUDE E7470 14” INTEL CORE I5 8GB 256GB SSD WEBCAM WIN 10 PRO REACONDICIONADO GRADO A,MPM00023013442,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,548900,2021-09-16
+819,,"NOTEBOOK DELL VOSTRO 3400, I3 1115G4, RAM 4GB, HDD 1 TB, SIN SISTEMA OPERATIVO. 14",2134851,1 TB,Intel Core i3,4 GB,449990,2021-09-16
+820,,NOTEBOOK HP 240 G7 CELERON N4020 8GB 500GB WIN10PRO,2152962,500 GB,Intel Celeron,8 GB,499900,2021-09-16
+821,,NOTEBOOK HP 240 G7 CELERON N4020 4GB 500GB WIN10PRO,2152968,500 GB,Intel Celeron,4 GB,459900,2021-09-16
+822,,NOTEBOOK HP 245 G7 RYZEN 5-3500 8GB 256GB WIN10P,2152964,256 GB,AMD Ryzen,8 GB,669900,2021-09-16
+823,,NOTEBOOK / LENOVO / THINKPAD X1 FOLD / INTEL CORE I5 NON-VPRO / 8GB RAM / 512GB SSD / QXGA / 13'',2189014,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,3319990,2021-09-16
+824,,NOTEBOOK HP 240 G8 I3-1005 8GB 1TB WIN10H,2234472,1 TB,Intel Core i3,8 GB,539000,2021-09-16
+825,,NOTEBOK HP 240 CELERON N4020 4GB 500GB SIN SISTEMA OPERATIVO,2234475,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,299990,2021-09-16
+826,,NOTEBOOK HP PROBOOK 650 G1 15.6” INTEL CORE I5 8GB 500GB WEBCAM WINDOWS 10 PRO REACONDICIONADO GRADO A,MPM00020102418,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,559900,2021-09-16
+827,,NOTEBOOK / LENOVO / THINKPAD X1 FOLD / INTEL CORE I5 NON-VPRO / 8GB RAM / 512GB SSD / QXGA / 13'',2189014,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,3319990,2021-09-16
+828,,"NOTEBOOK LENOVO V14 ADA, RYZEN 3 3250U, RAM 4GB, 1TB, W10H, 14.",2194343,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,439990,2021-09-16
+829,,"NOTEBOOK DELL LATITUDE 3400 INTEL CORE I7 8565U,16 GB DDR4, 256 GB SSD, NVIDIA GEFORCE MX130, 14, W10P",MPM00024811528,256 GB SSD,Intel Core i7,16 GB,889990,2021-09-16
+830,,"NOTEBOOK HP 250 G7 I3-1005G1, 4GB,1TB, 15.6, SIN SISTEMA OPERATIVO",MPM00021006923,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,399990,2021-09-16
+831,,"HP PAVILION GAMING/ INTEL® CORE™ I7/ 24GB(16GB INTEL® OPTANE™+ 8GB RAM)/ 256GB SSD / 15,6'",MPM00023534940,256 GB SSD,Intel Core i7,8 GB,1099990,2021-09-16
+832,,"NOTEBOOK CHUWI HEROBOOK PRO INTEL N4020/ 8GB/ 256GB SSD/14,1'/W10",MPM00023683188,256 GB SSD,Intel Celeron,8 GB,339990,2021-09-16
+833,,NOTEBOOK HP 240 G7 CELERON N4020 4GB 500GB WIN10PRO,2152968,500 GB,Intel Celeron,4 GB,459900,2021-09-16
+834,,NOTEBOOK / LENOVO / THINKBOOK 13S GEN 2 / INTEL CORE I5 11VA GEN / 16GB RAM / 256GB SSD / WQXGA / 13'''' | GRIS,2189012,256 GB SSD,Intel Core i5,16 GB,1019990,2021-09-16
+835,,"NOTEBOOK BMAX CONVERTIBLE Y11 INTEL CELERON N4120, 8GB, 256GB SSD, WIN10,11.6' | BMAX",2194339,256 GB,Intel Celeron,8 GB,369990,2021-09-16
+836,,ELITEBOOK HP CHROMEBOOK REACONDICIONADO 14A-NA0031WM/,2200259,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,299990,2021-09-16
+837,,"NOTEBOOK ASUS E410MA BV037T INTEL CELERON N4020 14¿ – 4GB, 64GB EMMC",2205056,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,399990,2021-09-16
+838,,NOTEBOOK HP 14-CF2087LA INTEL CELERON N4020 14¿ 4GB 128GB SSD,MPM00025227184,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,377990,2021-09-16
+839,,NOTEBOOK DYNABOOK TECRA A30-G INTEL CELERON 5205U/ RAM 4GB/ 128GB SSD/ 13.3'/ W10P,2202233,128 GB,Intel Celeron,4 GB,339990,2021-09-16
+840,,"NOTEBOOK LENOVO 100E /AMD/4GB/64GB/11,6'",MPM00025910520,64 GB,AMD Serie A,4MB,226990,2021-09-16
+841,,NOTEBOOK ASUS EXPERTBOOK B2451FA-EB1422R,MPM00026108518,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,988990,2021-09-16
+842,,NOTEBOOK ASUS EXPERTBOOK P2451FA-EK0343R,MPM00026108578,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,899990,2021-09-16
+843,,LENOVO NOTEBOOK WS P43S CORE 17 8665U 16GB 512GB SSD M.2,MPM00026115000,512 GB,Intel Core i7,16 GB,1599989,2021-09-16
+844,,NOTEBOOK HP 240 G8 I3-1005 8GB 1TB WIN10H,2234472,1 TB,Intel Core i3,8 GB,539000,2021-09-16
+845,,NOTEBOOK HP 348 G7 INTEL CORE I3 RAM 4GB DISCO 1TB,MPM00026681458,1 TB,Intel Core i3,4 GB,659990,2021-09-16
+846,,"NOTEBOOK HP 240 G7 INTEL CELERON N4020 - 4GB RAM, 500GB HDD, FREEDOS",MPM00025578952,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,355990,2021-09-16
+847,,NOTEBOOK HP 348 G7 I3-10110U 1TB 4GB W10HOME 14´´,2234477,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,564900,2021-09-16
+848,,NOTEBOOK LENOVO TP L14 I7-10510U 8GB 256GB SSD W10P,2234476,256 GB,Intel Core i7,8 GB,979900,2021-09-16
+849,,HP 240 G7 CELERON N4020 8GB 500GB SIN SISTEMA OPERATIVO,2234473,500 GB,Intel Celeron,8 GB,349900,2021-09-16
+850,,NOTEBOK HP 240 CELERON N4020 4GB 500GB SIN SISTEMA OPERATIVO,2234475,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,299990,2021-09-16
+851,,NOTEBOOK HP 240 G8 I3-1005G1 4GB 1TB WIN10H,MPM00026792204,1 TB,Intel Core i3,4 GB,499990,2021-09-16
+852,,"NOTEBOOK HP PROBOOK 445 G7 AMD RYZEN 5 14 8GB RAM, 256GB SSD, WIN10PRO",MPM00027028366,256 GB SSD,AMD Ryzen™ 5,8 GB,899990,2021-09-16
+853,,"NOTEBOOK LENOVO V14 ADA, AMD ATHLON GOLD 3150U,4GB, 128GB SSD 14¿",MPM00026908116,128 GB,AMD Athlon,128 MB,424990,2021-09-16
+854,,"NOTEBOOK DELL INSPIRON 14 3493 INTEL CORE I3 1005G1, 4GB RAM, 1TB DDH, 14, HD",2265393,1 TB,Intel Core i3,4 GB,479990,2021-09-16
+855,,"NOTEBOOK DELL VOSTRO 3401, I3 1005G1, RAM 4GB, 1TB HDD, 14 HD, SIN SISTEMA OPERATIVO",2267378,1 TB,Intel Core i3,4 GB,427990,2021-09-16
+856,,"NOTEBOOK HP 255 G7 AMD 3150U,8GB,1TB,15.6, SIN SISTEMA OPERATIVO.",2262895,1 TB,AMD Serie A,8 GB,429990,2021-09-16
+857,,"NOTEBOOK HP 240 G7, INTEL CORE I5 8265U, RAM 4GB, 1TB, DH 14.0, SIN SISTEMA OPERATIVO",2266073,1 TB,Intel Core i5,4 GB,529990,2021-09-16
+858,,"NOTEBOOK HP ELITEBOOK X360 1030 G2 13.3', CORE I5, 8GB RAM, 512GB SSD - REACONDICIONADO",MPM00027346104,512 GB SSD,Intel Core i5,8 GB,499990,2021-09-16
+859,,NOTEBOOK HP PROBOOK 650 G1 15.6” INTEL CORE I5 8GB 500GB WEBCAM WINDOWS 10 PRO REACONDICIONADO GRADO A,MPM00020102418,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,559900,2021-09-16
+860,,NOTEBOOK LENOVO TP L14 I5-10210U 8GB 256GB W10P,2315773,256 GB,Intel Core i5,8 GB,889900,2021-09-16
+861,,NOTEBOOK LENOVO 14-IML I5-10210U 8GB 256GB WIN10PRO,MPM00028520382,256 GB,Intel Core i5,8 GB,849900,2021-09-16
+862,,NOTEBK LENOVO IDEAPAD 5 14IIL05 I7-1065 16GB 512GB WPRO,2315903,512 GB,Intel Core i7,16 GB,889900,2021-09-16
+863,,"NOTEBOOK GAMER AERO OLED I7-10870H, 8GB, 512GB SSD, RTX 3060 6GB,W10H",MPM00028624768,512 GB SSD,Intel Core i7,8 GB,2099990,2021-09-16
+864,,LENOVO YOGA C740 / INTEL I5 / 8GB RAM / 512GB SSD / 32GB OPTANE / 15.6' FHD TACTIL / CONVERTIBLE 2 EN 1,2317902,512 GB SSD,Intel Core i5,8 GB,779990,2021-09-16
+865,,ASUS L510 / INTEL N4020 / 4GB RAM / 128GB SSD / 15.6' FHD,2317891,128 GB,Intel Celeron,4 GB,329990,2021-09-16
+866,,NOTEBOOK DELL LATITUDE 3510 15.6 FHD I3-10110U 4GB 500GB W10HOME,2321405,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,546990,2021-09-16
+867,,DELL LAT 7480 / I7-76000/ RAM 8GB / 512 GB / REACONDICIONADO,2321131,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,499990,2021-09-16
+868,,NOTEBOOK DELL 13.3' FHD TOUCHSCREEN CORE I3- REACONDICIONADO,MPM00024813656,128 GB SSD,Intel Core i3,8 GB,549990,2021-09-16
+869,,HP 15-DY1971CL/INTEL I7-1065G/256 GB/8GB RAM/REACONDICIONADO,2333987,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,699990,2021-09-16
+870,,"NOTEBOOK HP 240 G7 INTEL CORE I3 1005G1, 4GB RAM, 1TB, 14 HD, W10",2265822,1 TB,Intel Core i3,4 GB,446990,2021-09-16
+871,,"NOTEBOOK LENOVO L340, CORE I5-9300, 8GB, 256GB SSD, WIN 10, 15.6",2275485,256 GB,Intel Core i5,8 GB,859990,2021-09-16
+872,,NOTEBOOK HP 240 G8 INTEL CORE I3-1005G1/ 4GB/ 1TB/ 14'/ W10H,MPM00027415632,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,404990,2021-09-16
+873,,NOTEBOOK HP 14-CF2087LA INTEL CELERON N4020 14¿ 4GB 128GB SSD,MPM00025227184,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,377990,2021-09-16
+874,,"NOTEBOOK DYNABOOK TECRA A40 G1400, INTEL CELERON 5205U/ 4GB RAM/ 128GB SSD/ 14'/ W10P",2202614,128 GB,Intel Celeron,4 GB,339990,2021-09-16
+875,,NOTEBOOK HP 348 G7 INTEL CORE I3 RAM 4GB DISCO 1TB,MPM00026681458,1 TB,Intel Core i3,4 GB,659990,2021-09-16
+876,,"NOTEBOOK HP 255 G7 AMD 3150U,8GB,1TB,15.6, SIN SISTEMA OPERATIVO.",2262895,1 TB,AMD Serie A,8 GB,429990,2021-09-16
+877,,"NOTEBOOK DELL VOSTRO 3401 I3 1005G1, RAM 4GB, DISCO 1TB, 14' WIN10H",2263578,1 TB SSD,Intel Core i3,4 GB,529990,2021-09-16
+878,,"NOTEBOOK DELL INSPIRON 14 3493 INTEL CORE I3 1005G1, 4GB RAM, 1TB DDH, 14, HD",2265393,1 TB,Intel Core i3,4 GB,479990,2021-09-16
+879,,"NOTEBOOK HP 240 G7 INTEL CORE I3 1005G1, 4GB RAM, 1TB, 14 HD, W10",2265822,1 TB,Intel Core i3,4 GB,446990,2021-09-16
+880,,"NOTEBOOK DELL INSPIRON 3493 DE 14, I3 1005G1, 4GB RAM, 1TB HDD,SIN SITEMA OPERATIVO",2265512,1 TB,Intel Core i3,4 GB,439990,2021-09-16
+881,,IDEAPAD 3 15.6' HD CORE I3 4GB RAM 128GB SSD - REACONDICIONADO,MPM00027722220,128 GB SSD,Intel Core i3,4 GB,399990,2021-09-16
+882,,"NOTEBOOK LENOVO L340, CORE I5-9300, 8GB, 256GB SSD, WIN 10, 15.6",2275485,256 GB,Intel Core i5,8 GB,859990,2021-09-16
+883,,NOTEBOOK ASUS CHROMEBOOK C200 REACONDICIONADO,2283799,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,219990,2021-09-16
+884,,NOTEBOOK HP ELITEBOOK 640 G2 14” INTEL CORE I5 8GB 500GB WEBCAM WINDOWS 10 PRO REACONDICIONADO GRADO A,MPM00028300878,500 GB,Intel Core i5,8 GB,499000,2021-09-16
+885,,NOTEBOOK LENOVO TP L14 I5-10210U 16GB 256GB W10P,2315776,256 GB,Intel Core i5,16 GB,929900,2021-09-16
+886,,NOTEBOOK LENOVO 14-IML I5-10210U 8GB 256GB WIN10PRO,MPM00028520382,256 GB,Intel Core i5,8 GB,849900,2021-09-16
+887,,NOTEBOOK LENOVO IDEAPAD 3 TOUCH INTEL CORE I3-10110U 15.6' HD 8GB - 256GB PCIE SSD - WEBCAM - WINDOWS 10,2320037,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,529000,2021-09-16
+888,,"NOTEBOOK GAMER AERO OLED I7-10870H, 8GB, 512GB SSD, RTX 3060 6GB,W10H",MPM00028624768,512 GB SSD,Intel Core i7,8 GB,2099990,2021-09-16
+889,,"NOTEBOOK HP 348 G7, INTEL I3-10110U, 4GB, 1TB, LED 14', W10H",MPM00028633580,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,469990,2021-09-16
+890,,NOTEBOOK / LENOVO 14W / AMD A6 / 4GB RAM / 128GB SSD / FHD / W10P / 14'',2319866,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,299990,2021-09-16
+891,,ASUS L510 / INTEL N4020 / 4GB RAM / 128GB SSD / 15.6' FHD,2317891,128 GB,Intel Celeron,4 GB,329990,2021-09-16
+892,,NOTEBOOK DELL LATITUDE 3510 15.6 FHD I3-10110U 4GB 500GB W10HOME,2321405,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,546990,2021-09-16
+893,,DELL INSPIRON 14-3493 14' HD/RAM 8GB /256 GB/REACONDICIONADO,2321129,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,649990,2021-09-16
+894,,"NOTEBOOK HP 240 G7 CELERON N4020, 4GB RAM, 500 GB, 14' HD",MPM00028877990,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,319990,2021-09-16
+895,,"NOTEBOOK DELL VOSTRO 3400, I3 1115G4, RAM 4GB, HDD 1 TB, SIN SISTEMA OPERATIVO. 14",2325428,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,439990,2021-09-16
+896,,NOTEBOOK HP 14' N5030 4GB 128GB SSD W10 + MOUSE HP,2326861,128 GB,Intel Pentium Silver,4 GB,399990,2021-09-16
+897,,DELL LAT 7480 /RAM 16 GB / 256 GB / REACONDICIONADO,2376222,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,499990,2021-09-16
+898,,"NOTEBOOK HP 348 G7, INTEL® CORE™ I3-10110U, RAM 8GB, 240SSD + 1TB HDD, LED 14', W10 HOME + MOCHILA",2368332,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,597990,2021-09-16
+899,,HP PAVILION 13-BB0027NR/ 512GB/ RAM 16 GB / REACONDICIONADO,2376219,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,849990,2021-09-16
+900,,HP CHROMEBOOK 11A-NA0035NR 4GB RAM,MPM00029656564,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,199990,2021-09-16
+901,,"NOTEBOOK DELL 5420 I5-1135G7 8GB RAM 256GB SSD W10PRO + MOCHILA, MOUSE GARANTÍA 3 AÑOS",2384118,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,935990,2021-09-16
+902,,"NOTEBOOK HP ELITE X2 1012 G2, 12', CORE I5, 8GB RAM, 512GB - REACONDICIONADO",MPM00030098836,512 GB,Intel Core i5,8 GB,499990,2021-09-16
+903,,NOTEBOOK ASUS EXPERTBOOK B2451FA-EB1422R,MPM00026108518,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,988990,2021-09-16
+904,,LENOVO NOTEBOOK WS P43S CORE 17 8665U 16GB 512GB SSD M.2,MPM00026115000,512 GB,Intel Core i7,16 GB,1599989,2021-09-16
+905,,NOTEBOOK HP 348 G7 I3-10110U 1TB 4GB W10HOME 14´´,2234477,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,564900,2021-09-16
+906,,HP 348 NOTEBOOK G7 I3-10110U 1TB 8GB W10H 14´´,2234474,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,599990,2021-09-16
+907,,HP 240 G7 CELERON N4020 8GB 500GB SIN SISTEMA OPERATIVO,2234473,500 GB,Intel Celeron,8 GB,349900,2021-09-16
+908,,NOTEBOOK HP 240 G8 I3-1005 8GB 1TB WIN10H,2234472,1 TB,Intel Core i3,8 GB,539000,2021-09-16
+909,,NOTEBOK HP 240 CELERON N4020 4GB 500GB SIN SISTEMA OPERATIVO,2234475,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,299990,2021-09-16
+910,,"NOTEBOOK HP PROBOOK 445 G7 AMD RYZEN 5 14 8GB RAM, 256GB SSD, WIN10PRO",MPM00027028366,256 GB SSD,AMD Ryzen™ 5,8 GB,899990,2021-09-16
+911,,"NOTEBOOK LENOVO V14 ADA, AMD ATHLON GOLD 3150U,4GB, 128GB SSD 14¿",MPM00026908116,128 GB,AMD Athlon,128 MB,424990,2021-09-16
+912,,"NOTEBOOK HP ELITEBOOK X360 1030 G2 13.3', CORE I5, 8GB RAM, 512GB SSD - REACONDICIONADO",MPM00027346104,512 GB SSD,Intel Core i5,8 GB,499990,2021-09-16
+913,,NOTEBOOK LENOVO CHROMEBOOK N22 REACONDICIONADO NEGRO,2285668,32 GB SSD,Intel Celeron,4 GB,219990,2021-09-16
+914,,NOTEBOOK DELL LATITUDE E5470 INTEL CORE I5 8GB 500GB WIN10 REACONDICIONADO GRADO A,MPM00029021680,500 GB,Intel Core i5,16 GB,539000,2021-09-16
+915,,NOTEBOOK HP ELITEBOOK 840 G3 14” INTEL CORE I5 8GB 240GB SSD WEBCAM WINDOWS 10 PRO REACONDICIONADO GRADO A,MPM00029084738,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,496000,2021-09-16
+916,,HP 15-DY1971CL/INTEL I7-1065G/256 GB/8GB RAM/REACONDICIONADO,2333987,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,699990,2021-09-16
+917,,HP 15-DA3020CY / I5 1035G1/2TB SATA/RAM 12GB/,2333986,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,649990,2021-09-16
+918,,HP LAPTOP 348 G7 2E4U1LT / I3-10110U / 4GB RAM / 1TB HDD / W10H / 14',MPM00030314742,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,689990,2021-09-16
+919,,NOTEBOOK LENOVO IDEAPAD 3 / INTEL I3 10 GEN/ 8GB RAM / 256GB SSD P/ PANTALLA 15.6' HD TÁCTIL,2351214,256 GB SSD,Intel Core i3,8 GB,479990,2021-09-16
+920,,HP PAVILION GAMING 15-EC1024LA/ AMD RYZEN™7 /8GB RAM / 512 GB SSD PCLE / NVDIA GEFORCE 1650 /15.6',MPM00029296454,512 GB SSD,AMD Ryzen™ 7,8 GB,849990,2021-09-16
+921,,NOTEBOOK HP 14-DQ2088 11A GENERACION INTEL CORE I5 8GB RAM 256GB SSD INTEL IRIS XE GRAPHICS 14'HD WINDOWS 10,2340446,256 GB,Intel Core i5,8 GB,649000,2021-09-16
+922,,NOTEBOOK ULTRABOOK HP 9470M 14” INTEL CORE I5 4GB 256GB SSD WEBCAM WINDOWS 10 PRO REACONDICIONADO GRADO A,MPM00029794736,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,416990,2021-09-16
+923,,"NOTEBOOK HP PAVILION 15-DK1056WM, I5-10300H, 8GB, 256GB SSD,GTX 1650 4GB",MPM00029798766,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,970990,2021-09-16
+924,,"NOTEBOOK DELL LATITUDE 5480, 14', CORE I7 - REACONDICIONADO",MPM00030098882,512 GB,Intel Core i7,8 GB,589990,2021-09-16
+925,,"NOTEBOOK HP EB 840 G3, 14', CORE I5, 8GB RAM, 256GB SSD - REACONDICIONADO",MPM00030075682,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,429990,2021-09-16
+926,,HP ELITEBOOK X360 1030 G4 I5 W10P DOCKING G5 LAPIZ,MPM00030475192,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,1345990,2021-09-16
+927,,"HP ELITEBOOK X360 1040 G6 I5 W10PRO, DOCKING LAPIZ",MPM00030475618,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,1452990,2021-09-16
+928,,HP ELITEBOOK 735 G6 RYZEN 7 3700U W10PRO,MPM00030474944,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,1129990,2021-09-16
+929,,HP ELITEBOOK X360 100 G7 I5 WIN10 PRO,MPM00030475046,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,1899990,2021-09-16
+930,,HP ELITEBOOK X360 1030 G4 I5 8GB 256SSD WIN 10 PRO,MPM00030475142,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,1345990,2021-09-16
+931,,HP ELITEBOOK X360 830 G6 2IN1 IPS TOUCHSCREEN W10P,MPM00030474994,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,1129990,2021-09-16
+932,,"NOTEBOOK HP 240 G7, I3-1005G1, 4GB, 1TB, 14 WIN10",2366664,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,449990,2021-09-16
+933,,HP ELITEBOOK X360 CONVERTIBLE 1040 G6 / INTEL CORE I5/ 8 GB RAM /512 SSD/14',MPM00025071608,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,1299990,2021-09-16
+934,,NOTEBOOK HP 240 G7 INTEL CORE I3-1005G1/ 4GB/ RAM 1TB/ HDD 14'/ SIN SISTEMA OPERATIVO,1456216,1 TB,Intel Core i3,4 GB,449990,2021-09-16
+935,,NOTEBOOK LENOVO THINKPAD T440P 14' INTEL CORE I7 8GB 500GB WIN10 REACONDICIONADO GRADO A,MPM00028110872,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,499000,2021-09-16
+936,,HP PAVILION GAMING LAPTOP 15-DK0014LA/INTEL CORE I5/20GB MEMORIA(16GB INT OPTANE+4GB RAM)/256GB SSD/NVIDIA GEFORCE GTX 1050/15.6,2000378488460P,256 GB SSD,Intel Core i5,4 GB,799990,2021-09-16
+937,,HP PROBOOK 450 440 445 455 470 G0 G1 NOTEBOOK FP06,MPM00012599680,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,56900,2021-09-16
+938,,"NOTEBOOK LENOVO THINKPAD X1 C7 I5-8365U, RAM 16GB, SSD 512GB, LED 14', W10P",MPM00028710106,512 GB SSD,Intel Core i5,16 GB,999990,2021-09-16
+939,,NOTEBOOK HP PROBOOK 440 G7 I5-10210U 8GB 256SSD WIN10PRO,MPM00013506696,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,759900,2021-09-16
+940,,NOTEBOOK LENOVO 14-IML I7-10510U 16GB 512GB WIN10PRO,MPM00028520438,512 GB,Intel Core i7,16 GB,949900,2021-09-16
+941,,NOTEBOOK HP ELITEBOOK REACONDICIONADO 8470P CORE I5-3210M; 8 GB DE RAM Y 480 GB,MPM00021147538,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,479990,2021-09-16
+942,,"NOTEBOOK LENOVO S340 INTEL CORE I5 1035G4, RAM 4GB, 1TB, W10H, 15.6.",MPM00027330170,1 TB,Intel Core i5,4 GB,569990,2021-09-16
+943,,NOTEBOOK HP 245 G7 RYZEN 3 FREEDOS 1TB,MPM00030240298,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,389000,2021-09-16
+944,,"NOTEBOOK LENOVO IDEAPAD FLEX 5 14ITL05 PENTIUM 7505, 4GB, 128GB SSD, 14 FHD, W10P",MPM00028871840,128 GB,Intel Pentium,4 GB,369990,2021-09-16
+945,,"LAPTOP LENOVO IDEAPAD L3, INTEL PENTIUM GOLD 6405U, 4 GB, 500 GB HDD, 15.6 HD, W10P",MPM00028715986,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,349990,2021-09-16
+946,,"NOTEBOOK LENOVO THINKBOOK 13S I7-10510U, 16GB, SSD 512GB 13.3 W10P",MPM00028715994,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,899990,2021-09-16
+947,,NOTEBOOK HP 240 G7 WINDOW 10H 512GB INTEL CELERON N4020 + MOCHILA REGALO,MPM00030240326,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,399990,2021-09-16
+948,,"NOTEBOOK BMAX S13A INTEL N3350, 8GB, 128GB SSD, WIN10, FHD 13.3'",MPM00024810816,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,299990,2021-09-16
+949,,NOTEBK LENOVO 14-IML I7-10510U 16GB 512GB WIN10HOME,MPM00028520588,512 GB,Intel Core i7,16 GB,919900,2021-09-16
+950,,"NOTEBOOK LENOVO THINKPAD T490, I7 8565U, RAM 16GB, 512GB SSD, 14.0, W10P",MPM00028719594,512 GB,Intel Core i7,16 GB,999990,2021-09-16
+951,,NOTEBOOK GEAR LOTUS 14 FHD CELERON N3350 4GB 128GB SSD WINDOWS 10 DARK GRAY,MPM00028878976,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,299990,2021-09-16
+952,,"NOTEBOOK DELL 5500 I7-10750H, RAM 8GB, SSD 512GB, LED 15.6', GTX 1650TI, W10H",MPM00019004422,512 GB SSD,AMD Ryzen™ 7,8 GB,1249990,2021-09-16
+953,,HP PROBOOK 645 G4 RYZEN 7 PRO 500GB 8GB VIDEO RX VEGA 14”HD WIN10 PRO,MPM00012484286,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,649000,2021-09-16
+954,,LENOVO LEGION Y545 GAMING CORE™ I7 1TB+256GB SSD 16GB 15.6' 144HZ NVIDIA® GTX 1660TI 6144MB,MPM00015353152,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,1299000,2021-09-16
+955,,LENOVO THINKBOOK 14 IIL INTEL CORE™ I7 10A GENERACION 512GB SSD 8GB 14” FHD LECTOR HUELLAS WIN 10 PRO,MPM00011620364,Almacenamiento no especificado,Procesador no especificado,8 GB,999000,2021-09-16
+956,,ACER ASPIRE 5 A515 15.6' HD TOUCHSCREEN INTEL CORE I5-1035G1 8GB RAM 256GB PCIE SSD WINDOWS 10,MPM00021880566,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,599000,2021-09-16
+957,,HP ELITEBOOK 820-G3 /INTEL CORE I5/ RAM8GB/HDD 256GB SSD/WINDOWS 10 PRO/12.5 FHD,MPM00005270168,Almacenamiento no especificado,Intel Core i5,8 GB,649000,2021-09-16
+958,,LENOVO THINKBOOK 13S CORE™I5-8265U 256GB SSD 8GB 13.3' (1920X1080) WIN10 PROFESIONAL,MPM00011415520,Almacenamiento no especificado,Intel Core i5,8 GB,699000,2021-09-16
+959,,LENOVO LEGION 5 INTEL CORE™ I7 10A GENERACIÓN 512GB SSD 16GB 15.6' FHD NVIDIA® GTX 1650TI,MPM00017543920,512 GB SSD,Intel Core i7,16 GB,1189000,2021-09-16
+960,,MSI GF65 THIN GAMING CORE™ I7 512GB SSD 32GB RAM 15.6 WIN10 NVIDIA GEFORCE GTX 1660 TI 6GB.,MPM00015353173,512 GB SSD,Intel Core i7,32 GB,1339000,2021-09-16
+961,,NOTEBOK GAMER ASUS ROG STRIX I7-10750 16GB 1TB PCIE SSD NVIDIA RTX 2070,MPM00016416098,1 TB SSD,Intel Core i7,16 GB,1799990,2021-09-16
+962,,NOTEBOOK GAMER ASUS ROG ZEPHYRUS G15 AMD RYZEN 9 4900HS 16GB RAM SSD 1TB,MPM00016416390,1 TB SSD,AMD Ryzen,16 GB,1849990,2021-09-16
+963,,LENOVO FLEX14' 2-IN-1 TOUCHSCREEN AMD RYZEN 7 14 FHD 1080P 8GB RAM 512GB SSD FINGERPRINT WIN 10,MPM00015353206,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,699000,2021-09-16
+964,,NOTEBOOK HP PROBOOK 6560B 15.6' INTEL CORE I5 4GB 320GB WEBCAM REACONDICIONADO GRADO A,MPM00029084966,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,384000,2021-09-16
+965,,HP PAVILION GAMING 15-DK1043LA CORE™ I5 8GB RAM 512GB SSD 15.6 FHD,MPM00031394012,512 GB SSD,Intel Core i5,8 GB,759990,2021-09-16
+966,,"NOTEBOOK THINKPAD L13 / INTEL CORE I7 10° GEN / 16GB RAM / 512 GB SSD / 13,3''",MPM00031394044,512 GB SSD,Intel Core i7,16 GB,969990,2021-09-16
+967,,NOTEBOOK DELL ULTRABOOK E7270 12.5' (I7 8GB 256GB SSD) REACONDICIONADO GRADO A,MPM00031093738,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,576990,2021-09-16
+968,,NOTEBOOK HP 340S G7 I5 8GB 256GB SSD 14 W10PRO,2530968,256 GB,Intel Core i5,8MB,704990,2021-09-16
+969,,NOTEBOOK HP 14-DK1025WM AMD RYZEN 3 4GB 1TB 14 WIN10,2485014,1 TB,AMD Ryzen™ 3,4 GB,409990,2021-09-16
+970,,LEGION SLIM 7I CORE I7 10° GEN 16GB RAM 512SSD GTX1660 15'',2479462,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,1719990,2021-09-16
+971,,NOTEBOOK HP 14-CF2087LA / INTEL® CELERON® N4020 / 4GB RAM / 128GB SSD / 14,2485019,128 GB SSD,Intel Celeron,4 GB,329990,2021-09-16
+972,,NOTEBOOK IDEAPAD D330 INTEL 4GB RAM 64GB 10'' LENOVO,MPM00031467106,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,369990,2021-09-16
+973,,HP PAVILION GAMING LAPTOP 15.6 I5-10300H 8GB 256GB GTX 1650 W10,MPM00031784610,512 GB,Intel Core i5,8 GB,799990,2021-09-16
+974,,"HEROBOOK PRO INTEL CELERON/ 8GB/ 256GB SSD/ 14,1'/ W10",MPM00031774284,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,339990,2021-09-16
+975,,"NOTEBOOK ASUS VIVOBOOK X413E - I3, 128GB SSD, 4GB, 14",2485006,128 GB SSD,Intel Core i3,4 GB,539990,2021-09-16
+976,,NOTEBOOK YOGA 7I CORE I5 11VA GEN 12GB RAM 512GB SSD + LÁPIZ,MPM00031469464,Almacenamiento no especificado,Procesador no especificado,Memoria Ram no especificada,1119990,2021-09-16
+977,,NOTEBOOK GAMING OMEN 15-EK0007LA CORE I7 16GB RAM +32GB OPTANE 512GB SSD 15.6,2485023,512 GB SSD,Intel Core i7,16 GB,1649990,2021-09-16

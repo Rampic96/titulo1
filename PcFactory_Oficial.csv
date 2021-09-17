@@ -1,0 +1,49 @@
+,Nombre,Código,Almacenamiento,Procesador,Memoria Ram,Precio
+0,HP Chromebook,42710,32GB eMMC,"AMD® A4-9120, 1,6GHz hasta 2,4GHz (1M Caché L2)",4 GB (1x4GB) DDR4 2666Mhz (Máx. 32GB de Memoria RAM) X Slot,237090
+1,HP 240 G7,38020,"SATA de 500 GB, 5400 rpm","Intel® Celeron® N4020, 1,1 GHz hasta 2,8 GHz (4MB caché)",4GB SDRAM DDR4-2400Mhz (1x4GB)(Máx. 8GB de Memoria RAM) 1 Slot,319590
+2,Asus X515MA-BR288T,41517,"500GB SATA 5400RPM 2.5"" HDD","Intel® Celeron® N4020, 1.1GHz hasta 2.8GHz (4MB Caché)",4GB DDR4 SO-DIMM (Máx. 8GB de Memoria RAM) 1X Slot,349990
+3,HP 250 G8,41940,1TB Disco duro SATA de 5400 RPM,"Intel® Core™ 3-1005G1, 1,2GHz hasta 3,4GHz (4M Caché L3)",4GB RAM DDR4-2666MHz (1x4GB)(Máx. 16GB de Memoria RAM) 2 Slot,391790
+4,HP HP 348 G7,42392,HDD 1 TB 5400RPM,"Intel® Core™ i3-10110U, 2,10GHz hasta 4,10GHz (4MB Caché)",4GB DDR4 2666Mhz (Máx. 16 GB de Memoria RAM) 2 Slot,391790
+5,Asus X412FA-EB1257T,40077,256GB SSD / M.2 NVMe™ PCIe® 3.0,"Intel® Pentium® Gold 5405U, frecuencia básica 2.3 GHz (2M Cache, hasta 2.3 GHz)",4GB DDR4 on board (Máx memoria RAM 4GB),412390
+6,HP 240 G7,38857,SATA de 1 TB y 5400 rpm,"Intel® Core™ i3-1005G1, 1,2GHz hasta 3,4GHz (4MB caché)",4 GB de SDRAM DDR4-2666 (1x4GB) (Máx. 16GB de Memoria RAM) 2 Slot,432990
+7,HP 14-ck2091la,39522,128GB SSD SATA M.2 ,"Intel® Core™ i3-10110U, 2,1GHz hasta 4,1GHz (4M Caché)",4GB SDRAM DDR4-2666Mhz (1x 4GB) (máximo memoria RAM 16GB),432990
+8,HP Pavilion x360,42691,SSD PCIe® NVMe™ M.2 de 256GB,"Intel® Pentium Gold 7505, hasta 3,5GHz (4MB Caché L3)",4 GB DDR4-3200MHz (1x4GB) (Máx.16 GB de Memoria RAM) X Slot,453590
+9,Asus Aspire 3 A314-22-R522-1,42823,256GB SSD PCI Express,"AMD Athlon™ 3050U, 2.30GHz hasta 3.20GHz (4MB Caché)",12GB DDR4 SDRAM 2400/2666/3200Mhz (4GB On Board + 1 Slot)(Máx. 12GB de Memoria RAM) 1 Slot,453590
+10,HP 14-dq2026la,43015,Unidad de estado sólido Intel® PCIe® NVMe™ M.2 de 256 GB,"Intel® Core™ i3-1115G4, hasta 4,1GHz (6MB caché L3)",4GB RAM DDR4-3200MHz (1x 4GB) + 16GB Intel® Optane™ (Máx. 4GB de Memoria RAM) 1 Slot (Ranura no accesible para el usuario),453590
+11,HP 15-ef1018la,41355,256GB SSD PCIe® NVMe™ M.2,"AMD Ryzen™ 5 4500U, 2,3GHz hasta 4,0GHz (8MB Caché L3)",8 GB de SDRAM DDR4-2666 (1x8GB) (Máx. 16 GB de Memoria RAM) X 2 Slot,525790
+12,Asus Aspire 3 A314-22-R56E-1,43016,256GB SSD PCI Express,"AMD Ryzen™ 3 3250U, 2.60GHz hasta 3.50GHz (4MB Caché)",12GB (4GB On Board + 1 Slot)(Máx. 12GB de Memoria RAM) 1 Slot,549990
+13,Acer Aspire 5 A515-54-34VM-2,42435,512GB SSD PCI Express,"Intel® Core™ i3 10110U, 2.10GHz hasta 4.10GHz (4MB Caché)",12GB DDR4 SDRAM 2400/2666/3200 (4GB On Board + 1 Slot)(Máx. 20GB de Memoria RAM) 1 Slot,599990
+14,HP 14-dy0501la,43061,Unidad de estado sólido PCIe® NVMe™ M.2 de 256 GB,"Intel® Core™ i3-1125G4, hasta 3,70GHz (8MB caché)",8 GB de RAM DDR4-3200 MHz (2x4GB)(Máx. 16GB de Memoria RAM) 2 Slot ,639190
+15,Huawei Matebook D 14,42359,SSD NVMe PCIe de 512 GB,"Intel® Core™ i5-10210U, 1,60GHz hasta 4,20GHz (6MB caché)",8GB DDR4 2400 mhz ,721690
+16,HP 15-ec1026la,37289,256GB SSD PCIe®  NVMe™ M.2,"AMD Ryzen™ 5 4600H, 3.0GHz hasta 4,0 GHz (3MB caché)",8GB SDRAM DDR4 3200Mhz (Máx. 16GB de Memoria RAM) 2 Slot ,731990
+17,Acer Nitro 5 AN515-54-59UV-7,38217,"1TB HDD 5400rpm 2.5"" SATA + 128GB SSD","Intel® Core™ i5-9300H, 2.40GHz hasta 4.10GHz (8M caché)",8GB DDR4 SDRAM (Máx. 32GB de Memoria RAM) 2 Slot,752590
+18,Asus X571GT-BQ930T,41518,512GB M.2 NVMe™ PCIe® 3.0 SSD,"Intel® Core™ i5-9300H, 2.4GHz hasta 4.1GHz (8MB Caché)",8GB DDR4 (4GB DDR4 on board + 4GB DDR4 SO-DIMM) (Máx. 12 GB de Memoria RAM) 1Slot,783490
+19,Asus ideapad S540-13IML,42015,512GB SSD M.2 2280 PCIe 3.0x4 NVMe,"Intel® Core™ i5-10210U, 1.6GHz hasta 4.2GHz (6M Caché)",8GB Soldered DDR4-2666Mhz (Máx.16 GB de Memoria RAM) X Slot,804090
+20,Asus ideapad S540-13IML,42528,512GB SSD M.2 2280 PCIe 3.0x4 NVMe,"Intel® Core™ i5-10210U, 1.6GHz hasta 4.2GHz (6M Caché)",8GB Soldered DDR4-2666Mhz (Máx.16 GB de Memoria RAM) X Slot,804090
+21,Acer Nitro 5 AN515-55-56P2-2,42048,512GB SSD PCI Express,"Intel® Core™ i5-10300H, 2.50GHz hasta 4.50GHz (8M Caché)",16GB DDR4 SODIMM 2400/2666/3200Mhz (Máx. 32GB de Memoria RAM) 2 Slot,824790
+22,HP 15-dk1028la,42347,256GB SSD / Unidad de estado sólido Intel,"Intel® Core™ i5-10300H, 2,5 GHz hasta 4,5GHz (8MB Caché L3)",8GB SDRAM DDR4-2933Mhz (1x8GB) + 16GB Intel Optane (Máx. 32GB de Memoria RAM) X 2 Slot,824790
+23,Asus D433IA-EB934R,43186,512GB M.2 NVMe™ PCIe® 3.0 SSD,"AMD Ryzen™ 7 4700U, 2.0GHz hasta 4.1GHz (8MB Caché)",16GB DDR4 2666 MHz (on board)(Máx.16 GB de Memoria RAM) X Slot,845390
+24,HP Pavilion Aero 13-be0501la,42281,Unidad de estado sólido M.2 PCIe® NVMe™ de 512 GB,"AMD Ryzen™ 5 5600U, 2,3 GHz hasta 4,2GHz (16MB Caché L3)",8GB RAM DDR4-3200 MHz (integrada)(Máx. GB de Memoria RAM) X Slot,849990
+25,HP 15-eh0011la,43062,Unidad de estado sólido M.2 PCIe® NVMe™ de 512 GB,"AMD Ryzen™ 7 4700U, 2,0GHz hasta 4,1GHz (8MB caché L3)",16 GB de SDRAM DDR4-3200 (2x8GB)(Máx. 16GB de Memoria RAM) 2 Slot ,879990
+26,Lenovo ThinkPad L14,42019,256GB SSD M.2 2242 PCIe 3.0x2 NVMe,"Intel® Core™ i5-10210U, 1,60GHz hasta 4.2GHz (6MB Cache)",8GB SO-DIMM DDR4-2666Mhz (Máx. 64GB de Memoria RAM) 2 Slot,899990
+27,Lenovo ThinkBook,42192,SSD M.2 2242 de hasta 512 GB,"Intel® Core™ i7-10510U, 1,8GHz hasta 4,9GHz (8MB Caché)",8GB DDR4-2666Mhz (Soldered) (Máx. 40GB de Memoria RAM) 1 Slot,919990
+28,HP 13-ba1123la,39513,Unidad de estado sólido PCIe® NVMe™ M.2 de 256 GB ,"Intel® Core™ i5-1135G7,  hasta 4.2 GHz (8M Caché)",8GB de SDRAM DDR4-2933 (incorporada) (8GB Máx. Memoria) + Intel® Optane™ de 16GB,927790
+29,Lenovo Ideapad s540,40025,512GB SSD M.2 2280 PCIe 3.0x4 NVMe,"Intel Core i7-10510U, desde 1.8GHz hasta 4.9GHz",16GB DDR4 2666MHz ( Máx. RAM soportada 16GB),948490
+30,Apple Macbook Air,40893,SSD de 256 GB,M1 de Apple 8 núcleos con 4 núcleos de rendimiento y 4 de eficiencia,8 GB,1010290
+31,Apple Macbook Air,41980,SSD de 256 GB,M1 de Apple 8 núcleos con 4 núcleos de rendimiento y 4 de eficiencia,8 GB,1010290
+32,Apple Macbook Air,40890,SSD de 256 GB,M1 de Apple 8 núcleos con 4 núcleos de rendimiento y 4 de eficiencia,8 GB,1010290
+33,Acer Swift 3 SF313-53-74FL,40965,512GB SSD PCI Express,"Intel® Core™ i7-1165G7, 2.80GHz hasta 4.70GHz",16GB LPDDR4X 4266MHz,1129990
+34,HP OMEN 15-en0002la,40501,512GB SSD M.2 PCIe® NVMe™,"AMD Ryzen™ 7 4800H, 2,9GHz hasta 4,3GHz (4MB caché L2)",16GB SDRAM DDR4-3200Mhz (2x8GB) (Máx. 16GB de Memoria RAM) 2 Slot ,1185590
+35,Asus UX435EG-AI094TS,37724,512GB SSD M.2 NVMe™ PCIe®,"Intel® Core™ i5-1135G7, 2.4 GHz hasta 4.2GHz (8M Cache)",8GB LPDDR4X (on board) + 32GB de memoria Intel® Optane™(Máx. 8GB de Memoria RAM) 1 Slot,1199990
+36,Asus FX516PC-HN021T,41903,512GB M.2 NVMe™ PCIe® 3.0 SSD,"Intel® Core™ i7-11370H, 3.3GHz hasta  4.8GHz (12MB Caché)",8GB DDR4 3200Mhz (on board)(Máx. 32GB de Memoria RAM) 1 Slot,1206190
+37,Apple Macbook Air,40894,SSD de 512 GB,M1 de Apple 8 núcleos con 4 núcleos de rendimiento y 4 de eficiencia,8 GB,1237090
+38,Apple Macbook Air,42014,SSD de 512 GB,M1 de Apple 8 núcleos con 4 núcleos de rendimiento y 4 de eficiencia,8 GB,1237090
+39,Apple Macbook Air,40892,SSD de 512 GB,M1 de Apple 8 núcleos con 4 núcleos de rendimiento y 4 de eficiencia,8 GB,1237090
+40,Huawei Mate Xpro,42708,SSD NVMe PCIe de 512 GB,"Intel® Core™ i5-1135G7, hasta 4,20GHz (8MB Caché)",16GB LPDDR4x (Máx. 16GB de Memoria RAM) 1 Slot,1237090
+41,Apple Macbook Pro,41175,SSD de 256 GB,M1 de Apple 8 núcleos con 4 núcleos de rendimiento y 4 de eficiencia,8 GB,1288690
+42,Apple Macbook Pro,42282,SSD de 256 GB,M1 de Apple 8 núcleos con 4 núcleos de rendimiento y 4 de eficiencia,8 GB,1288690
+43,Asus ROG Flow X13,41570,512GB M.2 2230 NVMe™ PCIe® 3.0 SSD,"AMD Ryzen™ 7 5800HS, 3.0GHz hasta 4.3GHz (16M Caché)",16GB LPDDR4X (on board)(Máx. 16GB de Memoria RAM) 1 Slot,1340190
+44,HP 13-ba1124la,39511,512GB SSD / Unidad de estado sólido Intel® PCIe® NVMe™ M.2,"Intel® Core™ i7-1165G7,  hasta 4.7 GHz (12M Caché)",8GB SDRAM DDR4 2933Mhz + 32GB Intel® Optane™(8GB Máx. Memoria),1340190
+45,Lenovo ThinkPad X13,41852,512GB SSD M.2 2280 PCIe 3.0x4 NVMe,"Intel® Core™ i5-10210U, hasta 4.2GHz (6MB Caché)",16GB DDR4-2666Mhz (Máx. 16 GB de Memoria RAM soldada) ,1349990
+46,Lenovo Yoga 9 14ITL5,40625,1TB SSD M.2 NVME,"Intel® Core™ i5 -1135G7 hasta 4,20 GHz.","16GB Soldered LPDDR4x-4266(Memoria soldada al tablero del sistema, sin ranuras)",1499990
+47,Apple Macbook Pro,41174,SSD de 512 GB,M1 de Apple 8 núcleos con 4 núcleos de rendimiento y 4 de eficiencia,8 GB,1546390
